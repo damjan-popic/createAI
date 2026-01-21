@@ -1,35 +1,33 @@
-# createAI — Stanza annotation pipeline (split interviews)
+# createAI
 
-## What this does
-- Takes a TSV where each interview is split into section columns (e.g. `u_*`, `a_*`)
-- Runs **Stanza full English stack**: tokenize + MWT + POS + lemma + **dependency parse (deprel/head)**
-- Writes **4 outputs** for analysis/sharing:
-  - `token_level` (one row per word; full annotations incl. `head`, `deprel`)
-  - `section_summary` (counts per transcript × role × section; incl. verb/noun counts)
-  - `lemma_summary` (lemma frequencies per transcript × role × section × POS)
-  - `transcript_summary` (section counts summed per transcript; role=`user`/`assistant`/`all`)
-- Optional: exports **CoNLL-U** files
+## Output
+  - `token_level` – ena vrstica na besedo (vključno s `head`, `deprel`)
+  - `section_summary` – statistike po intervjujih × vloga × sekcija (glagoli/samostalniki)
+  - `lemma_summary` – frekvence lem po sekcijah
+  - `transcript_summary` – seštevki po intervjujih
+- 
+Po želji izvozi **CoNLL-U**
 
-## Input format
-- TSV with a `transcript_id` column
-- Section columns:
-  - user sections start with `u_` (e.g. `u_driver`)
-  - assistant sections start with `a_` (e.g. `a_driver`)
-- Optional accidental index column `Unnamed: 0` is ignored if present
+## Vhod
+- TSV z obveznim stolpcem `transcript_id`
+- Sekcije:
+  - uporabnik: `u_*`
+  - AI: `a_*`
 
-## Dependencies
-  - `stanza`
-  - `pandas`
-  - `tqdm`
-  - `pyarrow` (for Parquet)
-  - `openpyxl` (only for `--format xlsx` or `--extra xlsx`)
 
-## CLI
-
+## Dependencies 
 python -m pip install -U stanza pandas tqdm pyarrow openpyxl
+
+## How to run
 
 python stanza_tag_sections.py \
   --input interview_split.tsv \
   --outdir stanza_out \
-  --which user \
+  --which both \
   --extra csv
+## Flags
+--which : user | assistant | both
+--format : primarni izhod (privzeto parquet)
+--extra : dodatni formati (csv, tsv, …)
+--include_text : vključi surovo besedilo
+--conllu : izvozi CoNLL-U
