@@ -1,0 +1,126 @@
+group,lemma,count
+"Art, design, crafts",AI,514
+"Art, design, crafts",idea,165
+"Art, design, crafts",image,150
+"Art, design, crafts",work,134
+"Art, design, crafts",design,107
+"Art, design, crafts",time,99
+"Art, design, crafts",project,97
+"Art, design, crafts",thing,80
+"Art, design, crafts",tool,74
+"Art, design, crafts",person,70
+"Art, design, crafts",art,69
+"Art, design, crafts",process,62
+"Art, design, crafts",model,55
+"Art, design, crafts",example,53
+"Art, design, crafts",video,52
+"Art, design, crafts",artist,49
+"Art, design, crafts",lot,48
+"Art, design, crafts",content,44
+"Art, design, crafts",way,42
+"Art, design, crafts",client,37
+"Art, design, crafts",color,36
+"Art, design, crafts",writing,36
+"Art, design, crafts",media,34
+"Art, design, crafts",part,34
+"Art, design, crafts",question,34
+Audiovisual,AI,143
+Audiovisual,idea,52
+Audiovisual,music,51
+Audiovisual,tool,50
+Audiovisual,time,44
+Audiovisual,person,42
+Audiovisual,thing,37
+Audiovisual,project,34
+Audiovisual,lot,31
+Audiovisual,work,29
+Audiovisual,song,26
+Audiovisual,video,25
+Audiovisual,process,24
+Audiovisual,film,22
+Audiovisual,image,19
+Audiovisual,art,18
+Audiovisual,artist,18
+Audiovisual,client,18
+Audiovisual,example,18
+Audiovisual,production,17
+Audiovisual,task,17
+Audiovisual,audio,14
+Audiovisual,model,14
+Audiovisual,script,14
+Audiovisual,way,14
+Content writing,AI,228
+Content writing,time,64
+Content writing,idea,56
+Content writing,writing,56
+Content writing,project,50
+Content writing,content,40
+Content writing,person,38
+Content writing,thing,37
+Content writing,way,35
+Content writing,work,34
+Content writing,lot,32
+Content writing,process,32
+Content writing,style,31
+Content writing,model,29
+Content writing,asset,25
+Content writing,bit,23
+Content writing,article,22
+Content writing,client,22
+Content writing,tool,22
+Content writing,writer,22
+Content writing,game,19
+Content writing,image,19
+Content writing,character,18
+Content writing,day,18
+Content writing,editing,18
+Fiction writing,AI,404
+Fiction writing,writing,109
+Fiction writing,time,104
+Fiction writing,idea,99
+Fiction writing,character,86
+Fiction writing,story,86
+Fiction writing,book,83
+Fiction writing,work,80
+Fiction writing,thing,77
+Fiction writing,research,74
+Fiction writing,person,69
+Fiction writing,writer,64
+Fiction writing,model,63
+Fiction writing,novel,63
+Fiction writing,way,59
+Fiction writing,process,49
+Fiction writing,project,48
+Fiction writing,lot,46
+Fiction writing,scene,40
+Fiction writing,question,36
+Fiction writing,plot,35
+Fiction writing,voice,33
+Fiction writing,example,32
+Fiction writing,point,29
+Fiction writing,decision,28
+Mix,AI,185
+Mix,idea,68
+Mix,image,55
+Mix,model,55
+Mix,work,47
+Mix,time,41
+Mix,process,34
+Mix,thing,33
+Mix,lot,31
+Mix,person,25
+Mix,writing,24
+Mix,video,23
+Mix,story,21
+Mix,way,21
+Mix,tool,20
+Mix,article,19
+Mix,content,19
+Mix,project,19
+Mix,example,18
+Mix,prompt,17
+Mix,book,16
+Mix,client,16
+Mix,name,16
+Mix,research,15
+Mix,bit,14

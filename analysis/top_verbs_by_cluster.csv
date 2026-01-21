@@ -1,0 +1,126 @@
+group,lemma,count
+"Art, design, crafts",use,317
+"Art, design, crafts",have,237
+"Art, design, crafts",create,143
+"Art, design, crafts",do,137
+"Art, design, crafts",make,121
+"Art, design, crafts",help,109
+"Art, design, crafts",think,109
+"Art, design, crafts",feel,92
+"Art, design, crafts",work,83
+"Art, design, crafts",get,79
+"Art, design, crafts",take,79
+"Art, design, crafts",give,76
+"Art, design, crafts",want,75
+"Art, design, crafts",go,73
+"Art, design, crafts",need,73
+"Art, design, crafts",see,72
+"Art, design, crafts",ask,70
+"Art, design, crafts",generate,66
+"Art, design, crafts",look,66
+"Art, design, crafts",find,64
+"Art, design, crafts",come,63
+"Art, design, crafts",be,49
+"Art, design, crafts",know,49
+"Art, design, crafts",say,46
+"Art, design, crafts",sound,39
+Audiovisual,use,115
+Audiovisual,have,83
+Audiovisual,get,57
+Audiovisual,make,55
+Audiovisual,think,53
+Audiovisual,do,43
+Audiovisual,generate,33
+Audiovisual,help,33
+Audiovisual,work,33
+Audiovisual,write,32
+Audiovisual,be,31
+Audiovisual,create,31
+Audiovisual,find,30
+Audiovisual,see,29
+Audiovisual,try,29
+Audiovisual,want,28
+Audiovisual,need,26
+Audiovisual,ask,23
+Audiovisual,take,23
+Audiovisual,feel,20
+Audiovisual,look,20
+Audiovisual,give,17
+Audiovisual,go,17
+Audiovisual,know,17
+Audiovisual,come,16
+Content writing,use,144
+Content writing,have,128
+Content writing,write,67
+Content writing,do,65
+Content writing,think,60
+Content writing,make,59
+Content writing,help,53
+Content writing,ask,52
+Content writing,get,50
+Content writing,find,42
+Content writing,work,39
+Content writing,create,38
+Content writing,feel,38
+Content writing,see,36
+Content writing,take,36
+Content writing,want,35
+Content writing,give,31
+Content writing,need,31
+Content writing,go,30
+Content writing,come,25
+Content writing,generate,25
+Content writing,look,25
+Content writing,start,25
+Content writing,like,21
+Content writing,tell,21
+Fiction writing,use,254
+Fiction writing,have,189
+Fiction writing,write,150
+Fiction writing,make,133
+Fiction writing,do,113
+Fiction writing,think,112
+Fiction writing,help,107
+Fiction writing,get,90
+Fiction writing,feel,83
+Fiction writing,want,83
+Fiction writing,take,70
+Fiction writing,ask,68
+Fiction writing,see,67
+Fiction writing,go,63
+Fiction writing,be,59
+Fiction writing,give,59
+Fiction writing,come,57
+Fiction writing,create,57
+Fiction writing,work,55
+Fiction writing,know,50
+Fiction writing,find,49
+Fiction writing,say,43
+Fiction writing,need,42
+Fiction writing,start,38
+Fiction writing,tell,36
+Mix,use,131
+Mix,have,101
+Mix,think,59
+Mix,come,50
+Mix,do,50
+Mix,help,48
+Mix,get,42
+Mix,create,40
+Mix,generate,38
+Mix,feel,35
+Mix,make,35
+Mix,work,34
+Mix,give,32
+Mix,ask,30
+Mix,go,30
+Mix,take,29
+Mix,say,28
+Mix,want,28
+Mix,be,25
+Mix,know,25
+Mix,need,25
+Mix,write,24
+Mix,find,23
+Mix,see,22
+Mix,edit,21

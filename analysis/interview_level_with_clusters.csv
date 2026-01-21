@@ -1,0 +1,126 @@
+transcript_id,group,long_cluster,role,n_sents,n_words,n_verbs,n_aux,n_verbs_total,n_nouns,n_propn,n_nouns_total
+creativity_0000,Audiovisual,4,user,27,398,51,34,85,82,8,90
+creativity_0001,Audiovisual,4,user,49,856,100,49,149,166,12,178
+creativity_0002,Content writing,2,user,23,521,91,28,119,96,6,102
+creativity_0003,Content writing,2,user,40,756,94,50,144,155,8,163
+creativity_0004,Audiovisual,4,user,29,834,107,67,174,167,5,172
+creativity_0005,"Art, design, crafts",1,user,44,851,111,64,175,125,25,150
+creativity_0006,Fiction writing,0,user,62,1644,214,93,307,274,13,287
+creativity_0007,"Art, design, crafts",1,user,48,951,117,55,172,185,23,208
+creativity_0008,Mix,3,user,41,731,98,56,154,121,7,128
+creativity_0009,"Art, design, crafts",1,user,33,744,108,50,158,144,1,145
+creativity_0010,Content writing,2,user,58,1476,213,79,292,268,16,284
+creativity_0011,"Art, design, crafts",1,user,42,1289,176,68,244,233,10,243
+creativity_0012,Fiction writing,0,user,38,710,81,63,144,133,3,136
+creativity_0013,Mix,3,user,28,711,85,34,119,144,11,155
+creativity_0014,"Art, design, crafts",1,user,19,714,95,52,147,130,13,143
+creativity_0015,"Art, design, crafts",1,user,31,673,96,34,130,117,8,125
+creativity_0016,Content writing,2,user,30,621,83,31,114,142,7,149
+creativity_0017,Fiction writing,0,user,29,894,122,50,172,181,6,187
+creativity_0018,Audiovisual,4,user,29,689,84,47,131,143,0,143
+creativity_0019,"Art, design, crafts",1,user,29,553,81,37,118,96,4,100
+creativity_0020,"Art, design, crafts",1,user,30,591,76,36,112,121,10,131
+creativity_0021,Fiction writing,0,user,30,841,94,49,143,173,7,180
+creativity_0022,"Art, design, crafts",1,user,56,1400,201,75,276,301,13,314
+creativity_0023,"Art, design, crafts",1,user,29,507,70,35,105,116,8,124
+creativity_0024,Content writing,2,user,33,1286,149,90,239,204,13,217
+creativity_0025,"Art, design, crafts",1,user,26,410,56,32,88,67,2,69
+creativity_0026,Fiction writing,0,user,37,1120,142,70,212,214,6,220
+creativity_0027,"Art, design, crafts",1,user,35,867,140,64,204,137,18,155
+creativity_0028,Fiction writing,0,user,24,601,72,46,118,105,4,109
+creativity_0029,"Art, design, crafts",1,user,51,876,127,59,186,141,5,146
+creativity_0030,Fiction writing,0,user,39,931,135,57,192,123,6,129
+creativity_0031,Audiovisual,4,user,39,973,129,70,199,145,7,152
+creativity_0032,Fiction writing,0,user,46,1018,167,66,233,140,12,152
+creativity_0033,Mix,3,user,69,1643,234,105,339,262,23,285
+creativity_0034,Fiction writing,0,user,42,983,128,63,191,158,10,168
+creativity_0035,"Art, design, crafts",1,user,19,360,65,19,84,61,5,66
+creativity_0036,"Art, design, crafts",1,user,38,691,95,50,145,133,10,143
+creativity_0037,"Art, design, crafts",1,user,47,813,107,43,150,158,8,166
+creativity_0038,Content writing,2,user,27,518,74,43,117,90,0,90
+creativity_0039,"Art, design, crafts",1,user,35,740,97,52,149,146,12,158
+creativity_0040,Fiction writing,0,user,29,600,72,24,96,135,24,159
+creativity_0041,Audiovisual,4,user,19,535,66,32,98,109,3,112
+creativity_0042,"Art, design, crafts",1,user,28,824,129,42,171,131,12,143
+creativity_0043,Fiction writing,0,user,25,429,56,13,69,109,3,112
+creativity_0044,Content writing,2,user,47,1269,146,74,220,227,25,252
+creativity_0045,Fiction writing,0,user,44,838,102,65,167,129,13,142
+creativity_0046,Mix,3,user,38,1097,149,56,205,186,8,194
+creativity_0047,Fiction writing,0,user,35,759,95,48,143,153,4,157
+creativity_0048,Fiction writing,0,user,39,1073,158,77,235,167,9,176
+creativity_0049,Audiovisual,4,user,21,349,41,21,62,64,4,68
+creativity_0050,Mix,3,user,32,700,96,45,141,122,13,135
+creativity_0051,Fiction writing,0,user,47,649,83,41,124,115,5,120
+creativity_0052,Audiovisual,4,user,62,1029,121,55,176,189,8,197
+creativity_0053,Fiction writing,0,user,32,852,94,67,161,156,3,159
+creativity_0054,Audiovisual,4,user,43,931,136,51,187,180,6,186
+creativity_0055,"Art, design, crafts",1,user,24,601,90,33,123,110,6,116
+creativity_0056,Content writing,2,user,38,850,132,51,183,132,11,143
+creativity_0057,Content writing,2,user,32,787,124,41,165,140,4,144
+creativity_0058,Fiction writing,0,user,84,1532,174,102,276,238,17,255
+creativity_0059,Fiction writing,0,user,34,780,108,69,177,129,13,142
+creativity_0060,Fiction writing,0,user,41,692,108,47,155,97,5,102
+creativity_0061,"Art, design, crafts",1,user,42,1263,161,77,238,245,15,260
+creativity_0062,"Art, design, crafts",1,user,29,728,89,38,127,184,5,189
+creativity_0063,Fiction writing,0,user,42,840,107,56,163,137,7,144
+creativity_0064,Fiction writing,0,user,34,721,103,48,151,125,2,127
+creativity_0065,Content writing,2,user,24,437,49,32,81,85,8,93
+creativity_0066,Mix,3,user,59,1209,163,90,253,224,10,234
+creativity_0067,Audiovisual,4,user,25,436,53,30,83,77,6,83
+creativity_0068,Mix,3,user,32,759,108,52,160,119,6,125
+creativity_0069,Content writing,2,user,64,1234,188,86,274,180,16,196
+creativity_0070,Fiction writing,0,user,59,1520,196,120,316,262,17,279
+creativity_0071,Mix,3,user,44,1300,181,79,260,250,9,259
+creativity_0072,Audiovisual,4,user,51,1188,165,79,244,205,5,210
+creativity_0073,Fiction writing,0,user,45,1387,209,93,302,249,13,262
+creativity_0074,Audiovisual,4,user,39,848,124,64,188,159,5,164
+creativity_0075,Content writing,2,user,24,510,62,31,93,99,12,111
+creativity_0076,Audiovisual,4,user,24,849,112,32,144,168,9,177
+creativity_0077,Mix,3,user,26,691,101,45,146,115,9,124
+creativity_0078,"Art, design, crafts",1,user,39,991,137,59,196,193,8,201
+creativity_0079,"Art, design, crafts",1,user,26,491,64,26,90,92,12,104
+creativity_0080,Mix,3,user,37,920,127,62,189,159,3,162
+creativity_0081,Fiction writing,0,user,46,1009,127,64,191,200,7,207
+creativity_0082,Content writing,2,user,38,715,86,51,137,138,7,145
+creativity_0083,Fiction writing,0,user,37,872,107,48,155,162,9,171
+creativity_0084,Content writing,2,user,54,1424,195,111,306,217,10,227
+creativity_0085,"Art, design, crafts",1,user,21,305,52,18,70,52,15,67
+creativity_0086,Fiction writing,0,user,41,849,112,61,173,146,13,159
+creativity_0087,Content writing,2,user,29,733,102,33,135,144,17,161
+creativity_0088,Content writing,2,user,35,722,79,44,123,135,5,140
+creativity_0089,"Art, design, crafts",1,user,64,1481,227,92,319,258,11,269
+creativity_0090,"Art, design, crafts",1,user,30,1017,133,71,204,181,9,190
+creativity_0091,"Art, design, crafts",1,user,31,732,94,43,137,151,5,156
+creativity_0092,Mix,3,user,76,2020,218,121,339,351,34,385
+creativity_0093,"Art, design, crafts",1,user,17,429,62,21,83,91,2,93
+creativity_0094,"Art, design, crafts",1,user,28,530,75,28,103,103,0,103
+creativity_0095,"Art, design, crafts",1,user,52,1156,137,81,218,191,7,198
+creativity_0096,Fiction writing,0,user,44,1096,149,102,251,166,11,177
+creativity_0097,Content writing,2,user,36,1092,149,62,211,213,4,217
+creativity_0098,Fiction writing,0,user,36,1214,157,79,236,201,11,212
+creativity_0099,"Art, design, crafts",1,user,38,790,115,50,165,139,5,144
+creativity_0100,Audiovisual,4,user,40,1024,145,63,208,204,9,213
+creativity_0101,Mix,3,user,68,2003,295,101,396,369,13,382
+creativity_0102,Fiction writing,0,user,55,1726,215,120,335,271,7,278
+creativity_0103,"Art, design, crafts",1,user,41,1041,142,72,214,241,8,249
+creativity_0104,Content writing,2,user,64,1166,154,100,254,202,6,208
+creativity_0105,Audiovisual,4,user,18,501,65,32,97,93,3,96
+creativity_0106,Fiction writing,0,user,39,964,133,83,216,147,3,150
+creativity_0107,"Art, design, crafts",1,user,24,552,79,33,112,98,3,101
+creativity_0108,Audiovisual,4,user,19,504,78,34,112,78,2,80
+creativity_0109,"Art, design, crafts",1,user,34,950,130,54,184,177,10,187
+creativity_0110,"Art, design, crafts",1,user,31,737,114,35,149,133,7,140
+creativity_0111,Content writing,2,user,42,818,113,41,154,157,7,164
+creativity_0112,"Art, design, crafts",1,user,39,863,118,52,170,175,8,183
+creativity_0113,"Art, design, crafts",1,user,71,1229,146,78,224,245,14,259
+creativity_0114,Audiovisual,4,user,28,362,50,15,65,77,1,78
+creativity_0115,"Art, design, crafts",1,user,51,1399,182,97,279,269,10,279
+creativity_0116,Fiction writing,0,user,34,856,104,66,170,173,17,190
+creativity_0117,"Art, design, crafts",1,user,36,570,80,31,111,95,10,105
+creativity_0118,Mix,3,user,37,669,105,29,134,113,7,120
+creativity_0119,Audiovisual,4,user,39,897,113,55,168,156,10,166
+creativity_0120,"Art, design, crafts",1,user,23,532,78,35,113,85,4,89
+creativity_0121,Fiction writing,0,user,69,1379,216,99,315,211,7,218
+creativity_0122,Content writing,2,user,39,808,115,58,173,133,3,136
+creativity_0123,"Art, design, crafts",1,user,81,1295,162,100,262,238,23,261
+creativity_0124,"Art, design, crafts",1,user,36,889,114,39,153,175,7,182
