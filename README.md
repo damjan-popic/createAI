@@ -31,5 +31,5 @@ python -m pip install -U stanza pandas tqdm pyarrow openpyxl
 python stanza_tag_sections.py \
   --input interview_split.tsv \
   --outdir stanza_out \
-  --which both \
+  --which user \
   --extra csv
