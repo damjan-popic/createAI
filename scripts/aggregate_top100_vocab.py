@@ -13,7 +13,7 @@ nouns = pd.read_csv(nouns_path)
 
 
 def make_vocab(df: pd.DataFrame, upos_label: str) -> pd.DataFrame:
-    # "Document" unit here = transcript_id × section
+    
     df["doc_unit"] = df["transcript_id"].astype(str) + "||" + df["section"].astype(str)
 
     vocab = (

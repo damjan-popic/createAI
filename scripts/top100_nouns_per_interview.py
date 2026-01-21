@@ -6,7 +6,7 @@ INPATH = Path("stanza_out/lemma_summary.parquet")
 OUTDIR = Path("analysis")
 OUTDIR.mkdir(exist_ok=True)
 
-# Load lemma-level summary
+
 lem = pd.read_parquet(INPATH)
 
 # Top 100 NOUN+PROPN per interview (transcript_id)

@@ -25,7 +25,7 @@ top100_verbs = (
     .sort_values(["transcript_id", "section", "rank", "lemma"])
 )
 
-# Column for later manual annotation
+# Column for later manual annotation, perhaps
 top100_verbs["category"] = ""
 
 top100_verbs.to_parquet(OUTDIR / "top100_verbs_per_section.parquet", index=False)
