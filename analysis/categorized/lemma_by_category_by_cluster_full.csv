@@ -1,0 +1,1916 @@
+group,category,pos_group_cb,lemma,token_count
+"Art, design, crafts",AI_USE,NOUN,ai,522
+"Art, design, crafts",AI_USE,NOUN,creative,139
+"Art, design, crafts",AI_USE,NOUN,help,122
+"Art, design, crafts",AI_USE,NOUN,time,99
+"Art, design, crafts",AI_USE,NOUN,need,80
+"Art, design, crafts",AI_USE,NOUN,tool,74
+"Art, design, crafts",AI_USE,NOUN,process,63
+"Art, design, crafts",AI_USE,NOUN,one,62
+"Art, design, crafts",AI_USE,NOUN,model,56
+"Art, design, crafts",AI_USE,NOUN,example,53
+"Art, design, crafts",AI_USE,NOUN,artist,49
+"Art, design, crafts",AI_USE,NOUN,lot,48
+"Art, design, crafts",AI_USE,NOUN,way,44
+"Art, design, crafts",AI_USE,NOUN,change,42
+"Art, design, crafts",AI_USE,NOUN,color,38
+"Art, design, crafts",AI_USE,NOUN,client,37
+"Art, design, crafts",AI_USE,NOUN,business,30
+"Art, design, crafts",AI_USE,NOUN,edit,30
+"Art, design, crafts",AI_USE,NOUN,year,28
+"Art, design, crafts",AI_USE,NOUN,job,27
+"Art, design, crafts",AI_USE,NOUN,prompt,27
+"Art, design, crafts",AI_USE,NOUN,task,27
+"Art, design, crafts",AI_USE,NOUN,concern,26
+"Art, design, crafts",AI_USE,NOUN,character,24
+"Art, design, crafts",AI_USE,NOUN,day,24
+"Art, design, crafts",AI_USE,NOUN,research,24
+"Art, design, crafts",AI_USE,NOUN,company,23
+"Art, design, crafts",AI_USE,NOUN,point,23
+"Art, design, crafts",AI_USE,NOUN,background,21
+"Art, design, crafts",AI_USE,NOUN,information,21
+"Art, design, crafts",AI_USE,NOUN,aspect,20
+"Art, design, crafts",AI_USE,NOUN,designer,20
+"Art, design, crafts",AI_USE,NOUN,level,20
+"Art, design, crafts",AI_USE,NOUN,creation,18
+"Art, design, crafts",AI_USE,NOUN,bit,17
+"Art, design, crafts",AI_USE,NOUN,suggestion,17
+"Art, design, crafts",AI_USE,NOUN,assistant,16
+"Art, design, crafts",AI_USE,NOUN,detail,16
+"Art, design, crafts",AI_USE,NOUN,end,16
+"Art, design, crafts",AI_USE,NOUN,sense,16
+"Art, design, crafts",AI_USE,NOUN,case,15
+"Art, design, crafts",AI_USE,NOUN,hour,15
+"Art, design, crafts",AI_USE,NOUN,result,15
+"Art, design, crafts",AI_USE,NOUN,show,15
+"Art, design, crafts",AI_USE,NOUN,software,15
+"Art, design, crafts",AI_USE,NOUN,generation,14
+"Art, design, crafts",AI_USE,NOUN,mind,14
+"Art, design, crafts",AI_USE,NOUN,answer,13
+"Art, design, crafts",AI_USE,NOUN,brainstorming,13
+"Art, design, crafts",AI_USE,NOUN,past,13
+"Art, design, crafts",AI_USE,NOUN,topic,13
+"Art, design, crafts",AI_USE,NOUN,eye,12
+"Art, design, crafts",AI_USE,NOUN,week,12
+"Art, design, crafts",AI_USE,NOUN,future,11
+"Art, design, crafts",AI_USE,NOUN,life,11
+"Art, design, crafts",AI_USE,NOUN,place,11
+"Art, design, crafts",AI_USE,NOUN,stuff,11
+"Art, design, crafts",AI_USE,NOUN,admin,10
+"Art, design, crafts",AI_USE,NOUN,moment,10
+"Art, design, crafts",AI_USE,NOUN,production,10
+"Art, design, crafts",AI_USE,NOUN,response,10
+"Art, design, crafts",AI_USE,NOUN,role,10
+"Art, design, crafts",AI_USE,NOUN,search,10
+"Art, design, crafts",AI_USE,NOUN,step,10
+"Art, design, crafts",AI_USE,NOUN,thought,10
+"Art, design, crafts",AI_USE,NOUN,amount,9
+"Art, design, crafts",AI_USE,NOUN,collaboration,9
+"Art, design, crafts",AI_USE,NOUN,knowledge,8
+"Art, design, crafts",AI_USE,NOUN,name,8
+"Art, design, crafts",AI_USE,NOUN,perspective,8
+"Art, design, crafts",AI_USE,NOUN,subject,8
+"Art, design, crafts",AI_USE,NOUN,feedback,7
+"Art, design, crafts",AI_USE,NOUN,industry,7
+"Art, design, crafts",AI_USE,NOUN,output,7
+"Art, design, crafts",AI_USE,NOUN,purpose,7
+"Art, design, crafts",AI_USE,NOUN,track,7
+"Art, design, crafts",AI_USE,NOUN,chatgpt,6
+"Art, design, crafts",AI_USE,NOUN,development,6
+"Art, design, crafts",AI_USE,NOUN,google,6
+"Art, design, crafts",AI_USE,NOUN,money,6
+"Art, design, crafts",AI_USE,NOUN,partner,6
+"Art, design, crafts",AI_USE,NOUN,source,6
+"Art, design, crafts",AI_USE,NOUN,effort,5
+"Art, design, crafts",AI_USE,NOUN,form,5
+"Art, design, crafts",AI_USE,NOUN,issue,5
+"Art, design, crafts",AI_USE,NOUN,llm,5
+"Art, design, crafts",AI_USE,NOUN,system,5
+"Art, design, crafts",AI_USE,NOUN,thanks,5
+"Art, design, crafts",AI_USE,NOUN,thinking,5
+"Art, design, crafts",AI_USE,NOUN,datum,4
+"Art, design, crafts",AI_USE,NOUN,gap,4
+"Art, design, crafts",AI_USE,NOUN,market,4
+"Art, design, crafts",AI_USE,NOUN,service,4
+"Art, design, crafts",AI_USE,NOUN,voice,4
+"Art, design, crafts",AI_USE,NOUN,month,3
+"Art, design, crafts",AI_USE,NOUN,writer,2
+"Art, design, crafts",AI_USE,NOUN,author,1
+"Art, design, crafts",AI_USE,NOUN,plot,1
+"Art, design, crafts",AI_USE,NOUN,version,1
+"Art, design, crafts",AI_USE,VERB,use,337
+"Art, design, crafts",AI_USE,VERB,do,288
+"Art, design, crafts",AI_USE,VERB,help,122
+"Art, design, crafts",AI_USE,VERB,feel,94
+"Art, design, crafts",AI_USE,VERB,take,80
+"Art, design, crafts",AI_USE,VERB,want,75
+"Art, design, crafts",AI_USE,VERB,see,72
+"Art, design, crafts",AI_USE,VERB,ask,70
+"Art, design, crafts",AI_USE,VERB,generate,66
+"Art, design, crafts",AI_USE,VERB,know,50
+"Art, design, crafts",AI_USE,VERB,say,47
+"Art, design, crafts",AI_USE,VERB,sound,42
+"Art, design, crafts",AI_USE,VERB,provide,37
+"Art, design, crafts",AI_USE,VERB,prompt,27
+"Art, design, crafts",AI_USE,VERB,focus,26
+"Art, design, crafts",AI_USE,VERB,point,23
+"Art, design, crafts",AI_USE,VERB,become,21
+"Art, design, crafts",AI_USE,VERB,understand,21
+"Art, design, crafts",AI_USE,VERB,begin,20
+"Art, design, crafts",AI_USE,VERB,continue,19
+"Art, design, crafts",AI_USE,VERB,end,16
+"Art, design, crafts",AI_USE,VERB,hope,16
+"Art, design, crafts",AI_USE,VERB,save,16
+"Art, design, crafts",AI_USE,VERB,thank,16
+"Art, design, crafts",AI_USE,VERB,mean,14
+"Art, design, crafts",AI_USE,VERB,seem,13
+"Art, design, crafts",AI_USE,VERB,fill,12
+"Art, design, crafts",AI_USE,VERB,fit,12
+"Art, design, crafts",AI_USE,VERB,cover,11
+"Art, design, crafts",AI_USE,VERB,place,11
+"Art, design, crafts",AI_USE,VERB,replace,11
+"Art, design, crafts",AI_USE,VERB,require,11
+"Art, design, crafts",AI_USE,VERB,run,11
+"Art, design, crafts",AI_USE,VERB,spend,11
+"Art, design, crafts",AI_USE,VERB,believe,10
+"Art, design, crafts",AI_USE,VERB,evolve,10
+"Art, design, crafts",AI_USE,VERB,play,10
+"Art, design, crafts",AI_USE,VERB,struggle,10
+"Art, design, crafts",AI_USE,VERB,grow,9
+"Art, design, crafts",AI_USE,VERB,handle,9
+"Art, design, crafts",AI_USE,VERB,capture,8
+"Art, design, crafts",AI_USE,VERB,check,8
+"Art, design, crafts",AI_USE,VERB,ensure,8
+"Art, design, crafts",AI_USE,VERB,hire,8
+"Art, design, crafts",AI_USE,VERB,leave,8
+"Art, design, crafts",AI_USE,VERB,worry,8
+"Art, design, crafts",AI_USE,VERB,face,7
+"Art, design, crafts",AI_USE,VERB,push,7
+"Art, design, crafts",AI_USE,VERB,reach,7
+"Art, design, crafts",AI_USE,VERB,affect,6
+"Art, design, crafts",AI_USE,VERB,avoid,6
+"Art, design, crafts",AI_USE,VERB,depend,6
+"Art, design, crafts",AI_USE,VERB,exist,6
+"Art, design, crafts",AI_USE,VERB,fall,6
+"Art, design, crafts",AI_USE,VERB,happen,6
+"Art, design, crafts",AI_USE,VERB,vary,6
+"Art, design, crafts",AI_USE,VERB,adapt,5
+"Art, design, crafts",AI_USE,VERB,rely,5
+"Art, design, crafts",AI_USE,VERB,act,4
+"Art, design, crafts",AI_USE,VERB,automate,4
+"Art, design, crafts",AI_USE,VERB,buy,4
+"Art, design, crafts",AI_USE,VERB,prefer,4
+"Art, design, crafts",AI_USE,VERB,call,3
+"Art, design, crafts",AI_USE,VERB,compare,3
+"Art, design, crafts",AI_USE,VERB,describe,3
+"Art, design, crafts",AI_USE,VERB,guess,3
+"Art, design, crafts",AI_USE,VERB,hear,3
+"Art, design, crafts",AI_USE,VERB,hit,3
+"Art, design, crafts",AI_USE,VERB,paste,3
+"Art, design, crafts",AI_USE,VERB,realize,3
+"Art, design, crafts",AI_USE,VERB,remember,3
+"Art, design, crafts",AI_USE,VERB,seek,3
+"Art, design, crafts",AI_USE,VERB,speak,3
+"Art, design, crafts",AI_USE,VERB,stand,3
+"Art, design, crafts",AI_USE,VERB,tend,3
+"Art, design, crafts",AI_USE,VERB,accept,2
+"Art, design, crafts",AI_USE,VERB,apply,2
+"Art, design, crafts",AI_USE,VERB,attempt,2
+"Art, design, crafts",AI_USE,VERB,expect,2
+"Art, design, crafts",AI_USE,VERB,force,2
+"Art, design, crafts",AI_USE,VERB,maintain,2
+"Art, design, crafts",AI_USE,VERB,notice,1
+"Art, design, crafts",AUTHORSHIP,NOUN,work,218
+"Art, design, crafts",AUTHORSHIP,NOUN,image,151
+"Art, design, crafts",AUTHORSHIP,NOUN,design,125
+"Art, design, crafts",AUTHORSHIP,NOUN,project,97
+"Art, design, crafts",AUTHORSHIP,NOUN,thing,80
+"Art, design, crafts",AUTHORSHIP,NOUN,art,72
+"Art, design, crafts",AUTHORSHIP,NOUN,person,70
+"Art, design, crafts",AUTHORSHIP,NOUN,video,52
+"Art, design, crafts",AUTHORSHIP,NOUN,content,44
+"Art, design, crafts",AUTHORSHIP,NOUN,human,39
+"Art, design, crafts",AUTHORSHIP,NOUN,writing,36
+"Art, design, crafts",AUTHORSHIP,NOUN,part,34
+"Art, design, crafts",AUTHORSHIP,NOUN,photo,31
+"Art, design, crafts",AUTHORSHIP,NOUN,product,27
+"Art, design, crafts",AUTHORSHIP,NOUN,piece,25
+"Art, design, crafts",AUTHORSHIP,NOUN,graphic,24
+"Art, design, crafts",AUTHORSHIP,NOUN,field,23
+"Art, design, crafts",AUTHORSHIP,NOUN,element,22
+"Art, design, crafts",AUTHORSHIP,NOUN,skill,22
+"Art, design, crafts",AUTHORSHIP,NOUN,type,22
+"Art, design, crafts",AUTHORSHIP,NOUN,hand,18
+"Art, design, crafts",AUTHORSHIP,NOUN,page,18
+"Art, design, crafts",AUTHORSHIP,NOUN,conversation,16
+"Art, design, crafts",AUTHORSHIP,NOUN,list,16
+"Art, design, crafts",AUTHORSHIP,NOUN,ability,15
+"Art, design, crafts",AUTHORSHIP,NOUN,event,15
+"Art, design, crafts",AUTHORSHIP,NOUN,line,15
+"Art, design, crafts",AUTHORSHIP,NOUN,picture,15
+"Art, design, crafts",AUTHORSHIP,NOUN,text,15
+"Art, design, crafts",AUTHORSHIP,NOUN,email,14
+"Art, design, crafts",AUTHORSHIP,NOUN,post,14
+"Art, design, crafts",AUTHORSHIP,NOUN,game,13
+"Art, design, crafts",AUTHORSHIP,NOUN,kind,13
+"Art, design, crafts",AUTHORSHIP,NOUN,scene,13
+"Art, design, crafts",AUTHORSHIP,NOUN,space,13
+"Art, design, crafts",AUTHORSHIP,NOUN,story,13
+"Art, design, crafts",AUTHORSHIP,NOUN,web,13
+"Art, design, crafts",AUTHORSHIP,NOUN,website,13
+"Art, design, crafts",AUTHORSHIP,NOUN,world,13
+"Art, design, crafts",AUTHORSHIP,NOUN,description,12
+"Art, design, crafts",AUTHORSHIP,NOUN,reference,12
+"Art, design, crafts",AUTHORSHIP,NOUN,copy,11
+"Art, design, crafts",AUTHORSHIP,NOUN,cover,11
+"Art, design, crafts",AUTHORSHIP,NOUN,film,11
+"Art, design, crafts",AUTHORSHIP,NOUN,set,11
+"Art, design, crafts",AUTHORSHIP,NOUN,side,10
+"Art, design, crafts",AUTHORSHIP,NOUN,asset,9
+"Art, design, crafts",AUTHORSHIP,NOUN,book,9
+"Art, design, crafts",AUTHORSHIP,NOUN,effect,9
+"Art, design, crafts",AUTHORSHIP,NOUN,material,9
+"Art, design, crafts",AUTHORSHIP,NOUN,series,9
+"Art, design, crafts",AUTHORSHIP,NOUN,word,9
+"Art, design, crafts",AUTHORSHIP,NOUN,couple,8
+"Art, design, crafts",AUTHORSHIP,NOUN,draft,8
+"Art, design, crafts",AUTHORSHIP,NOUN,number,8
+"Art, design, crafts",AUTHORSHIP,NOUN,order,7
+"Art, design, crafts",AUTHORSHIP,NOUN,stage,6
+"Art, design, crafts",AUTHORSHIP,NOUN,music,5
+"Art, design, crafts",AUTHORSHIP,NOUN,note,5
+"Art, design, crafts",AUTHORSHIP,NOUN,problem,4
+"Art, design, crafts",AUTHORSHIP,NOUN,script,4
+"Art, design, crafts",AUTHORSHIP,NOUN,self,4
+"Art, design, crafts",AUTHORSHIP,NOUN,quality,3
+"Art, design, crafts",AUTHORSHIP,NOUN,novel,2
+"Art, design, crafts",AUTHORSHIP,NOUN,article,1
+"Art, design, crafts",AUTHORSHIP,NOUN,song,1
+"Art, design, crafts",AUTHORSHIP,VERB,be,1190
+"Art, design, crafts",AUTHORSHIP,VERB,work,218
+"Art, design, crafts",AUTHORSHIP,VERB,create,143
+"Art, design, crafts",AUTHORSHIP,VERB,design,125
+"Art, design, crafts",AUTHORSHIP,VERB,need,80
+"Art, design, crafts",AUTHORSHIP,VERB,go,75
+"Art, design, crafts",AUTHORSHIP,VERB,change,42
+"Art, design, crafts",AUTHORSHIP,VERB,write,37
+"Art, design, crafts",AUTHORSHIP,VERB,edit,30
+"Art, design, crafts",AUTHORSHIP,VERB,draw,23
+"Art, design, crafts",AUTHORSHIP,VERB,include,23
+"Art, design, crafts",AUTHORSHIP,VERB,paint,23
+"Art, design, crafts",AUTHORSHIP,VERB,put,22
+"Art, design, crafts",AUTHORSHIP,VERB,involve,21
+"Art, design, crafts",AUTHORSHIP,VERB,produce,19
+"Art, design, crafts",AUTHORSHIP,VERB,sell,17
+"Art, design, crafts",AUTHORSHIP,VERB,build,16
+"Art, design, crafts",AUTHORSHIP,VERB,finish,15
+"Art, design, crafts",AUTHORSHIP,VERB,show,15
+"Art, design, crafts",AUTHORSHIP,VERB,add,14
+"Art, design, crafts",AUTHORSHIP,VERB,answer,13
+"Art, design, crafts",AUTHORSHIP,VERB,improve,13
+"Art, design, crafts",AUTHORSHIP,VERB,pay,13
+"Art, design, crafts",AUTHORSHIP,VERB,plan,13
+"Art, design, crafts",AUTHORSHIP,VERB,cut,11
+"Art, design, crafts",AUTHORSHIP,VERB,love,11
+"Art, design, crafts",AUTHORSHIP,VERB,remove,11
+"Art, design, crafts",AUTHORSHIP,VERB,upload,11
+"Art, design, crafts",AUTHORSHIP,VERB,receive,10
+"Art, design, crafts",AUTHORSHIP,VERB,move,9
+"Art, design, crafts",AUTHORSHIP,VERB,train,9
+"Art, design, crafts",AUTHORSHIP,VERB,craft,8
+"Art, design, crafts",AUTHORSHIP,VERB,draft,8
+"Art, design, crafts",AUTHORSHIP,VERB,flow,8
+"Art, design, crafts",AUTHORSHIP,VERB,lose,8
+"Art, design, crafts",AUTHORSHIP,VERB,assist,7
+"Art, design, crafts",AUTHORSHIP,VERB,clean,7
+"Art, design, crafts",AUTHORSHIP,VERB,integrate,7
+"Art, design, crafts",AUTHORSHIP,VERB,mention,7
+"Art, design, crafts",AUTHORSHIP,VERB,read,7
+"Art, design, crafts",AUTHORSHIP,VERB,enjoy,6
+"Art, design, crafts",AUTHORSHIP,VERB,incorporate,6
+"Art, design, crafts",AUTHORSHIP,VERB,suggest,6
+"Art, design, crafts",AUTHORSHIP,VERB,break,5
+"Art, design, crafts",AUTHORSHIP,VERB,bring,5
+"Art, design, crafts",AUTHORSHIP,VERB,combine,5
+"Art, design, crafts",AUTHORSHIP,VERB,feed,5
+"Art, design, crafts",AUTHORSHIP,VERB,miss,5
+"Art, design, crafts",AUTHORSHIP,VERB,send,4
+"Art, design, crafts",AUTHORSHIP,VERB,consume,3
+"Art, design, crafts",AUTHORSHIP,VERB,identify,3
+"Art, design, crafts",AUTHORSHIP,VERB,lean,3
+"Art, design, crafts",AUTHORSHIP,VERB,organize,2
+"Art, design, crafts",AUTHORSHIP,VERB,mix,1
+"Art, design, crafts",AUTHORSHIP,VERB,publish,1
+"Art, design, crafts",CONTROL,NOUN,question,35
+"Art, design, crafts",CONTROL,NOUN,media,34
+"Art, design, crafts",CONTROL,NOUN,decision,19
+"Art, design, crafts",CONTROL,NOUN,direction,15
+"Art, design, crafts",CONTROL,NOUN,control,13
+"Art, design, crafts",CONTROL,NOUN,flow,8
+"Art, design, crafts",CONTROL,NOUN,chat,6
+"Art, design, crafts",CONTROL,NOUN,experience,5
+"Art, design, crafts",CONTROL,VERB,make,121
+"Art, design, crafts",CONTROL,VERB,allow,23
+"Art, design, crafts",CONTROL,VERB,let,23
+"Art, design, crafts",CONTROL,VERB,drive,18
+"Art, design, crafts",CONTROL,VERB,lead,13
+"Art, design, crafts",CONTROL,VERB,set,11
+"Art, design, crafts",CONTROL,VERB,decide,10
+"Art, design, crafts",CONTROL,VERB,choose,9
+"Art, design, crafts",CONTROL,VERB,pick,7
+"Art, design, crafts",CONTROL,VERB,direct,6
+"Art, design, crafts",CONTROL,VERB,manage,4
+"Art, design, crafts",CONTROL,VERB,determine,3
+"Art, design, crafts",CONTROL,VERB,guide,3
+"Art, design, crafts",IDEATION,NOUN,use,337
+"Art, design, crafts",IDEATION,NOUN,idea,165
+"Art, design, crafts",IDEATION,NOUN,sound,42
+"Art, design, crafts",IDEATION,NOUN,concept,29
+"Art, design, crafts",IDEATION,NOUN,editing,28
+"Art, design, crafts",IDEATION,NOUN,etc.,28
+"Art, design, crafts",IDEATION,NOUN,theme,25
+"Art, design, crafts",IDEATION,NOUN,inspiration,24
+"Art, design, crafts",IDEATION,NOUN,creativity,22
+"Art, design, crafts",IDEATION,NOUN,style,17
+"Art, design, crafts",IDEATION,NOUN,marketing,12
+"Art, design, crafts",IDEATION,NOUN,option,11
+"Art, design, crafts",IDEATION,NOUN,area,10
+"Art, design, crafts",IDEATION,NOUN,feature,10
+"Art, design, crafts",IDEATION,NOUN,course,9
+"Art, design, crafts",IDEATION,NOUN,planning,9
+"Art, design, crafts",IDEATION,NOUN,sort,9
+"Art, design, crafts",IDEATION,NOUN,term,9
+"Art, design, crafts",IDEATION,NOUN,blog,8
+"Art, design, crafts",IDEATION,NOUN,board,6
+"Art, design, crafts",IDEATION,NOUN,tone,6
+"Art, design, crafts",IDEATION,NOUN,outline,5
+"Art, design, crafts",IDEATION,NOUN,fact,4
+"Art, design, crafts",IDEATION,NOUN,reader,1
+"Art, design, crafts",IDEATION,NOUN,situation,1
+"Art, design, crafts",IDEATION,VERB,have,444
+"Art, design, crafts",IDEATION,VERB,like,168
+"Art, design, crafts",IDEATION,VERB,think,109
+"Art, design, crafts",IDEATION,VERB,get,90
+"Art, design, crafts",IDEATION,VERB,give,77
+"Art, design, crafts",IDEATION,VERB,look,69
+"Art, design, crafts",IDEATION,VERB,find,64
+"Art, design, crafts",IDEATION,VERB,come,63
+"Art, design, crafts",IDEATION,VERB,start,41
+"Art, design, crafts",IDEATION,VERB,try,36
+"Art, design, crafts",IDEATION,VERB,base,27
+"Art, design, crafts",IDEATION,VERB,keep,26
+"Art, design, crafts",IDEATION,VERB,research,24
+"Art, design, crafts",IDEATION,VERB,tell,23
+"Art, design, crafts",IDEATION,VERB,complete,19
+"Art, design, crafts",IDEATION,VERB,brainstorm,18
+"Art, design, crafts",IDEATION,VERB,learn,14
+"Art, design, crafts",IDEATION,VERB,turn,14
+"Art, design, crafts",IDEATION,VERB,follow,13
+"Art, design, crafts",IDEATION,VERB,refine,13
+"Art, design, crafts",IDEATION,VERB,expand,12
+"Art, design, crafts",IDEATION,VERB,present,12
+"Art, design, crafts",IDEATION,VERB,copy,11
+"Art, design, crafts",IDEATION,VERB,develop,11
+"Art, design, crafts",IDEATION,VERB,search,10
+"Art, design, crafts",IDEATION,VERB,consider,8
+"Art, design, crafts",IDEATION,VERB,engage,8
+"Art, design, crafts",IDEATION,VERB,talk,8
+"Art, design, crafts",IDEATION,VERB,discuss,7
+"Art, design, crafts",IDEATION,VERB,explore,7
+"Art, design, crafts",IDEATION,VERB,figure,6
+"Art, design, crafts",IDEATION,VERB,iterate,6
+"Art, design, crafts",IDEATION,VERB,share,6
+"Art, design, crafts",IDEATION,VERB,imagine,5
+"Art, design, crafts",IDEATION,VERB,offer,5
+"Art, design, crafts",IDEATION,VERB,outline,5
+"Art, design, crafts",IDEATION,VERB,connect,4
+"Art, design, crafts",IDEATION,VERB,pull,4
+"Art, design, crafts",IDEATION,VERB,bounce,3
+"Art, design, crafts",IDEATION,VERB,explain,3
+"Art, design, crafts",IDEATION,VERB,prepare,3
+"Art, design, crafts",IDEATION,VERB,stay,3
+"Art, design, crafts",IDEATION,VERB,utilize,3
+"Art, design, crafts",IDEATION,VERB,shift,2
+"Art, design, crafts",IDEATION,VERB,spark,2
+"Art, design, crafts",IDEATION,VERB,wait,2
+"Art, design, crafts",IDEATION,VERB,hone,1
+Audiovisual,AI_USE,NOUN,ai,148
+Audiovisual,AI_USE,NOUN,creative,52
+Audiovisual,AI_USE,NOUN,tool,50
+Audiovisual,AI_USE,NOUN,time,44
+Audiovisual,AI_USE,NOUN,help,42
+Audiovisual,AI_USE,NOUN,lot,31
+Audiovisual,AI_USE,NOUN,need,29
+Audiovisual,AI_USE,NOUN,process,26
+Audiovisual,AI_USE,NOUN,one,24
+Audiovisual,AI_USE,NOUN,artist,18
+Audiovisual,AI_USE,NOUN,client,18
+Audiovisual,AI_USE,NOUN,example,18
+Audiovisual,AI_USE,NOUN,task,18
+Audiovisual,AI_USE,NOUN,production,17
+Audiovisual,AI_USE,NOUN,change,15
+Audiovisual,AI_USE,NOUN,way,15
+Audiovisual,AI_USE,NOUN,audio,14
+Audiovisual,AI_USE,NOUN,model,14
+Audiovisual,AI_USE,NOUN,job,13
+Audiovisual,AI_USE,NOUN,end,11
+Audiovisual,AI_USE,NOUN,show,11
+Audiovisual,AI_USE,NOUN,information,10
+Audiovisual,AI_USE,NOUN,llm,10
+Audiovisual,AI_USE,NOUN,brainstorming,9
+Audiovisual,AI_USE,NOUN,day,9
+Audiovisual,AI_USE,NOUN,name,9
+Audiovisual,AI_USE,NOUN,chatgpt,8
+Audiovisual,AI_USE,NOUN,edit,8
+Audiovisual,AI_USE,NOUN,level,8
+Audiovisual,AI_USE,NOUN,past,8
+Audiovisual,AI_USE,NOUN,place,8
+Audiovisual,AI_USE,NOUN,service,8
+Audiovisual,AI_USE,NOUN,designer,7
+Audiovisual,AI_USE,NOUN,prompt,7
+Audiovisual,AI_USE,NOUN,research,7
+Audiovisual,AI_USE,NOUN,stuff,7
+Audiovisual,AI_USE,NOUN,track,7
+Audiovisual,AI_USE,NOUN,admin,6
+Audiovisual,AI_USE,NOUN,character,6
+Audiovisual,AI_USE,NOUN,company,6
+Audiovisual,AI_USE,NOUN,form,6
+Audiovisual,AI_USE,NOUN,point,6
+Audiovisual,AI_USE,NOUN,amount,5
+Audiovisual,AI_USE,NOUN,aspect,5
+Audiovisual,AI_USE,NOUN,assistant,5
+Audiovisual,AI_USE,NOUN,concern,5
+Audiovisual,AI_USE,NOUN,creation,5
+Audiovisual,AI_USE,NOUN,hour,5
+Audiovisual,AI_USE,NOUN,perspective,5
+Audiovisual,AI_USE,NOUN,suggestion,5
+Audiovisual,AI_USE,NOUN,bit,4
+Audiovisual,AI_USE,NOUN,case,4
+Audiovisual,AI_USE,NOUN,eye,4
+Audiovisual,AI_USE,NOUN,generation,4
+Audiovisual,AI_USE,NOUN,industry,4
+Audiovisual,AI_USE,NOUN,issue,4
+Audiovisual,AI_USE,NOUN,output,4
+Audiovisual,AI_USE,NOUN,partner,4
+Audiovisual,AI_USE,NOUN,result,4
+Audiovisual,AI_USE,NOUN,role,4
+Audiovisual,AI_USE,NOUN,thanks,4
+Audiovisual,AI_USE,NOUN,thinking,4
+Audiovisual,AI_USE,NOUN,topic,4
+Audiovisual,AI_USE,NOUN,version,4
+Audiovisual,AI_USE,NOUN,voice,4
+Audiovisual,AI_USE,NOUN,week,4
+Audiovisual,AI_USE,NOUN,writer,4
+Audiovisual,AI_USE,NOUN,year,4
+Audiovisual,AI_USE,NOUN,background,3
+Audiovisual,AI_USE,NOUN,business,3
+Audiovisual,AI_USE,NOUN,collaboration,3
+Audiovisual,AI_USE,NOUN,detail,3
+Audiovisual,AI_USE,NOUN,feedback,3
+Audiovisual,AI_USE,NOUN,life,3
+Audiovisual,AI_USE,NOUN,market,3
+Audiovisual,AI_USE,NOUN,mind,3
+Audiovisual,AI_USE,NOUN,moment,3
+Audiovisual,AI_USE,NOUN,month,3
+Audiovisual,AI_USE,NOUN,sense,3
+Audiovisual,AI_USE,NOUN,system,3
+Audiovisual,AI_USE,NOUN,answer,2
+Audiovisual,AI_USE,NOUN,color,2
+Audiovisual,AI_USE,NOUN,datum,2
+Audiovisual,AI_USE,NOUN,future,2
+Audiovisual,AI_USE,NOUN,google,2
+Audiovisual,AI_USE,NOUN,money,2
+Audiovisual,AI_USE,NOUN,response,2
+Audiovisual,AI_USE,NOUN,software,2
+Audiovisual,AI_USE,NOUN,thought,2
+Audiovisual,AI_USE,NOUN,development,1
+Audiovisual,AI_USE,NOUN,gap,1
+Audiovisual,AI_USE,NOUN,knowledge,1
+Audiovisual,AI_USE,NOUN,purpose,1
+Audiovisual,AI_USE,NOUN,source,1
+Audiovisual,AI_USE,VERB,use,122
+Audiovisual,AI_USE,VERB,do,93
+Audiovisual,AI_USE,VERB,help,42
+Audiovisual,AI_USE,VERB,generate,33
+Audiovisual,AI_USE,VERB,see,29
+Audiovisual,AI_USE,VERB,want,28
+Audiovisual,AI_USE,VERB,sound,25
+Audiovisual,AI_USE,VERB,ask,23
+Audiovisual,AI_USE,VERB,take,23
+Audiovisual,AI_USE,VERB,feel,22
+Audiovisual,AI_USE,VERB,know,18
+Audiovisual,AI_USE,VERB,become,11
+Audiovisual,AI_USE,VERB,end,11
+Audiovisual,AI_USE,VERB,cover,10
+Audiovisual,AI_USE,VERB,spend,10
+Audiovisual,AI_USE,VERB,run,9
+Audiovisual,AI_USE,VERB,say,9
+Audiovisual,AI_USE,VERB,place,8
+Audiovisual,AI_USE,VERB,reach,8
+Audiovisual,AI_USE,VERB,record,8
+Audiovisual,AI_USE,VERB,understand,8
+Audiovisual,AI_USE,VERB,begin,7
+Audiovisual,AI_USE,VERB,prompt,7
+Audiovisual,AI_USE,VERB,struggle,7
+Audiovisual,AI_USE,VERB,worry,7
+Audiovisual,AI_USE,VERB,depend,6
+Audiovisual,AI_USE,VERB,hit,6
+Audiovisual,AI_USE,VERB,mean,6
+Audiovisual,AI_USE,VERB,point,6
+Audiovisual,AI_USE,VERB,provide,6
+Audiovisual,AI_USE,VERB,automate,5
+Audiovisual,AI_USE,VERB,save,5
+Audiovisual,AI_USE,VERB,seem,5
+Audiovisual,AI_USE,VERB,accept,4
+Audiovisual,AI_USE,VERB,call,4
+Audiovisual,AI_USE,VERB,capture,4
+Audiovisual,AI_USE,VERB,continue,4
+Audiovisual,AI_USE,VERB,exist,4
+Audiovisual,AI_USE,VERB,focus,4
+Audiovisual,AI_USE,VERB,force,4
+Audiovisual,AI_USE,VERB,hope,4
+Audiovisual,AI_USE,VERB,notice,4
+Audiovisual,AI_USE,VERB,play,4
+Audiovisual,AI_USE,VERB,require,4
+Audiovisual,AI_USE,VERB,tend,4
+Audiovisual,AI_USE,VERB,apply,3
+Audiovisual,AI_USE,VERB,buy,3
+Audiovisual,AI_USE,VERB,describe,3
+Audiovisual,AI_USE,VERB,fill,3
+Audiovisual,AI_USE,VERB,fit,3
+Audiovisual,AI_USE,VERB,happen,3
+Audiovisual,AI_USE,VERB,hear,3
+Audiovisual,AI_USE,VERB,hire,3
+Audiovisual,AI_USE,VERB,prefer,3
+Audiovisual,AI_USE,VERB,rely,3
+Audiovisual,AI_USE,VERB,thank,3
+Audiovisual,AI_USE,VERB,avoid,2
+Audiovisual,AI_USE,VERB,believe,2
+Audiovisual,AI_USE,VERB,fall,2
+Audiovisual,AI_USE,VERB,guess,2
+Audiovisual,AI_USE,VERB,handle,2
+Audiovisual,AI_USE,VERB,paste,2
+Audiovisual,AI_USE,VERB,remember,2
+Audiovisual,AI_USE,VERB,replace,2
+Audiovisual,AI_USE,VERB,stand,2
+Audiovisual,AI_USE,VERB,act,1
+Audiovisual,AI_USE,VERB,affect,1
+Audiovisual,AI_USE,VERB,attempt,1
+Audiovisual,AI_USE,VERB,ensure,1
+Audiovisual,AI_USE,VERB,face,1
+Audiovisual,AI_USE,VERB,grow,1
+Audiovisual,AI_USE,VERB,maintain,1
+Audiovisual,AI_USE,VERB,speak,1
+Audiovisual,AUTHORSHIP,NOUN,work,62
+Audiovisual,AUTHORSHIP,NOUN,music,55
+Audiovisual,AUTHORSHIP,NOUN,person,42
+Audiovisual,AUTHORSHIP,NOUN,thing,37
+Audiovisual,AUTHORSHIP,NOUN,project,35
+Audiovisual,AUTHORSHIP,NOUN,song,26
+Audiovisual,AUTHORSHIP,NOUN,video,25
+Audiovisual,AUTHORSHIP,NOUN,film,23
+Audiovisual,AUTHORSHIP,NOUN,image,19
+Audiovisual,AUTHORSHIP,NOUN,art,18
+Audiovisual,AUTHORSHIP,NOUN,human,17
+Audiovisual,AUTHORSHIP,NOUN,design,14
+Audiovisual,AUTHORSHIP,NOUN,script,14
+Audiovisual,AUTHORSHIP,NOUN,element,12
+Audiovisual,AUTHORSHIP,NOUN,part,12
+Audiovisual,AUTHORSHIP,NOUN,piece,12
+Audiovisual,AUTHORSHIP,NOUN,writing,12
+Audiovisual,AUTHORSHIP,NOUN,content,11
+Audiovisual,AUTHORSHIP,NOUN,cover,10
+Audiovisual,AUTHORSHIP,NOUN,set,9
+Audiovisual,AUTHORSHIP,NOUN,draft,8
+Audiovisual,AUTHORSHIP,NOUN,graphic,8
+Audiovisual,AUTHORSHIP,NOUN,scene,8
+Audiovisual,AUTHORSHIP,NOUN,couple,7
+Audiovisual,AUTHORSHIP,NOUN,game,7
+Audiovisual,AUTHORSHIP,NOUN,line,7
+Audiovisual,AUTHORSHIP,NOUN,list,6
+Audiovisual,AUTHORSHIP,NOUN,note,6
+Audiovisual,AUTHORSHIP,NOUN,quality,6
+Audiovisual,AUTHORSHIP,NOUN,word,6
+Audiovisual,AUTHORSHIP,NOUN,world,6
+Audiovisual,AUTHORSHIP,NOUN,event,5
+Audiovisual,AUTHORSHIP,NOUN,field,5
+Audiovisual,AUTHORSHIP,NOUN,post,5
+Audiovisual,AUTHORSHIP,NOUN,side,5
+Audiovisual,AUTHORSHIP,NOUN,skill,5
+Audiovisual,AUTHORSHIP,NOUN,stage,5
+Audiovisual,AUTHORSHIP,NOUN,copy,4
+Audiovisual,AUTHORSHIP,NOUN,effect,4
+Audiovisual,AUTHORSHIP,NOUN,email,4
+Audiovisual,AUTHORSHIP,NOUN,kind,4
+Audiovisual,AUTHORSHIP,NOUN,product,4
+Audiovisual,AUTHORSHIP,NOUN,conversation,3
+Audiovisual,AUTHORSHIP,NOUN,description,3
+Audiovisual,AUTHORSHIP,NOUN,hand,3
+Audiovisual,AUTHORSHIP,NOUN,picture,3
+Audiovisual,AUTHORSHIP,NOUN,problem,3
+Audiovisual,AUTHORSHIP,NOUN,self,3
+Audiovisual,AUTHORSHIP,NOUN,story,3
+Audiovisual,AUTHORSHIP,NOUN,text,3
+Audiovisual,AUTHORSHIP,NOUN,type,3
+Audiovisual,AUTHORSHIP,NOUN,article,2
+Audiovisual,AUTHORSHIP,NOUN,book,2
+Audiovisual,AUTHORSHIP,NOUN,number,2
+Audiovisual,AUTHORSHIP,NOUN,order,2
+Audiovisual,AUTHORSHIP,NOUN,page,2
+Audiovisual,AUTHORSHIP,NOUN,photo,2
+Audiovisual,AUTHORSHIP,NOUN,space,2
+Audiovisual,AUTHORSHIP,NOUN,website,2
+Audiovisual,AUTHORSHIP,NOUN,ability,1
+Audiovisual,AUTHORSHIP,NOUN,material,1
+Audiovisual,AUTHORSHIP,NOUN,novel,1
+Audiovisual,AUTHORSHIP,NOUN,reference,1
+Audiovisual,AUTHORSHIP,VERB,be,492
+Audiovisual,AUTHORSHIP,VERB,work,62
+Audiovisual,AUTHORSHIP,VERB,write,32
+Audiovisual,AUTHORSHIP,VERB,create,31
+Audiovisual,AUTHORSHIP,VERB,need,29
+Audiovisual,AUTHORSHIP,VERB,go,17
+Audiovisual,AUTHORSHIP,VERB,change,15
+Audiovisual,AUTHORSHIP,VERB,design,14
+Audiovisual,AUTHORSHIP,VERB,produce,11
+Audiovisual,AUTHORSHIP,VERB,show,11
+Audiovisual,AUTHORSHIP,VERB,add,10
+Audiovisual,AUTHORSHIP,VERB,mix,10
+Audiovisual,AUTHORSHIP,VERB,draft,8
+Audiovisual,AUTHORSHIP,VERB,edit,8
+Audiovisual,AUTHORSHIP,VERB,read,8
+Audiovisual,AUTHORSHIP,VERB,flow,7
+Audiovisual,AUTHORSHIP,VERB,involve,7
+Audiovisual,AUTHORSHIP,VERB,send,7
+Audiovisual,AUTHORSHIP,VERB,include,6
+Audiovisual,AUTHORSHIP,VERB,lose,6
+Audiovisual,AUTHORSHIP,VERB,mention,6
+Audiovisual,AUTHORSHIP,VERB,move,6
+Audiovisual,AUTHORSHIP,VERB,plan,5
+Audiovisual,AUTHORSHIP,VERB,bring,4
+Audiovisual,AUTHORSHIP,VERB,combine,4
+Audiovisual,AUTHORSHIP,VERB,draw,4
+Audiovisual,AUTHORSHIP,VERB,finish,4
+Audiovisual,AUTHORSHIP,VERB,suggest,4
+Audiovisual,AUTHORSHIP,VERB,assist,3
+Audiovisual,AUTHORSHIP,VERB,build,3
+Audiovisual,AUTHORSHIP,VERB,clean,3
+Audiovisual,AUTHORSHIP,VERB,integrate,3
+Audiovisual,AUTHORSHIP,VERB,pay,3
+Audiovisual,AUTHORSHIP,VERB,answer,2
+Audiovisual,AUTHORSHIP,VERB,consume,2
+Audiovisual,AUTHORSHIP,VERB,craft,2
+Audiovisual,AUTHORSHIP,VERB,cut,2
+Audiovisual,AUTHORSHIP,VERB,enjoy,2
+Audiovisual,AUTHORSHIP,VERB,identify,2
+Audiovisual,AUTHORSHIP,VERB,improve,2
+Audiovisual,AUTHORSHIP,VERB,love,2
+Audiovisual,AUTHORSHIP,VERB,remove,2
+Audiovisual,AUTHORSHIP,VERB,sell,2
+Audiovisual,AUTHORSHIP,VERB,deliver,1
+Audiovisual,AUTHORSHIP,VERB,lean,1
+Audiovisual,AUTHORSHIP,VERB,paint,1
+Audiovisual,AUTHORSHIP,VERB,put,1
+Audiovisual,AUTHORSHIP,VERB,receive,1
+Audiovisual,AUTHORSHIP,VERB,train,1
+Audiovisual,CONTROL,NOUN,decision,11
+Audiovisual,CONTROL,NOUN,question,11
+Audiovisual,CONTROL,NOUN,flow,7
+Audiovisual,CONTROL,NOUN,media,6
+Audiovisual,CONTROL,NOUN,direction,5
+Audiovisual,CONTROL,NOUN,control,3
+Audiovisual,CONTROL,NOUN,experience,3
+Audiovisual,CONTROL,NOUN,chat,1
+Audiovisual,CONTROL,VERB,make,55
+Audiovisual,CONTROL,VERB,let,10
+Audiovisual,CONTROL,VERB,set,9
+Audiovisual,CONTROL,VERB,allow,7
+Audiovisual,CONTROL,VERB,drive,4
+Audiovisual,CONTROL,VERB,lead,3
+Audiovisual,CONTROL,VERB,manage,3
+Audiovisual,CONTROL,VERB,choose,1
+Audiovisual,CONTROL,VERB,determine,1
+Audiovisual,CONTROL,VERB,direct,1
+Audiovisual,CONTROL,VERB,guide,1
+Audiovisual,IDEATION,NOUN,use,122
+Audiovisual,IDEATION,NOUN,idea,52
+Audiovisual,IDEATION,NOUN,sound,25
+Audiovisual,IDEATION,NOUN,etc.,12
+Audiovisual,IDEATION,NOUN,style,9
+Audiovisual,IDEATION,NOUN,sort,8
+Audiovisual,IDEATION,NOUN,creativity,7
+Audiovisual,IDEATION,NOUN,feature,7
+Audiovisual,IDEATION,NOUN,theme,7
+Audiovisual,IDEATION,NOUN,planning,6
+Audiovisual,IDEATION,NOUN,tone,6
+Audiovisual,IDEATION,NOUN,editing,4
+Audiovisual,IDEATION,NOUN,inspiration,4
+Audiovisual,IDEATION,NOUN,area,3
+Audiovisual,IDEATION,NOUN,fact,3
+Audiovisual,IDEATION,NOUN,option,3
+Audiovisual,IDEATION,NOUN,outline,3
+Audiovisual,IDEATION,NOUN,blog,2
+Audiovisual,IDEATION,NOUN,board,2
+Audiovisual,IDEATION,NOUN,concept,2
+Audiovisual,IDEATION,NOUN,situation,2
+Audiovisual,IDEATION,NOUN,term,2
+Audiovisual,IDEATION,NOUN,course,1
+Audiovisual,IDEATION,NOUN,marketing,1
+Audiovisual,IDEATION,NOUN,reader,1
+Audiovisual,IDEATION,VERB,have,172
+Audiovisual,IDEATION,VERB,like,73
+Audiovisual,IDEATION,VERB,get,62
+Audiovisual,IDEATION,VERB,think,53
+Audiovisual,IDEATION,VERB,find,30
+Audiovisual,IDEATION,VERB,try,29
+Audiovisual,IDEATION,VERB,look,21
+Audiovisual,IDEATION,VERB,give,17
+Audiovisual,IDEATION,VERB,come,16
+Audiovisual,IDEATION,VERB,start,15
+Audiovisual,IDEATION,VERB,keep,9
+Audiovisual,IDEATION,VERB,learn,8
+Audiovisual,IDEATION,VERB,tell,8
+Audiovisual,IDEATION,VERB,research,7
+Audiovisual,IDEATION,VERB,base,5
+Audiovisual,IDEATION,VERB,brainstorm,5
+Audiovisual,IDEATION,VERB,discuss,5
+Audiovisual,IDEATION,VERB,figure,5
+Audiovisual,IDEATION,VERB,copy,4
+Audiovisual,IDEATION,VERB,talk,4
+Audiovisual,IDEATION,VERB,bounce,3
+Audiovisual,IDEATION,VERB,connect,3
+Audiovisual,IDEATION,VERB,explain,3
+Audiovisual,IDEATION,VERB,imagine,3
+Audiovisual,IDEATION,VERB,outline,3
+Audiovisual,IDEATION,VERB,refine,3
+Audiovisual,IDEATION,VERB,turn,3
+Audiovisual,IDEATION,VERB,complete,2
+Audiovisual,IDEATION,VERB,engage,2
+Audiovisual,IDEATION,VERB,offer,2
+Audiovisual,IDEATION,VERB,pull,2
+Audiovisual,IDEATION,VERB,spark,2
+Audiovisual,IDEATION,VERB,consider,1
+Audiovisual,IDEATION,VERB,develop,1
+Audiovisual,IDEATION,VERB,expand,1
+Audiovisual,IDEATION,VERB,iterate,1
+Audiovisual,IDEATION,VERB,prepare,1
+Audiovisual,IDEATION,VERB,share,1
+Audiovisual,IDEATION,VERB,shift,1
+Audiovisual,IDEATION,VERB,stay,1
+Audiovisual,IDEATION,VERB,utilize,1
+Audiovisual,IDEATION,VERB,wait,1
+Content writing,AI_USE,NOUN,ai,247
+Content writing,AI_USE,NOUN,help,69
+Content writing,AI_USE,NOUN,creative,67
+Content writing,AI_USE,NOUN,time,64
+Content writing,AI_USE,NOUN,way,36
+Content writing,AI_USE,NOUN,need,35
+Content writing,AI_USE,NOUN,lot,32
+Content writing,AI_USE,NOUN,one,32
+Content writing,AI_USE,NOUN,process,32
+Content writing,AI_USE,NOUN,model,29
+Content writing,AI_USE,NOUN,research,25
+Content writing,AI_USE,NOUN,bit,23
+Content writing,AI_USE,NOUN,client,22
+Content writing,AI_USE,NOUN,tool,22
+Content writing,AI_USE,NOUN,writer,22
+Content writing,AI_USE,NOUN,character,19
+Content writing,AI_USE,NOUN,change,18
+Content writing,AI_USE,NOUN,day,18
+Content writing,AI_USE,NOUN,level,18
+Content writing,AI_USE,NOUN,job,17
+Content writing,AI_USE,NOUN,example,15
+Content writing,AI_USE,NOUN,feedback,15
+Content writing,AI_USE,NOUN,result,15
+Content writing,AI_USE,NOUN,prompt,14
+Content writing,AI_USE,NOUN,end,13
+Content writing,AI_USE,NOUN,generation,13
+Content writing,AI_USE,NOUN,information,13
+Content writing,AI_USE,NOUN,suggestion,13
+Content writing,AI_USE,NOUN,concern,12
+Content writing,AI_USE,NOUN,edit,12
+Content writing,AI_USE,NOUN,assistant,11
+Content writing,AI_USE,NOUN,business,11
+Content writing,AI_USE,NOUN,week,11
+Content writing,AI_USE,NOUN,year,11
+Content writing,AI_USE,NOUN,company,10
+Content writing,AI_USE,NOUN,datum,10
+Content writing,AI_USE,NOUN,service,10
+Content writing,AI_USE,NOUN,aspect,9
+Content writing,AI_USE,NOUN,llm,9
+Content writing,AI_USE,NOUN,place,9
+Content writing,AI_USE,NOUN,step,9
+Content writing,AI_USE,NOUN,topic,9
+Content writing,AI_USE,NOUN,amount,8
+Content writing,AI_USE,NOUN,answer,8
+Content writing,AI_USE,NOUN,author,8
+Content writing,AI_USE,NOUN,issue,8
+Content writing,AI_USE,NOUN,output,8
+Content writing,AI_USE,NOUN,sense,8
+Content writing,AI_USE,NOUN,brainstorming,7
+Content writing,AI_USE,NOUN,chatgpt,7
+Content writing,AI_USE,NOUN,development,7
+Content writing,AI_USE,NOUN,gap,7
+Content writing,AI_USE,NOUN,hour,7
+Content writing,AI_USE,NOUN,task,7
+Content writing,AI_USE,NOUN,creation,6
+Content writing,AI_USE,NOUN,detail,6
+Content writing,AI_USE,NOUN,future,6
+Content writing,AI_USE,NOUN,mind,6
+Content writing,AI_USE,NOUN,name,6
+Content writing,AI_USE,NOUN,past,6
+Content writing,AI_USE,NOUN,point,6
+Content writing,AI_USE,NOUN,purpose,6
+Content writing,AI_USE,NOUN,form,5
+Content writing,AI_USE,NOUN,response,5
+Content writing,AI_USE,NOUN,search,5
+Content writing,AI_USE,NOUN,voice,5
+Content writing,AI_USE,NOUN,artist,4
+Content writing,AI_USE,NOUN,effort,4
+Content writing,AI_USE,NOUN,knowledge,4
+Content writing,AI_USE,NOUN,market,4
+Content writing,AI_USE,NOUN,money,4
+Content writing,AI_USE,NOUN,perspective,4
+Content writing,AI_USE,NOUN,role,4
+Content writing,AI_USE,NOUN,show,4
+Content writing,AI_USE,NOUN,source,4
+Content writing,AI_USE,NOUN,thanks,4
+Content writing,AI_USE,NOUN,track,4
+Content writing,AI_USE,NOUN,version,4
+Content writing,AI_USE,NOUN,background,3
+Content writing,AI_USE,NOUN,designer,3
+Content writing,AI_USE,NOUN,life,3
+Content writing,AI_USE,NOUN,partner,3
+Content writing,AI_USE,NOUN,plot,3
+Content writing,AI_USE,NOUN,system,3
+Content writing,AI_USE,NOUN,case,2
+Content writing,AI_USE,NOUN,google,2
+Content writing,AI_USE,NOUN,moment,2
+Content writing,AI_USE,NOUN,software,2
+Content writing,AI_USE,NOUN,stuff,2
+Content writing,AI_USE,NOUN,thinking,2
+Content writing,AI_USE,NOUN,thought,2
+Content writing,AI_USE,NOUN,admin,1
+Content writing,AI_USE,NOUN,audio,1
+Content writing,AI_USE,NOUN,eye,1
+Content writing,AI_USE,NOUN,industry,1
+Content writing,AI_USE,NOUN,subject,1
+Content writing,AI_USE,VERB,do,168
+Content writing,AI_USE,VERB,use,156
+Content writing,AI_USE,VERB,help,69
+Content writing,AI_USE,VERB,ask,52
+Content writing,AI_USE,VERB,feel,40
+Content writing,AI_USE,VERB,see,36
+Content writing,AI_USE,VERB,take,36
+Content writing,AI_USE,VERB,want,35
+Content writing,AI_USE,VERB,sound,26
+Content writing,AI_USE,VERB,generate,25
+Content writing,AI_USE,VERB,say,19
+Content writing,AI_USE,VERB,check,18
+Content writing,AI_USE,VERB,continue,14
+Content writing,AI_USE,VERB,mean,14
+Content writing,AI_USE,VERB,prompt,14
+Content writing,AI_USE,VERB,end,13
+Content writing,AI_USE,VERB,provide,13
+Content writing,AI_USE,VERB,run,12
+Content writing,AI_USE,VERB,spend,12
+Content writing,AI_USE,VERB,become,11
+Content writing,AI_USE,VERB,understand,10
+Content writing,AI_USE,VERB,hope,9
+Content writing,AI_USE,VERB,place,9
+Content writing,AI_USE,VERB,save,9
+Content writing,AI_USE,VERB,fit,8
+Content writing,AI_USE,VERB,know,8
+Content writing,AI_USE,VERB,tend,8
+Content writing,AI_USE,VERB,attempt,7
+Content writing,AI_USE,VERB,believe,7
+Content writing,AI_USE,VERB,depend,7
+Content writing,AI_USE,VERB,fill,7
+Content writing,AI_USE,VERB,realize,7
+Content writing,AI_USE,VERB,replace,7
+Content writing,AI_USE,VERB,struggle,7
+Content writing,AI_USE,VERB,happen,6
+Content writing,AI_USE,VERB,point,6
+Content writing,AI_USE,VERB,require,6
+Content writing,AI_USE,VERB,worry,6
+Content writing,AI_USE,VERB,ensure,5
+Content writing,AI_USE,VERB,leave,5
+Content writing,AI_USE,VERB,play,5
+Content writing,AI_USE,VERB,reach,5
+Content writing,AI_USE,VERB,accept,4
+Content writing,AI_USE,VERB,cover,4
+Content writing,AI_USE,VERB,face,4
+Content writing,AI_USE,VERB,focus,4
+Content writing,AI_USE,VERB,adapt,3
+Content writing,AI_USE,VERB,avoid,3
+Content writing,AI_USE,VERB,begin,3
+Content writing,AI_USE,VERB,describe,3
+Content writing,AI_USE,VERB,exist,3
+Content writing,AI_USE,VERB,guess,3
+Content writing,AI_USE,VERB,hit,3
+Content writing,AI_USE,VERB,notice,3
+Content writing,AI_USE,VERB,prefer,3
+Content writing,AI_USE,VERB,push,3
+Content writing,AI_USE,VERB,seem,3
+Content writing,AI_USE,VERB,serve,3
+Content writing,AI_USE,VERB,thank,3
+Content writing,AI_USE,VERB,apply,2
+Content writing,AI_USE,VERB,buy,2
+Content writing,AI_USE,VERB,compare,2
+Content writing,AI_USE,VERB,evolve,2
+Content writing,AI_USE,VERB,fall,2
+Content writing,AI_USE,VERB,maintain,2
+Content writing,AI_USE,VERB,rely,2
+Content writing,AI_USE,VERB,remember,2
+Content writing,AI_USE,VERB,speak,2
+Content writing,AI_USE,VERB,stand,2
+Content writing,AI_USE,VERB,act,1
+Content writing,AI_USE,VERB,affect,1
+Content writing,AI_USE,VERB,automate,1
+Content writing,AI_USE,VERB,call,1
+Content writing,AI_USE,VERB,capture,1
+Content writing,AI_USE,VERB,expect,1
+Content writing,AI_USE,VERB,force,1
+Content writing,AI_USE,VERB,grow,1
+Content writing,AI_USE,VERB,hear,1
+Content writing,AI_USE,VERB,hire,1
+Content writing,AI_USE,VERB,paste,1
+Content writing,AI_USE,VERB,vary,1
+Content writing,AUTHORSHIP,NOUN,work,73
+Content writing,AUTHORSHIP,NOUN,writing,56
+Content writing,AUTHORSHIP,NOUN,project,50
+Content writing,AUTHORSHIP,NOUN,content,40
+Content writing,AUTHORSHIP,NOUN,human,39
+Content writing,AUTHORSHIP,NOUN,person,38
+Content writing,AUTHORSHIP,NOUN,thing,37
+Content writing,AUTHORSHIP,NOUN,asset,25
+Content writing,AUTHORSHIP,NOUN,article,22
+Content writing,AUTHORSHIP,NOUN,copy,19
+Content writing,AUTHORSHIP,NOUN,design,19
+Content writing,AUTHORSHIP,NOUN,game,19
+Content writing,AUTHORSHIP,NOUN,image,19
+Content writing,AUTHORSHIP,NOUN,word,19
+Content writing,AUTHORSHIP,NOUN,story,18
+Content writing,AUTHORSHIP,NOUN,page,17
+Content writing,AUTHORSHIP,NOUN,product,16
+Content writing,AUTHORSHIP,NOUN,website,16
+Content writing,AUTHORSHIP,NOUN,book,15
+Content writing,AUTHORSHIP,NOUN,art,11
+Content writing,AUTHORSHIP,NOUN,part,11
+Content writing,AUTHORSHIP,NOUN,couple,10
+Content writing,AUTHORSHIP,NOUN,quality,9
+Content writing,AUTHORSHIP,NOUN,video,9
+Content writing,AUTHORSHIP,NOUN,world,9
+Content writing,AUTHORSHIP,NOUN,hand,8
+Content writing,AUTHORSHIP,NOUN,piece,8
+Content writing,AUTHORSHIP,NOUN,post,8
+Content writing,AUTHORSHIP,NOUN,problem,8
+Content writing,AUTHORSHIP,NOUN,text,8
+Content writing,AUTHORSHIP,NOUN,graphic,7
+Content writing,AUTHORSHIP,NOUN,list,7
+Content writing,AUTHORSHIP,NOUN,set,7
+Content writing,AUTHORSHIP,NOUN,draft,6
+Content writing,AUTHORSHIP,NOUN,email,6
+Content writing,AUTHORSHIP,NOUN,kind,6
+Content writing,AUTHORSHIP,NOUN,novel,6
+Content writing,AUTHORSHIP,NOUN,web,6
+Content writing,AUTHORSHIP,NOUN,conversation,5
+Content writing,AUTHORSHIP,NOUN,fiction,5
+Content writing,AUTHORSHIP,NOUN,field,5
+Content writing,AUTHORSHIP,NOUN,skill,5
+Content writing,AUTHORSHIP,NOUN,ability,4
+Content writing,AUTHORSHIP,NOUN,cover,4
+Content writing,AUTHORSHIP,NOUN,line,4
+Content writing,AUTHORSHIP,NOUN,material,4
+Content writing,AUTHORSHIP,NOUN,number,4
+Content writing,AUTHORSHIP,NOUN,order,4
+Content writing,AUTHORSHIP,NOUN,script,4
+Content writing,AUTHORSHIP,NOUN,stage,4
+Content writing,AUTHORSHIP,NOUN,type,4
+Content writing,AUTHORSHIP,NOUN,description,3
+Content writing,AUTHORSHIP,NOUN,series,3
+Content writing,AUTHORSHIP,NOUN,side,3
+Content writing,AUTHORSHIP,NOUN,element,2
+Content writing,AUTHORSHIP,NOUN,note,2
+Content writing,AUTHORSHIP,NOUN,reference,2
+Content writing,AUTHORSHIP,NOUN,space,2
+Content writing,AUTHORSHIP,NOUN,effect,1
+Content writing,AUTHORSHIP,NOUN,music,1
+Content writing,AUTHORSHIP,NOUN,picture,1
+Content writing,AUTHORSHIP,NOUN,scene,1
+Content writing,AUTHORSHIP,NOUN,self,1
+Content writing,AUTHORSHIP,VERB,be,596
+Content writing,AUTHORSHIP,VERB,work,73
+Content writing,AUTHORSHIP,VERB,write,67
+Content writing,AUTHORSHIP,VERB,create,38
+Content writing,AUTHORSHIP,VERB,need,35
+Content writing,AUTHORSHIP,VERB,go,32
+Content writing,AUTHORSHIP,VERB,design,19
+Content writing,AUTHORSHIP,VERB,change,18
+Content writing,AUTHORSHIP,VERB,include,17
+Content writing,AUTHORSHIP,VERB,put,17
+Content writing,AUTHORSHIP,VERB,improve,14
+Content writing,AUTHORSHIP,VERB,plan,14
+Content writing,AUTHORSHIP,VERB,edit,12
+Content writing,AUTHORSHIP,VERB,love,12
+Content writing,AUTHORSHIP,VERB,read,12
+Content writing,AUTHORSHIP,VERB,pay,11
+Content writing,AUTHORSHIP,VERB,add,9
+Content writing,AUTHORSHIP,VERB,draw,9
+Content writing,AUTHORSHIP,VERB,involve,9
+Content writing,AUTHORSHIP,VERB,produce,9
+Content writing,AUTHORSHIP,VERB,answer,8
+Content writing,AUTHORSHIP,VERB,publish,8
+Content writing,AUTHORSHIP,VERB,build,7
+Content writing,AUTHORSHIP,VERB,draft,6
+Content writing,AUTHORSHIP,VERB,flow,6
+Content writing,AUTHORSHIP,VERB,identify,6
+Content writing,AUTHORSHIP,VERB,miss,6
+Content writing,AUTHORSHIP,VERB,send,6
+Content writing,AUTHORSHIP,VERB,lose,5
+Content writing,AUTHORSHIP,VERB,mention,5
+Content writing,AUTHORSHIP,VERB,sell,5
+Content writing,AUTHORSHIP,VERB,suggest,5
+Content writing,AUTHORSHIP,VERB,assist,4
+Content writing,AUTHORSHIP,VERB,finish,4
+Content writing,AUTHORSHIP,VERB,move,4
+Content writing,AUTHORSHIP,VERB,organize,4
+Content writing,AUTHORSHIP,VERB,remove,4
+Content writing,AUTHORSHIP,VERB,show,4
+Content writing,AUTHORSHIP,VERB,train,4
+Content writing,AUTHORSHIP,VERB,deliver,3
+Content writing,AUTHORSHIP,VERB,feed,3
+Content writing,AUTHORSHIP,VERB,lean,3
+Content writing,AUTHORSHIP,VERB,bring,2
+Content writing,AUTHORSHIP,VERB,craft,2
+Content writing,AUTHORSHIP,VERB,cut,2
+Content writing,AUTHORSHIP,VERB,enjoy,2
+Content writing,AUTHORSHIP,VERB,incorporate,2
+Content writing,AUTHORSHIP,VERB,integrate,2
+Content writing,AUTHORSHIP,VERB,receive,2
+Content writing,AUTHORSHIP,VERB,upload,2
+Content writing,AUTHORSHIP,VERB,combine,1
+Content writing,AUTHORSHIP,VERB,consume,1
+Content writing,CONTROL,NOUN,question,19
+Content writing,CONTROL,NOUN,decision,14
+Content writing,CONTROL,NOUN,experience,7
+Content writing,CONTROL,NOUN,control,6
+Content writing,CONTROL,NOUN,flow,6
+Content writing,CONTROL,NOUN,media,6
+Content writing,CONTROL,NOUN,direction,5
+Content writing,CONTROL,NOUN,chat,1
+Content writing,CONTROL,VERB,make,59
+Content writing,CONTROL,VERB,drive,13
+Content writing,CONTROL,VERB,guide,9
+Content writing,CONTROL,VERB,allow,7
+Content writing,CONTROL,VERB,let,7
+Content writing,CONTROL,VERB,set,7
+Content writing,CONTROL,VERB,decide,6
+Content writing,CONTROL,VERB,direct,5
+Content writing,CONTROL,VERB,lead,3
+Content writing,CONTROL,VERB,pick,3
+Content writing,CONTROL,VERB,choose,1
+Content writing,CONTROL,VERB,manage,1
+Content writing,IDEATION,NOUN,use,156
+Content writing,IDEATION,NOUN,idea,56
+Content writing,IDEATION,NOUN,style,31
+Content writing,IDEATION,NOUN,sound,26
+Content writing,IDEATION,NOUN,outline,23
+Content writing,IDEATION,NOUN,editing,18
+Content writing,IDEATION,NOUN,blog,17
+Content writing,IDEATION,NOUN,etc.,16
+Content writing,IDEATION,NOUN,board,11
+Content writing,IDEATION,NOUN,creativity,10
+Content writing,IDEATION,NOUN,area,8
+Content writing,IDEATION,NOUN,fact,8
+Content writing,IDEATION,NOUN,marketing,7
+Content writing,IDEATION,NOUN,reader,7
+Content writing,IDEATION,NOUN,planning,6
+Content writing,IDEATION,NOUN,term,6
+Content writing,IDEATION,NOUN,tone,6
+Content writing,IDEATION,NOUN,concept,5
+Content writing,IDEATION,NOUN,course,4
+Content writing,IDEATION,NOUN,feature,4
+Content writing,IDEATION,NOUN,inspiration,4
+Content writing,IDEATION,NOUN,theme,4
+Content writing,IDEATION,NOUN,situation,2
+Content writing,IDEATION,NOUN,sort,2
+Content writing,IDEATION,NOUN,option,1
+Content writing,IDEATION,VERB,have,235
+Content writing,IDEATION,VERB,like,79
+Content writing,IDEATION,VERB,think,60
+Content writing,IDEATION,VERB,get,57
+Content writing,IDEATION,VERB,find,42
+Content writing,IDEATION,VERB,give,31
+Content writing,IDEATION,VERB,start,27
+Content writing,IDEATION,VERB,look,26
+Content writing,IDEATION,VERB,come,25
+Content writing,IDEATION,VERB,research,25
+Content writing,IDEATION,VERB,outline,23
+Content writing,IDEATION,VERB,tell,21
+Content writing,IDEATION,VERB,copy,19
+Content writing,IDEATION,VERB,keep,12
+Content writing,IDEATION,VERB,try,12
+Content writing,IDEATION,VERB,learn,11
+Content writing,IDEATION,VERB,develop,10
+Content writing,IDEATION,VERB,base,9
+Content writing,IDEATION,VERB,consider,9
+Content writing,IDEATION,VERB,figure,9
+Content writing,IDEATION,VERB,utilize,9
+Content writing,IDEATION,VERB,brainstorm,8
+Content writing,IDEATION,VERB,shift,7
+Content writing,IDEATION,VERB,refine,6
+Content writing,IDEATION,VERB,talk,6
+Content writing,IDEATION,VERB,bounce,5
+Content writing,IDEATION,VERB,search,5
+Content writing,IDEATION,VERB,explain,4
+Content writing,IDEATION,VERB,follow,4
+Content writing,IDEATION,VERB,present,4
+Content writing,IDEATION,VERB,spark,4
+Content writing,IDEATION,VERB,stay,4
+Content writing,IDEATION,VERB,turn,4
+Content writing,IDEATION,VERB,discuss,3
+Content writing,IDEATION,VERB,imagine,3
+Content writing,IDEATION,VERB,prepare,3
+Content writing,IDEATION,VERB,connect,2
+Content writing,IDEATION,VERB,expand,2
+Content writing,IDEATION,VERB,offer,2
+Content writing,IDEATION,VERB,pull,2
+Content writing,IDEATION,VERB,complete,1
+Content writing,IDEATION,VERB,explore,1
+Content writing,IDEATION,VERB,hone,1
+Content writing,IDEATION,VERB,iterate,1
+Content writing,IDEATION,VERB,share,1
+Content writing,IDEATION,VERB,wait,1
+Fiction writing,AI_USE,NOUN,ai,423
+Fiction writing,AI_USE,NOUN,help,115
+Fiction writing,AI_USE,NOUN,time,104
+Fiction writing,AI_USE,NOUN,creative,95
+Fiction writing,AI_USE,NOUN,character,86
+Fiction writing,AI_USE,NOUN,research,86
+Fiction writing,AI_USE,NOUN,writer,64
+Fiction writing,AI_USE,NOUN,model,63
+Fiction writing,AI_USE,NOUN,one,63
+Fiction writing,AI_USE,NOUN,way,60
+Fiction writing,AI_USE,NOUN,process,49
+Fiction writing,AI_USE,NOUN,lot,46
+Fiction writing,AI_USE,NOUN,need,46
+Fiction writing,AI_USE,NOUN,plot,37
+Fiction writing,AI_USE,NOUN,point,34
+Fiction writing,AI_USE,NOUN,voice,33
+Fiction writing,AI_USE,NOUN,example,32
+Fiction writing,AI_USE,NOUN,change,31
+Fiction writing,AI_USE,NOUN,tool,28
+Fiction writing,AI_USE,NOUN,end,27
+Fiction writing,AI_USE,NOUN,edit,25
+Fiction writing,AI_USE,NOUN,feedback,25
+Fiction writing,AI_USE,NOUN,name,25
+Fiction writing,AI_USE,NOUN,author,24
+Fiction writing,AI_USE,NOUN,information,24
+Fiction writing,AI_USE,NOUN,suggestion,24
+Fiction writing,AI_USE,NOUN,brainstorming,21
+Fiction writing,AI_USE,NOUN,detail,21
+Fiction writing,AI_USE,NOUN,aspect,20
+Fiction writing,AI_USE,NOUN,concern,20
+Fiction writing,AI_USE,NOUN,job,19
+Fiction writing,AI_USE,NOUN,year,19
+Fiction writing,AI_USE,NOUN,search,18
+Fiction writing,AI_USE,NOUN,topic,17
+Fiction writing,AI_USE,NOUN,answer,15
+Fiction writing,AI_USE,NOUN,market,14
+Fiction writing,AI_USE,NOUN,money,14
+Fiction writing,AI_USE,NOUN,past,14
+Fiction writing,AI_USE,NOUN,place,14
+Fiction writing,AI_USE,NOUN,sense,14
+Fiction writing,AI_USE,NOUN,show,14
+Fiction writing,AI_USE,NOUN,assistant,13
+Fiction writing,AI_USE,NOUN,day,13
+Fiction writing,AI_USE,NOUN,task,13
+Fiction writing,AI_USE,NOUN,bit,12
+Fiction writing,AI_USE,NOUN,life,12
+Fiction writing,AI_USE,NOUN,month,12
+Fiction writing,AI_USE,NOUN,partner,12
+Fiction writing,AI_USE,NOUN,collaboration,11
+Fiction writing,AI_USE,NOUN,result,11
+Fiction writing,AI_USE,NOUN,stuff,11
+Fiction writing,AI_USE,NOUN,amount,10
+Fiction writing,AI_USE,NOUN,response,10
+Fiction writing,AI_USE,NOUN,step,10
+Fiction writing,AI_USE,NOUN,business,9
+Fiction writing,AI_USE,NOUN,case,9
+Fiction writing,AI_USE,NOUN,effort,9
+Fiction writing,AI_USE,NOUN,form,9
+Fiction writing,AI_USE,NOUN,google,9
+Fiction writing,AI_USE,NOUN,subject,9
+Fiction writing,AI_USE,NOUN,hour,8
+Fiction writing,AI_USE,NOUN,moment,8
+Fiction writing,AI_USE,NOUN,track,8
+Fiction writing,AI_USE,NOUN,artist,7
+Fiction writing,AI_USE,NOUN,client,7
+Fiction writing,AI_USE,NOUN,perspective,7
+Fiction writing,AI_USE,NOUN,prompt,7
+Fiction writing,AI_USE,NOUN,system,7
+Fiction writing,AI_USE,NOUN,thanks,7
+Fiction writing,AI_USE,NOUN,thought,7
+Fiction writing,AI_USE,NOUN,eye,6
+Fiction writing,AI_USE,NOUN,level,6
+Fiction writing,AI_USE,NOUN,mind,6
+Fiction writing,AI_USE,NOUN,role,6
+Fiction writing,AI_USE,NOUN,source,6
+Fiction writing,AI_USE,NOUN,week,6
+Fiction writing,AI_USE,NOUN,development,5
+Fiction writing,AI_USE,NOUN,output,5
+Fiction writing,AI_USE,NOUN,purpose,5
+Fiction writing,AI_USE,NOUN,software,5
+Fiction writing,AI_USE,NOUN,thinking,5
+Fiction writing,AI_USE,NOUN,audio,4
+Fiction writing,AI_USE,NOUN,creation,4
+Fiction writing,AI_USE,NOUN,gap,4
+Fiction writing,AI_USE,NOUN,generation,4
+Fiction writing,AI_USE,NOUN,issue,4
+Fiction writing,AI_USE,NOUN,background,3
+Fiction writing,AI_USE,NOUN,color,3
+Fiction writing,AI_USE,NOUN,company,3
+Fiction writing,AI_USE,NOUN,future,3
+Fiction writing,AI_USE,NOUN,industry,3
+Fiction writing,AI_USE,NOUN,llm,3
+Fiction writing,AI_USE,NOUN,production,3
+Fiction writing,AI_USE,NOUN,version,3
+Fiction writing,AI_USE,NOUN,designer,2
+Fiction writing,AI_USE,NOUN,datum,1
+Fiction writing,AI_USE,NOUN,knowledge,1
+Fiction writing,AI_USE,NOUN,service,1
+Fiction writing,AI_USE,VERB,do,289
+Fiction writing,AI_USE,VERB,use,263
+Fiction writing,AI_USE,VERB,help,115
+Fiction writing,AI_USE,VERB,feel,84
+Fiction writing,AI_USE,VERB,want,83
+Fiction writing,AI_USE,VERB,take,73
+Fiction writing,AI_USE,VERB,ask,68
+Fiction writing,AI_USE,VERB,see,67
+Fiction writing,AI_USE,VERB,know,50
+Fiction writing,AI_USE,VERB,say,43
+Fiction writing,AI_USE,VERB,sound,37
+Fiction writing,AI_USE,VERB,point,34
+Fiction writing,AI_USE,VERB,become,33
+Fiction writing,AI_USE,VERB,provide,30
+Fiction writing,AI_USE,VERB,end,27
+Fiction writing,AI_USE,VERB,check,24
+Fiction writing,AI_USE,VERB,generate,24
+Fiction writing,AI_USE,VERB,cover,20
+Fiction writing,AI_USE,VERB,happen,19
+Fiction writing,AI_USE,VERB,continue,18
+Fiction writing,AI_USE,VERB,hope,15
+Fiction writing,AI_USE,VERB,save,15
+Fiction writing,AI_USE,VERB,understand,15
+Fiction writing,AI_USE,VERB,describe,14
+Fiction writing,AI_USE,VERB,place,14
+Fiction writing,AI_USE,VERB,mean,12
+Fiction writing,AI_USE,VERB,tend,12
+Fiction writing,AI_USE,VERB,exist,11
+Fiction writing,AI_USE,VERB,begin,10
+Fiction writing,AI_USE,VERB,replace,10
+Fiction writing,AI_USE,VERB,spend,10
+Fiction writing,AI_USE,VERB,thank,10
+Fiction writing,AI_USE,VERB,depend,9
+Fiction writing,AI_USE,VERB,force,9
+Fiction writing,AI_USE,VERB,run,9
+Fiction writing,AI_USE,VERB,believe,8
+Fiction writing,AI_USE,VERB,focus,8
+Fiction writing,AI_USE,VERB,leave,8
+Fiction writing,AI_USE,VERB,seem,8
+Fiction writing,AI_USE,VERB,act,7
+Fiction writing,AI_USE,VERB,evolve,7
+Fiction writing,AI_USE,VERB,expect,7
+Fiction writing,AI_USE,VERB,hear,7
+Fiction writing,AI_USE,VERB,play,7
+Fiction writing,AI_USE,VERB,prefer,7
+Fiction writing,AI_USE,VERB,prompt,7
+Fiction writing,AI_USE,VERB,reach,7
+Fiction writing,AI_USE,VERB,rely,7
+Fiction writing,AI_USE,VERB,require,7
+Fiction writing,AI_USE,VERB,struggle,7
+Fiction writing,AI_USE,VERB,call,6
+Fiction writing,AI_USE,VERB,fit,6
+Fiction writing,AI_USE,VERB,grow,6
+Fiction writing,AI_USE,VERB,vary,6
+Fiction writing,AI_USE,VERB,capture,5
+Fiction writing,AI_USE,VERB,compare,5
+Fiction writing,AI_USE,VERB,hit,5
+Fiction writing,AI_USE,VERB,notice,5
+Fiction writing,AI_USE,VERB,realize,5
+Fiction writing,AI_USE,VERB,affect,4
+Fiction writing,AI_USE,VERB,fall,4
+Fiction writing,AI_USE,VERB,guess,4
+Fiction writing,AI_USE,VERB,maintain,4
+Fiction writing,AI_USE,VERB,record,4
+Fiction writing,AI_USE,VERB,serve,4
+Fiction writing,AI_USE,VERB,speak,4
+Fiction writing,AI_USE,VERB,worry,4
+Fiction writing,AI_USE,VERB,adapt,3
+Fiction writing,AI_USE,VERB,fill,3
+Fiction writing,AI_USE,VERB,handle,3
+Fiction writing,AI_USE,VERB,hire,3
+Fiction writing,AI_USE,VERB,seek,3
+Fiction writing,AI_USE,VERB,stand,3
+Fiction writing,AI_USE,VERB,buy,2
+Fiction writing,AI_USE,VERB,ensure,2
+Fiction writing,AI_USE,VERB,push,2
+Fiction writing,AI_USE,VERB,remember,2
+Fiction writing,AI_USE,VERB,accept,1
+Fiction writing,AI_USE,VERB,apply,1
+Fiction writing,AI_USE,VERB,attempt,1
+Fiction writing,AI_USE,VERB,avoid,1
+Fiction writing,AI_USE,VERB,face,1
+Fiction writing,AI_USE,VERB,paste,1
+Fiction writing,AUTHORSHIP,NOUN,work,135
+Fiction writing,AUTHORSHIP,NOUN,writing,109
+Fiction writing,AUTHORSHIP,NOUN,story,86
+Fiction writing,AUTHORSHIP,NOUN,book,83
+Fiction writing,AUTHORSHIP,NOUN,thing,77
+Fiction writing,AUTHORSHIP,NOUN,person,69
+Fiction writing,AUTHORSHIP,NOUN,novel,65
+Fiction writing,AUTHORSHIP,NOUN,project,49
+Fiction writing,AUTHORSHIP,NOUN,human,42
+Fiction writing,AUTHORSHIP,NOUN,scene,40
+Fiction writing,AUTHORSHIP,NOUN,draft,36
+Fiction writing,AUTHORSHIP,NOUN,part,26
+Fiction writing,AUTHORSHIP,NOUN,script,26
+Fiction writing,AUTHORSHIP,NOUN,word,26
+Fiction writing,AUTHORSHIP,NOUN,conversation,25
+Fiction writing,AUTHORSHIP,NOUN,video,25
+Fiction writing,AUTHORSHIP,NOUN,world,24
+Fiction writing,AUTHORSHIP,NOUN,material,22
+Fiction writing,AUTHORSHIP,NOUN,art,21
+Fiction writing,AUTHORSHIP,NOUN,fiction,21
+Fiction writing,AUTHORSHIP,NOUN,series,21
+Fiction writing,AUTHORSHIP,NOUN,stage,21
+Fiction writing,AUTHORSHIP,NOUN,cover,20
+Fiction writing,AUTHORSHIP,NOUN,image,20
+Fiction writing,AUTHORSHIP,NOUN,kind,19
+Fiction writing,AUTHORSHIP,NOUN,set,18
+Fiction writing,AUTHORSHIP,NOUN,text,17
+Fiction writing,AUTHORSHIP,NOUN,field,15
+Fiction writing,AUTHORSHIP,NOUN,film,15
+Fiction writing,AUTHORSHIP,NOUN,quality,15
+Fiction writing,AUTHORSHIP,NOUN,content,14
+Fiction writing,AUTHORSHIP,NOUN,piece,14
+Fiction writing,AUTHORSHIP,NOUN,design,13
+Fiction writing,AUTHORSHIP,NOUN,post,13
+Fiction writing,AUTHORSHIP,NOUN,line,11
+Fiction writing,AUTHORSHIP,NOUN,note,11
+Fiction writing,AUTHORSHIP,NOUN,self,11
+Fiction writing,AUTHORSHIP,NOUN,hand,10
+Fiction writing,AUTHORSHIP,NOUN,type,10
+Fiction writing,AUTHORSHIP,NOUN,list,9
+Fiction writing,AUTHORSHIP,NOUN,element,8
+Fiction writing,AUTHORSHIP,NOUN,couple,7
+Fiction writing,AUTHORSHIP,NOUN,event,7
+Fiction writing,AUTHORSHIP,NOUN,game,7
+Fiction writing,AUTHORSHIP,NOUN,number,7
+Fiction writing,AUTHORSHIP,NOUN,page,7
+Fiction writing,AUTHORSHIP,NOUN,ability,6
+Fiction writing,AUTHORSHIP,NOUN,article,6
+Fiction writing,AUTHORSHIP,NOUN,effect,6
+Fiction writing,AUTHORSHIP,NOUN,description,5
+Fiction writing,AUTHORSHIP,NOUN,email,5
+Fiction writing,AUTHORSHIP,NOUN,order,5
+Fiction writing,AUTHORSHIP,NOUN,product,5
+Fiction writing,AUTHORSHIP,NOUN,reference,5
+Fiction writing,AUTHORSHIP,NOUN,side,5
+Fiction writing,AUTHORSHIP,NOUN,skill,5
+Fiction writing,AUTHORSHIP,NOUN,website,5
+Fiction writing,AUTHORSHIP,NOUN,copy,4
+Fiction writing,AUTHORSHIP,NOUN,graphic,4
+Fiction writing,AUTHORSHIP,NOUN,music,4
+Fiction writing,AUTHORSHIP,NOUN,web,4
+Fiction writing,AUTHORSHIP,NOUN,picture,3
+Fiction writing,AUTHORSHIP,NOUN,problem,3
+Fiction writing,AUTHORSHIP,NOUN,space,3
+Fiction writing,AUTHORSHIP,NOUN,photo,2
+Fiction writing,AUTHORSHIP,NOUN,song,2
+Fiction writing,AUTHORSHIP,VERB,be,1191
+Fiction writing,AUTHORSHIP,VERB,write,150
+Fiction writing,AUTHORSHIP,VERB,work,135
+Fiction writing,AUTHORSHIP,VERB,go,63
+Fiction writing,AUTHORSHIP,VERB,create,58
+Fiction writing,AUTHORSHIP,VERB,need,46
+Fiction writing,AUTHORSHIP,VERB,draft,36
+Fiction writing,AUTHORSHIP,VERB,change,31
+Fiction writing,AUTHORSHIP,VERB,read,29
+Fiction writing,AUTHORSHIP,VERB,edit,25
+Fiction writing,AUTHORSHIP,VERB,improve,19
+Fiction writing,AUTHORSHIP,VERB,flow,18
+Fiction writing,AUTHORSHIP,VERB,put,18
+Fiction writing,AUTHORSHIP,VERB,involve,16
+Fiction writing,AUTHORSHIP,VERB,answer,15
+Fiction writing,AUTHORSHIP,VERB,finish,15
+Fiction writing,AUTHORSHIP,VERB,mention,15
+Fiction writing,AUTHORSHIP,VERB,move,15
+Fiction writing,AUTHORSHIP,VERB,show,14
+Fiction writing,AUTHORSHIP,VERB,break,13
+Fiction writing,AUTHORSHIP,VERB,design,13
+Fiction writing,AUTHORSHIP,VERB,produce,13
+Fiction writing,AUTHORSHIP,VERB,add,12
+Fiction writing,AUTHORSHIP,VERB,include,12
+Fiction writing,AUTHORSHIP,VERB,lose,12
+Fiction writing,AUTHORSHIP,VERB,suggest,11
+Fiction writing,AUTHORSHIP,VERB,consume,10
+Fiction writing,AUTHORSHIP,VERB,love,9
+Fiction writing,AUTHORSHIP,VERB,publish,9
+Fiction writing,AUTHORSHIP,VERB,enjoy,8
+Fiction writing,AUTHORSHIP,VERB,feed,8
+Fiction writing,AUTHORSHIP,VERB,miss,8
+Fiction writing,AUTHORSHIP,VERB,organize,8
+Fiction writing,AUTHORSHIP,VERB,pay,8
+Fiction writing,AUTHORSHIP,VERB,send,8
+Fiction writing,AUTHORSHIP,VERB,incorporate,7
+Fiction writing,AUTHORSHIP,VERB,sell,7
+Fiction writing,AUTHORSHIP,VERB,train,6
+Fiction writing,AUTHORSHIP,VERB,plan,5
+Fiction writing,AUTHORSHIP,VERB,build,4
+Fiction writing,AUTHORSHIP,VERB,cut,4
+Fiction writing,AUTHORSHIP,VERB,deliver,4
+Fiction writing,AUTHORSHIP,VERB,draw,4
+Fiction writing,AUTHORSHIP,VERB,identify,4
+Fiction writing,AUTHORSHIP,VERB,integrate,4
+Fiction writing,AUTHORSHIP,VERB,upload,4
+Fiction writing,AUTHORSHIP,VERB,receive,3
+Fiction writing,AUTHORSHIP,VERB,assist,2
+Fiction writing,AUTHORSHIP,VERB,craft,2
+Fiction writing,AUTHORSHIP,VERB,paint,2
+Fiction writing,AUTHORSHIP,VERB,bring,1
+Fiction writing,AUTHORSHIP,VERB,clean,1
+Fiction writing,AUTHORSHIP,VERB,combine,1
+Fiction writing,AUTHORSHIP,VERB,lean,1
+Fiction writing,AUTHORSHIP,VERB,mix,1
+Fiction writing,CONTROL,NOUN,question,36
+Fiction writing,CONTROL,NOUN,decision,28
+Fiction writing,CONTROL,NOUN,flow,18
+Fiction writing,CONTROL,NOUN,control,12
+Fiction writing,CONTROL,NOUN,experience,12
+Fiction writing,CONTROL,NOUN,media,11
+Fiction writing,CONTROL,NOUN,direction,7
+Fiction writing,CONTROL,NOUN,chat,6
+Fiction writing,CONTROL,VERB,make,133
+Fiction writing,CONTROL,VERB,let,19
+Fiction writing,CONTROL,VERB,set,18
+Fiction writing,CONTROL,VERB,drive,17
+Fiction writing,CONTROL,VERB,lead,10
+Fiction writing,CONTROL,VERB,allow,8
+Fiction writing,CONTROL,VERB,choose,7
+Fiction writing,CONTROL,VERB,decide,7
+Fiction writing,CONTROL,VERB,determine,7
+Fiction writing,CONTROL,VERB,guide,6
+Fiction writing,CONTROL,VERB,pick,5
+Fiction writing,CONTROL,VERB,manage,3
+Fiction writing,CONTROL,VERB,direct,1
+Fiction writing,IDEATION,NOUN,use,263
+Fiction writing,IDEATION,NOUN,idea,99
+Fiction writing,IDEATION,NOUN,sound,37
+Fiction writing,IDEATION,NOUN,editing,27
+Fiction writing,IDEATION,NOUN,area,22
+Fiction writing,IDEATION,NOUN,etc.,21
+Fiction writing,IDEATION,NOUN,concept,19
+Fiction writing,IDEATION,NOUN,style,17
+Fiction writing,IDEATION,NOUN,reader,15
+Fiction writing,IDEATION,NOUN,term,14
+Fiction writing,IDEATION,NOUN,sort,12
+Fiction writing,IDEATION,NOUN,outline,11
+Fiction writing,IDEATION,NOUN,situation,10
+Fiction writing,IDEATION,NOUN,creativity,9
+Fiction writing,IDEATION,NOUN,feature,9
+Fiction writing,IDEATION,NOUN,inspiration,9
+Fiction writing,IDEATION,NOUN,fact,8
+Fiction writing,IDEATION,NOUN,marketing,7
+Fiction writing,IDEATION,NOUN,course,6
+Fiction writing,IDEATION,NOUN,option,6
+Fiction writing,IDEATION,NOUN,blog,5
+Fiction writing,IDEATION,NOUN,theme,5
+Fiction writing,IDEATION,NOUN,tone,5
+Fiction writing,IDEATION,NOUN,board,2
+Fiction writing,IDEATION,NOUN,planning,2
+Fiction writing,IDEATION,VERB,have,397
+Fiction writing,IDEATION,VERB,like,133
+Fiction writing,IDEATION,VERB,think,112
+Fiction writing,IDEATION,VERB,get,105
+Fiction writing,IDEATION,VERB,research,86
+Fiction writing,IDEATION,VERB,give,59
+Fiction writing,IDEATION,VERB,come,57
+Fiction writing,IDEATION,VERB,find,49
+Fiction writing,IDEATION,VERB,start,41
+Fiction writing,IDEATION,VERB,tell,36
+Fiction writing,IDEATION,VERB,try,35
+Fiction writing,IDEATION,VERB,look,31
+Fiction writing,IDEATION,VERB,keep,22
+Fiction writing,IDEATION,VERB,search,18
+Fiction writing,IDEATION,VERB,spark,18
+Fiction writing,IDEATION,VERB,develop,15
+Fiction writing,IDEATION,VERB,base,13
+Fiction writing,IDEATION,VERB,learn,12
+Fiction writing,IDEATION,VERB,outline,11
+Fiction writing,IDEATION,VERB,brainstorm,10
+Fiction writing,IDEATION,VERB,expand,10
+Fiction writing,IDEATION,VERB,explore,8
+Fiction writing,IDEATION,VERB,refine,8
+Fiction writing,IDEATION,VERB,follow,7
+Fiction writing,IDEATION,VERB,turn,7
+Fiction writing,IDEATION,VERB,wait,7
+Fiction writing,IDEATION,VERB,discuss,6
+Fiction writing,IDEATION,VERB,explain,6
+Fiction writing,IDEATION,VERB,imagine,6
+Fiction writing,IDEATION,VERB,stay,6
+Fiction writing,IDEATION,VERB,talk,6
+Fiction writing,IDEATION,VERB,prepare,5
+Fiction writing,IDEATION,VERB,shift,5
+Fiction writing,IDEATION,VERB,bounce,4
+Fiction writing,IDEATION,VERB,complete,4
+Fiction writing,IDEATION,VERB,connect,4
+Fiction writing,IDEATION,VERB,consider,4
+Fiction writing,IDEATION,VERB,copy,4
+Fiction writing,IDEATION,VERB,hone,4
+Fiction writing,IDEATION,VERB,offer,4
+Fiction writing,IDEATION,VERB,present,4
+Fiction writing,IDEATION,VERB,pull,4
+Fiction writing,IDEATION,VERB,share,3
+Fiction writing,IDEATION,VERB,figure,2
+Fiction writing,IDEATION,VERB,utilize,2
+Fiction writing,IDEATION,VERB,engage,1
+Fiction writing,IDEATION,VERB,iterate,1
+Mix,AI_USE,NOUN,ai,191
+Mix,AI_USE,NOUN,model,56
+Mix,AI_USE,NOUN,help,53
+Mix,AI_USE,NOUN,creative,42
+Mix,AI_USE,NOUN,time,41
+Mix,AI_USE,NOUN,process,34
+Mix,AI_USE,NOUN,lot,31
+Mix,AI_USE,NOUN,edit,28
+Mix,AI_USE,NOUN,need,28
+Mix,AI_USE,NOUN,one,27
+Mix,AI_USE,NOUN,prompt,23
+Mix,AI_USE,NOUN,way,21
+Mix,AI_USE,NOUN,tool,20
+Mix,AI_USE,NOUN,change,19
+Mix,AI_USE,NOUN,example,18
+Mix,AI_USE,NOUN,name,17
+Mix,AI_USE,NOUN,client,16
+Mix,AI_USE,NOUN,research,15
+Mix,AI_USE,NOUN,bit,14
+Mix,AI_USE,NOUN,business,14
+Mix,AI_USE,NOUN,job,13
+Mix,AI_USE,NOUN,point,13
+Mix,AI_USE,NOUN,author,12
+Mix,AI_USE,NOUN,character,12
+Mix,AI_USE,NOUN,voice,12
+Mix,AI_USE,NOUN,artist,11
+Mix,AI_USE,NOUN,information,11
+Mix,AI_USE,NOUN,audio,10
+Mix,AI_USE,NOUN,concern,9
+Mix,AI_USE,NOUN,writer,9
+Mix,AI_USE,NOUN,amount,8
+Mix,AI_USE,NOUN,detail,8
+Mix,AI_USE,NOUN,result,8
+Mix,AI_USE,NOUN,topic,8
+Mix,AI_USE,NOUN,system,7
+Mix,AI_USE,NOUN,task,7
+Mix,AI_USE,NOUN,version,7
+Mix,AI_USE,NOUN,year,7
+Mix,AI_USE,NOUN,aspect,6
+Mix,AI_USE,NOUN,collaboration,6
+Mix,AI_USE,NOUN,day,6
+Mix,AI_USE,NOUN,end,6
+Mix,AI_USE,NOUN,generation,6
+Mix,AI_USE,NOUN,llm,6
+Mix,AI_USE,NOUN,output,6
+Mix,AI_USE,NOUN,past,6
+Mix,AI_USE,NOUN,place,6
+Mix,AI_USE,NOUN,response,6
+Mix,AI_USE,NOUN,role,6
+Mix,AI_USE,NOUN,thought,6
+Mix,AI_USE,NOUN,week,6
+Mix,AI_USE,NOUN,case,5
+Mix,AI_USE,NOUN,chatgpt,5
+Mix,AI_USE,NOUN,future,5
+Mix,AI_USE,NOUN,mind,5
+Mix,AI_USE,NOUN,sense,5
+Mix,AI_USE,NOUN,suggestion,5
+Mix,AI_USE,NOUN,answer,4
+Mix,AI_USE,NOUN,background,4
+Mix,AI_USE,NOUN,creation,4
+Mix,AI_USE,NOUN,level,4
+Mix,AI_USE,NOUN,partner,4
+Mix,AI_USE,NOUN,show,4
+Mix,AI_USE,NOUN,source,4
+Mix,AI_USE,NOUN,brainstorming,3
+Mix,AI_USE,NOUN,color,3
+Mix,AI_USE,NOUN,development,3
+Mix,AI_USE,NOUN,eye,3
+Mix,AI_USE,NOUN,feedback,3
+Mix,AI_USE,NOUN,form,3
+Mix,AI_USE,NOUN,gap,3
+Mix,AI_USE,NOUN,hour,3
+Mix,AI_USE,NOUN,industry,3
+Mix,AI_USE,NOUN,knowledge,3
+Mix,AI_USE,NOUN,market,3
+Mix,AI_USE,NOUN,moment,3
+Mix,AI_USE,NOUN,stuff,3
+Mix,AI_USE,NOUN,designer,2
+Mix,AI_USE,NOUN,effort,2
+Mix,AI_USE,NOUN,google,2
+Mix,AI_USE,NOUN,issue,2
+Mix,AI_USE,NOUN,life,2
+Mix,AI_USE,NOUN,month,2
+Mix,AI_USE,NOUN,perspective,2
+Mix,AI_USE,NOUN,plot,2
+Mix,AI_USE,NOUN,production,2
+Mix,AI_USE,NOUN,purpose,2
+Mix,AI_USE,NOUN,service,2
+Mix,AI_USE,NOUN,step,2
+Mix,AI_USE,NOUN,subject,2
+Mix,AI_USE,NOUN,thanks,2
+Mix,AI_USE,NOUN,thinking,2
+Mix,AI_USE,NOUN,track,2
+Mix,AI_USE,NOUN,company,1
+Mix,AI_USE,NOUN,datum,1
+Mix,AI_USE,NOUN,money,1
+Mix,AI_USE,NOUN,search,1
+Mix,AI_USE,NOUN,software,1
+Mix,AI_USE,VERB,use,141
+Mix,AI_USE,VERB,do,114
+Mix,AI_USE,VERB,help,53
+Mix,AI_USE,VERB,generate,38
+Mix,AI_USE,VERB,feel,35
+Mix,AI_USE,VERB,ask,30
+Mix,AI_USE,VERB,take,29
+Mix,AI_USE,VERB,say,28
+Mix,AI_USE,VERB,want,28
+Mix,AI_USE,VERB,know,25
+Mix,AI_USE,VERB,prompt,23
+Mix,AI_USE,VERB,see,22
+Mix,AI_USE,VERB,sound,19
+Mix,AI_USE,VERB,point,13
+Mix,AI_USE,VERB,become,12
+Mix,AI_USE,VERB,check,11
+Mix,AI_USE,VERB,fit,10
+Mix,AI_USE,VERB,continue,9
+Mix,AI_USE,VERB,begin,8
+Mix,AI_USE,VERB,run,8
+Mix,AI_USE,VERB,spend,8
+Mix,AI_USE,VERB,struggle,7
+Mix,AI_USE,VERB,describe,6
+Mix,AI_USE,VERB,end,6
+Mix,AI_USE,VERB,exist,6
+Mix,AI_USE,VERB,place,6
+Mix,AI_USE,VERB,provide,6
+Mix,AI_USE,VERB,worry,6
+Mix,AI_USE,VERB,believe,5
+Mix,AI_USE,VERB,paste,5
+Mix,AI_USE,VERB,record,5
+Mix,AI_USE,VERB,require,5
+Mix,AI_USE,VERB,seek,5
+Mix,AI_USE,VERB,seem,5
+Mix,AI_USE,VERB,speak,5
+Mix,AI_USE,VERB,avoid,4
+Mix,AI_USE,VERB,call,4
+Mix,AI_USE,VERB,fall,4
+Mix,AI_USE,VERB,focus,4
+Mix,AI_USE,VERB,rely,4
+Mix,AI_USE,VERB,compare,3
+Mix,AI_USE,VERB,expect,3
+Mix,AI_USE,VERB,face,3
+Mix,AI_USE,VERB,happen,3
+Mix,AI_USE,VERB,leave,3
+Mix,AI_USE,VERB,mean,3
+Mix,AI_USE,VERB,prefer,3
+Mix,AI_USE,VERB,remember,3
+Mix,AI_USE,VERB,save,3
+Mix,AI_USE,VERB,serve,3
+Mix,AI_USE,VERB,tend,3
+Mix,AI_USE,VERB,understand,3
+Mix,AI_USE,VERB,apply,2
+Mix,AI_USE,VERB,attempt,2
+Mix,AI_USE,VERB,automate,2
+Mix,AI_USE,VERB,capture,2
+Mix,AI_USE,VERB,cover,2
+Mix,AI_USE,VERB,depend,2
+Mix,AI_USE,VERB,handle,2
+Mix,AI_USE,VERB,maintain,2
+Mix,AI_USE,VERB,play,2
+Mix,AI_USE,VERB,realize,2
+Mix,AI_USE,VERB,replace,2
+Mix,AI_USE,VERB,thank,2
+Mix,AI_USE,VERB,vary,2
+Mix,AI_USE,VERB,act,1
+Mix,AI_USE,VERB,adapt,1
+Mix,AI_USE,VERB,ensure,1
+Mix,AI_USE,VERB,evolve,1
+Mix,AI_USE,VERB,fill,1
+Mix,AI_USE,VERB,force,1
+Mix,AI_USE,VERB,grow,1
+Mix,AI_USE,VERB,guess,1
+Mix,AI_USE,VERB,hit,1
+Mix,AI_USE,VERB,hope,1
+Mix,AI_USE,VERB,notice,1
+Mix,AI_USE,VERB,push,1
+Mix,AI_USE,VERB,reach,1
+Mix,AI_USE,VERB,stand,1
+Mix,AUTHORSHIP,NOUN,work,81
+Mix,AUTHORSHIP,NOUN,image,55
+Mix,AUTHORSHIP,NOUN,thing,33
+Mix,AUTHORSHIP,NOUN,person,25
+Mix,AUTHORSHIP,NOUN,writing,24
+Mix,AUTHORSHIP,NOUN,video,23
+Mix,AUTHORSHIP,NOUN,story,21
+Mix,AUTHORSHIP,NOUN,article,19
+Mix,AUTHORSHIP,NOUN,content,19
+Mix,AUTHORSHIP,NOUN,project,19
+Mix,AUTHORSHIP,NOUN,book,17
+Mix,AUTHORSHIP,NOUN,human,17
+Mix,AUTHORSHIP,NOUN,game,15
+Mix,AUTHORSHIP,NOUN,art,12
+Mix,AUTHORSHIP,NOUN,quality,12
+Mix,AUTHORSHIP,NOUN,asset,11
+Mix,AUTHORSHIP,NOUN,script,10
+Mix,AUTHORSHIP,NOUN,word,10
+Mix,AUTHORSHIP,NOUN,part,9
+Mix,AUTHORSHIP,NOUN,product,9
+Mix,AUTHORSHIP,NOUN,scene,9
+Mix,AUTHORSHIP,NOUN,photo,8
+Mix,AUTHORSHIP,NOUN,post,8
+Mix,AUTHORSHIP,NOUN,conversation,7
+Mix,AUTHORSHIP,NOUN,copy,7
+Mix,AUTHORSHIP,NOUN,design,6
+Mix,AUTHORSHIP,NOUN,element,6
+Mix,AUTHORSHIP,NOUN,kind,6
+Mix,AUTHORSHIP,NOUN,stage,6
+Mix,AUTHORSHIP,NOUN,website,6
+Mix,AUTHORSHIP,NOUN,world,6
+Mix,AUTHORSHIP,NOUN,effect,5
+Mix,AUTHORSHIP,NOUN,hand,5
+Mix,AUTHORSHIP,NOUN,novel,5
+Mix,AUTHORSHIP,NOUN,page,5
+Mix,AUTHORSHIP,NOUN,picture,5
+Mix,AUTHORSHIP,NOUN,piece,5
+Mix,AUTHORSHIP,NOUN,set,5
+Mix,AUTHORSHIP,NOUN,type,5
+Mix,AUTHORSHIP,NOUN,description,4
+Mix,AUTHORSHIP,NOUN,draft,4
+Mix,AUTHORSHIP,NOUN,event,4
+Mix,AUTHORSHIP,NOUN,graphic,4
+Mix,AUTHORSHIP,NOUN,music,4
+Mix,AUTHORSHIP,NOUN,note,4
+Mix,AUTHORSHIP,NOUN,skill,4
+Mix,AUTHORSHIP,NOUN,text,4
+Mix,AUTHORSHIP,NOUN,ability,3
+Mix,AUTHORSHIP,NOUN,line,3
+Mix,AUTHORSHIP,NOUN,reference,3
+Mix,AUTHORSHIP,NOUN,self,3
+Mix,AUTHORSHIP,NOUN,series,3
+Mix,AUTHORSHIP,NOUN,couple,2
+Mix,AUTHORSHIP,NOUN,cover,2
+Mix,AUTHORSHIP,NOUN,email,2
+Mix,AUTHORSHIP,NOUN,field,2
+Mix,AUTHORSHIP,NOUN,list,2
+Mix,AUTHORSHIP,NOUN,material,2
+Mix,AUTHORSHIP,NOUN,order,2
+Mix,AUTHORSHIP,NOUN,side,2
+Mix,AUTHORSHIP,NOUN,space,2
+Mix,AUTHORSHIP,NOUN,number,1
+Mix,AUTHORSHIP,NOUN,problem,1
+Mix,AUTHORSHIP,NOUN,song,1
+Mix,AUTHORSHIP,VERB,be,465
+Mix,AUTHORSHIP,VERB,work,81
+Mix,AUTHORSHIP,VERB,create,40
+Mix,AUTHORSHIP,VERB,go,31
+Mix,AUTHORSHIP,VERB,edit,28
+Mix,AUTHORSHIP,VERB,need,28
+Mix,AUTHORSHIP,VERB,write,24
+Mix,AUTHORSHIP,VERB,change,19
+Mix,AUTHORSHIP,VERB,put,13
+Mix,AUTHORSHIP,VERB,add,12
+Mix,AUTHORSHIP,VERB,cut,9
+Mix,AUTHORSHIP,VERB,remove,9
+Mix,AUTHORSHIP,VERB,improve,8
+Mix,AUTHORSHIP,VERB,mention,8
+Mix,AUTHORSHIP,VERB,produce,8
+Mix,AUTHORSHIP,VERB,love,7
+Mix,AUTHORSHIP,VERB,publish,7
+Mix,AUTHORSHIP,VERB,design,6
+Mix,AUTHORSHIP,VERB,include,6
+Mix,AUTHORSHIP,VERB,bring,5
+Mix,AUTHORSHIP,VERB,deliver,5
+Mix,AUTHORSHIP,VERB,read,5
+Mix,AUTHORSHIP,VERB,answer,4
+Mix,AUTHORSHIP,VERB,clean,4
+Mix,AUTHORSHIP,VERB,craft,4
+Mix,AUTHORSHIP,VERB,draft,4
+Mix,AUTHORSHIP,VERB,identify,4
+Mix,AUTHORSHIP,VERB,organize,4
+Mix,AUTHORSHIP,VERB,sell,4
+Mix,AUTHORSHIP,VERB,show,4
+Mix,AUTHORSHIP,VERB,train,4
+Mix,AUTHORSHIP,VERB,finish,3
+Mix,AUTHORSHIP,VERB,flow,3
+Mix,AUTHORSHIP,VERB,integrate,3
+Mix,AUTHORSHIP,VERB,involve,3
+Mix,AUTHORSHIP,VERB,suggest,3
+Mix,AUTHORSHIP,VERB,assist,2
+Mix,AUTHORSHIP,VERB,build,2
+Mix,AUTHORSHIP,VERB,draw,2
+Mix,AUTHORSHIP,VERB,enjoy,2
+Mix,AUTHORSHIP,VERB,feed,2
+Mix,AUTHORSHIP,VERB,lean,2
+Mix,AUTHORSHIP,VERB,lose,2
+Mix,AUTHORSHIP,VERB,mix,2
+Mix,AUTHORSHIP,VERB,pay,2
+Mix,AUTHORSHIP,VERB,plan,2
+Mix,AUTHORSHIP,VERB,break,1
+Mix,AUTHORSHIP,VERB,combine,1
+Mix,AUTHORSHIP,VERB,miss,1
+Mix,AUTHORSHIP,VERB,paint,1
+Mix,AUTHORSHIP,VERB,send,1
+Mix,AUTHORSHIP,VERB,upload,1
+Mix,CONTROL,NOUN,chat,12
+Mix,CONTROL,NOUN,question,11
+Mix,CONTROL,NOUN,decision,8
+Mix,CONTROL,NOUN,experience,8
+Mix,CONTROL,NOUN,media,8
+Mix,CONTROL,NOUN,direction,5
+Mix,CONTROL,NOUN,control,3
+Mix,CONTROL,NOUN,flow,3
+Mix,CONTROL,VERB,make,35
+Mix,CONTROL,VERB,let,14
+Mix,CONTROL,VERB,decide,6
+Mix,CONTROL,VERB,drive,6
+Mix,CONTROL,VERB,set,5
+Mix,CONTROL,VERB,allow,4
+Mix,CONTROL,VERB,choose,2
+Mix,CONTROL,VERB,direct,2
+Mix,CONTROL,VERB,manage,2
+Mix,CONTROL,VERB,pick,2
+Mix,CONTROL,VERB,guide,1
+Mix,CONTROL,VERB,lead,1
+Mix,IDEATION,NOUN,use,141
+Mix,IDEATION,NOUN,idea,68
+Mix,IDEATION,NOUN,sound,19
+Mix,IDEATION,NOUN,editing,14
+Mix,IDEATION,NOUN,etc.,9
+Mix,IDEATION,NOUN,outline,7
+Mix,IDEATION,NOUN,sort,7
+Mix,IDEATION,NOUN,style,7
+Mix,IDEATION,NOUN,fact,5
+Mix,IDEATION,NOUN,tone,5
+Mix,IDEATION,NOUN,concept,4
+Mix,IDEATION,NOUN,inspiration,4
+Mix,IDEATION,NOUN,marketing,4
+Mix,IDEATION,NOUN,term,4
+Mix,IDEATION,NOUN,option,3
+Mix,IDEATION,NOUN,reader,3
+Mix,IDEATION,NOUN,blog,2
+Mix,IDEATION,NOUN,creativity,2
+Mix,IDEATION,NOUN,situation,2
+Mix,IDEATION,NOUN,area,1
+Mix,IDEATION,NOUN,course,1
+Mix,IDEATION,NOUN,feature,1
+Mix,IDEATION,NOUN,theme,1
+Mix,IDEATION,VERB,have,183
+Mix,IDEATION,VERB,like,65
+Mix,IDEATION,VERB,think,60
+Mix,IDEATION,VERB,come,50
+Mix,IDEATION,VERB,get,46
+Mix,IDEATION,VERB,give,32
+Mix,IDEATION,VERB,find,23
+Mix,IDEATION,VERB,look,20
+Mix,IDEATION,VERB,try,17
+Mix,IDEATION,VERB,research,15
+Mix,IDEATION,VERB,start,13
+Mix,IDEATION,VERB,base,10
+Mix,IDEATION,VERB,keep,10
+Mix,IDEATION,VERB,brainstorm,9
+Mix,IDEATION,VERB,copy,7
+Mix,IDEATION,VERB,outline,7
+Mix,IDEATION,VERB,turn,7
+Mix,IDEATION,VERB,consider,6
+Mix,IDEATION,VERB,expand,5
+Mix,IDEATION,VERB,tell,5
+Mix,IDEATION,VERB,complete,4
+Mix,IDEATION,VERB,hone,4
+Mix,IDEATION,VERB,talk,4
+Mix,IDEATION,VERB,follow,3
+Mix,IDEATION,VERB,iterate,3
+Mix,IDEATION,VERB,learn,3
+Mix,IDEATION,VERB,present,3
+Mix,IDEATION,VERB,pull,3
+Mix,IDEATION,VERB,connect,2
+Mix,IDEATION,VERB,figure,2
+Mix,IDEATION,VERB,imagine,2
+Mix,IDEATION,VERB,prepare,2
+Mix,IDEATION,VERB,refine,2
+Mix,IDEATION,VERB,bounce,1
+Mix,IDEATION,VERB,develop,1
+Mix,IDEATION,VERB,discuss,1
+Mix,IDEATION,VERB,explore,1
+Mix,IDEATION,VERB,search,1
+Mix,IDEATION,VERB,share,1
+Mix,IDEATION,VERB,shift,1
+Mix,IDEATION,VERB,spark,1

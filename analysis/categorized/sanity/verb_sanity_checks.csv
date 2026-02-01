@@ -1,0 +1,8 @@
+verb,note,dep_role,count,top_dep_lemmas
+take,,AGENT,1,ai:1
+take,,OBJECT,137,it:7; job:7; work:7; place:7; time:7; that:5; i:5; lot:4; idea:3; amount:3
+take,,SUBJECT,99,it:24; i:20; that:14; ai:14; which:5; writing:3; who:2; we:2; get:1; project:1
+use,,AGENT,4,ai:1; other:1; person:1; party:1
+use,,OBJECT,521,ai:185; it:114; tool:26; that:24; model:16; they:12; image:8; something:6; idea:5; style:3
+use,,SUBJECT,249,i:172; that:10; ai:9; you:7; who:7; it:6; person:6; we:6; they:2; model:2
+control,NO EDGES FOUND,,0,
