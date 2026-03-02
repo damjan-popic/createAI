@@ -3,6 +3,7 @@ from __future__ import annotations
 
 import argparse
 import math
+import re
 from pathlib import Path
 from typing import Dict, List, Tuple
 
@@ -64,33 +65,82 @@ def is_nounish_upos(upos: str) -> bool:
 # -------------------------
 
 DEFAULT_AI_LEMMAS = {
-    "ai", "claude", "anthropic", "model", "llm", "gpt", "chatgpt",
-    "assistant", "chatbot", "system", "tool", "bot", "machine"
+    # Explicit AI markers (keep this strict; avoid generic words like "tool" by default)
+    "ai", "llm", "model", "chatgpt", "gpt", "openai", "anthropic", "claude",
+    "copilot", "gemini", "bard", "midjourney", "dalle", "stable-diffusion", "stablediffusion",
 }
+
+# Ambiguous AI-ish nouns. We *do not* treat these as AI by default because they often refer
+# to generic systems/tools/assistants or even humans (e.g. "assistant") in interview talk.
+AI_AMBIGUOUS = {"assistant", "tool", "system", "software", "machine", "chatbot", "bot"}
+
+# Word-boundary-aware AI detector for dep_text (handles 'GPT-4', 'ChatGPT', etc.)
+AI_TEXT_RE = re.compile(
+    r"""(?ix)
+    \bchatgpt\b
+    |\bgpt(?:\s*[-–]?\s*\d+)?\b
+    |\bllm\b
+    |\bopenai\b
+    |\banthropic\b
+    |\bclaude\b
+    |\bcopilot\b
+    |\bgemini\b
+    |\bbard\b
+    |\bmidjourney\b
+    |\bdall[- ]?e\b
+    |\bstable\s*diffusion\b
+    \b
+    """
+)
+
 
 DEFAULT_HUMAN_LEMMAS = {
-    "i", "we", "me", "us", "my", "our", "mine", "ours",
-    "you", "your", "yours",
+    # Pronouns (subject + common forms)
+    "i", "we", "you", "he", "she", "they",
+    "me", "us", "him", "her", "them",
+    "my", "our", "your", "his", "their",
+    "mine", "ours", "yours", "hers", "theirs",
+
+    # Person nouns (extend as needed)
     "person", "people", "human", "user", "client", "customer",
     "writer", "author", "artist", "designer", "editor", "producer",
-    "team", "colleague", "coworker", "manager", "boss"
+    "team", "colleague", "coworker", "manager", "boss", "student", "teacher"
 }
 
-HUMAN_PRONOUNS = {"i", "we", "me", "us", "my", "our", "mine", "ours"}
+
+HUMAN_PRONOUNS = {"i", "we", "you", "he", "she", "they"}
 
 def classify_agent(lemma: str, text: str, ai_set: set, human_set: set) -> str:
     """
     Returns: HUMAN | AI | OTHER
-    Priority: explicit AI markers > explicit human markers > OTHER
+
+    IMPORTANT:
+    - Classification is based on the *dependent token* (subject/agent), not speaker role.
+    - Keep AI matching strict; default ambiguous tokens (tool/system/assistant) to OTHER.
     """
     l = norm_lower(lemma)
     t = norm_lower(text)
 
-    if l in ai_set or t in ai_set:
-        return "AI"
-    if l in human_set or t in human_set or l in HUMAN_PRONOUNS:
+    # Hard defaults for very common non-human pronouns/determiners
+    if l in {"it", "this", "that", "there", "something", "anything", "everything", "nothing"}:
+        return "OTHER"
+
+    # HUMAN: pronouns and explicit human nouns
+    if l in HUMAN_PRONOUNS or l in human_set or t in human_set:
         return "HUMAN"
-    # crude heuristic: "it" etc -> OTHER
+
+    # AI: explicit AI lexicon hits (lemma) OR strong text-pattern matches (e.g., GPT-4, ChatGPT)
+    if l in ai_set:
+        return "AI"
+
+    # Text-based AI patterns (word-boundary aware to avoid 'said' matching 'ai', etc.)
+    if AI_TEXT_RE.search(t):
+        return "AI"
+
+    # Ambiguous AI-ish nouns default to OTHER unless user overrides ai_set via --ai_lex
+    if l in AI_AMBIGUOUS:
+        return "OTHER"
+
     return "OTHER"
 
 
@@ -249,33 +299,43 @@ SUBJ_DEPRELS = {"nsubj", "csubj", "nsubj:pass", "csubj:pass"}
 OBJ_DEPRELS = {"obj", "iobj"}
 AGENT_DEPRELS = {"obl:agent", "agent"}  # UD varies; include both
 
-def verb_subject_object_edges(df: pd.DataFrame) -> pd.DataFrame:
+def verb_subject_object_edges(tok: pd.DataFrame, cb: pd.DataFrame, clusters: pd.DataFrame) -> Tuple[pd.DataFrame, str]:
     """
-    df is codebook-restricted token-level with head/deprel.
-    We extract edges where dependent -> head is a verb token in codebook (by lemma + upos VERB)
-    Output: head_lemma, category(head), dep_lemma, dep_text, dep_deprel, role(subject/object/agent), cluster, section
-    """
-    # Create a per-sentence lookup: head token rows and dep token rows live in same df subset.
-    # We'll join dependents to their heads within the same (transcript_id, section, sent_id).
-    keys = ["transcript_id", "section", "sent_id"]
-    heads = df[keys + ["word_id", "lemma", "upos", "category"]].copy()
-    heads = heads.rename(columns={"word_id": "head_word_id", "lemma": "head_lemma", "upos": "head_upos", "category": "head_category"})
+    Extract dependency edges for CODEBOOK VERBS (heads) from the FULL token table (dependents unrestricted).
 
-    deps = df[keys + ["word_id", "head", "deprel", "lemma", "text"]].copy()
+    Why: if you inner-join the entire token universe to the codebook before extraction, you drop
+    pronoun/person subjects (e.g. 'I', 'we'), which biases HUMAN/AI attribution badly.
+
+    Output: one row per dependency edge pointing to a categorized codebook verb token.
+    Columns include:
+      transcript_id, section, sent_id,
+      verb_lemma, verb_category, verb_word_id,
+      dep_lemma, dep_text, dep_word_id, deprel,
+      edge_role (SUBJECT/OBJECT/AGENT/OTHER),
+      cluster (group/long_cluster if available)
+    """
+    # Heads: only categorized verbs from codebook, matched to verb tokens
+    cb_verbs = cb[cb["pos_group"].eq("VERB")].copy()
+    heads = tok.merge(cb_verbs, on="lemma", how="inner")
+    heads = heads[heads["upos"].str.upper().eq("VERB")].copy()
+
+    keys = ["transcript_id", "section", "sent_id"]
+    heads = heads[keys + ["word_id", "lemma", "category"]].rename(
+        columns={"word_id": "verb_word_id", "lemma": "verb_lemma", "category": "verb_category"}
+    )
+
+    # Dependents: unrestricted token table, but keep only relevant deprels for speed
+    deps = tok[keys + ["word_id", "head", "deprel", "lemma", "text"]].copy()
+    deps = deps[deps["deprel"].isin(SUBJ_DEPRELS | OBJ_DEPRELS | AGENT_DEPRELS)].copy()
     deps = deps.rename(columns={"word_id": "dep_word_id", "lemma": "dep_lemma", "text": "dep_text"})
 
-    # match dep.head -> head.word_id
     merged = deps.merge(
         heads,
         left_on=keys + ["head"],
-        right_on=keys + ["head_word_id"],
+        right_on=keys + ["verb_word_id"],
         how="inner",
     )
 
-    # only edges pointing to verbs (head_upos == VERB)
-    merged = merged[merged["head_upos"].str.upper().eq("VERB")].copy()
-
-    # classify edge role
     def edge_role(dep_rel: str) -> str:
         r = dep_rel.strip()
         if r in SUBJ_DEPRELS:
@@ -287,41 +347,52 @@ def verb_subject_object_edges(df: pd.DataFrame) -> pd.DataFrame:
         return "OTHER"
 
     merged["edge_role"] = merged["deprel"].apply(edge_role)
-    return merged
+
+    # Attach cluster label
+    merged = merged.merge(clusters, on="transcript_id", how="left")
+    cluster_col = detect_cluster_col(merged)
+    if cluster_col not in merged.columns:
+        merged["group"] = "UNKNOWN"
+        cluster_col = "group"
+    merged[cluster_col] = merged[cluster_col].fillna("UNKNOWN")
+
+    return merged, cluster_col
 
 
-def agent_shares_by_category(edges: pd.DataFrame, df: pd.DataFrame, cluster_col: str,
-                            ai_set: set, human_set: set) -> Tuple[pd.DataFrame, pd.DataFrame]:
+def agent_shares_by_category(edges: pd.DataFrame, cluster_col: str,
+                            ai_set: set, human_set: set) -> Tuple[pd.DataFrame, pd.DataFrame, pd.DataFrame]:
     """
-    Compute subject/agent share by category (HUMAN/AI/OTHER) for verbs in that category.
-    Also outputs top subject lemmas by category.
+    Compute SUBJECT/AGENT shares by verb category: HUMAN/AI/OTHER.
+    Also returns:
+      - top subject lemmas by category
+      - shares by category × cluster
     """
-    # add cluster info to edges (from df)
-    # easiest: merge using transcript_id + section + sent_id + dep_word_id
-    keys = ["transcript_id", "section", "sent_id"]
-    dep_keyed = df[keys + ["word_id", cluster_col]].rename(columns={"word_id": "dep_word_id"})
-    edges = edges.merge(dep_keyed, on=keys + ["dep_word_id"], how="left")
-
-    # focus on SUBJECT and AGENT edges
     focus = edges[edges["edge_role"].isin(["SUBJECT", "AGENT"])].copy()
     focus["agent_class"] = focus.apply(lambda r: classify_agent(r["dep_lemma"], r["dep_text"], ai_set, human_set), axis=1)
-
     focus["edge_count"] = 1
 
-    shares = focus.groupby(["head_category", "agent_class"], as_index=False)["edge_count"].sum()
-    tot = focus.groupby(["head_category"], as_index=False)["edge_count"].sum().rename(columns={"edge_count": "total_edges"})
-    shares = shares.merge(tot, on="head_category", how="left")
+    # By category
+    shares = focus.groupby(["verb_category", "agent_class"], as_index=False)["edge_count"].sum()
+    tot = focus.groupby(["verb_category"], as_index=False)["edge_count"].sum().rename(columns={"edge_count": "total_edges"})
+    shares = shares.merge(tot, on="verb_category", how="left")
     shares["share"] = shares["edge_count"] / shares["total_edges"]
-    shares = shares.rename(columns={"head_category": "category"}).sort_values(["category", "share"], ascending=[True, False])
+    shares = shares.rename(columns={"verb_category": "category"}).sort_values(["category", "share"], ascending=[True, False])
 
-    # top subject lemmas per category
+    # Top subject lemmas per category
     top_subj = (
-        focus.groupby(["head_category", "agent_class", "dep_lemma"], as_index=False)["edge_count"].sum()
-        .sort_values(["head_category", "agent_class", "edge_count"], ascending=[True, True, False])
-        .rename(columns={"head_category": "category", "dep_lemma": "subject_lemma"})
+        focus.groupby(["verb_category", "agent_class", "dep_lemma"], as_index=False)["edge_count"].sum()
+        .sort_values(["verb_category", "agent_class", "edge_count"], ascending=[True, True, False])
+        .rename(columns={"verb_category": "category", "dep_lemma": "subject_lemma"})
     )
 
-    return shares, top_subj
+    # By category × cluster (shares)
+    by_cl = focus.groupby(["verb_category", cluster_col, "agent_class"], as_index=False)["edge_count"].sum()
+    tot_cl = focus.groupby(["verb_category", cluster_col], as_index=False)["edge_count"].sum().rename(columns={"edge_count": "total_edges"})
+    by_cl = by_cl.merge(tot_cl, on=["verb_category", cluster_col], how="left")
+    by_cl["share"] = by_cl["edge_count"] / by_cl["total_edges"]
+    by_cl = by_cl.rename(columns={"verb_category": "category", cluster_col: "cluster"})
+
+    return shares, top_subj, by_cl
 
 
 # -------------------------
@@ -459,11 +530,12 @@ def main():
     if args.human_lex:
         human_set |= {norm_lower(x) for x in Path(args.human_lex).read_text(encoding="utf-8").splitlines() if x.strip()}
 
-    edges = verb_subject_object_edges(df)
+    edges, edge_cluster_col = verb_subject_object_edges(tok, cb, cl)
     edges.to_csv(outdir / "verb_dependency_edges_full.csv", index=False)
 
-    agent_shares, top_subjects = agent_shares_by_category(edges, df, cluster_col, ai_set, human_set)
+    agent_shares, top_subjects, agent_shares_cluster = agent_shares_by_category(edges, edge_cluster_col, ai_set, human_set)
     agent_shares.to_csv(outdir / "agent_shares_by_category.csv", index=False)
+    agent_shares_cluster.to_csv(outdir / "agent_shares_by_category_cluster.csv", index=False)
     top_subjects.to_csv(outdir / "top_subjects_by_category_full.csv", index=False)
 
     # Plot agent shares (stacked by category)

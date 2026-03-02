@@ -1,0 +1,324 @@
+verb_category,section,cluster,agent_class,edge_count,total,share
+AI_USE,basic_job_description,"Art, design, crafts",HUMAN,6,7,0.8571428571428571
+AI_USE,basic_job_description,"Art, design, crafts",OTHER,1,7,0.14285714285714285
+AI_USE,basic_job_description,Audiovisual,HUMAN,2,2,1.0
+AI_USE,basic_job_description,Content writing,HUMAN,2,3,0.6666666666666666
+AI_USE,basic_job_description,Content writing,OTHER,1,3,0.3333333333333333
+AI_USE,basic_job_description,Fiction writing,HUMAN,5,8,0.625
+AI_USE,basic_job_description,Fiction writing,OTHER,3,8,0.375
+AI_USE,basic_job_description,Mix,AI,4,35,0.11428571428571428
+AI_USE,basic_job_description,Mix,HUMAN,26,35,0.7428571428571429
+AI_USE,basic_job_description,Mix,OTHER,5,35,0.14285714285714285
+AI_USE,changed_aspects,"Art, design, crafts",AI,4,42,0.09523809523809523
+AI_USE,changed_aspects,"Art, design, crafts",HUMAN,26,42,0.6190476190476191
+AI_USE,changed_aspects,"Art, design, crafts",OTHER,12,42,0.2857142857142857
+AI_USE,changed_aspects,Audiovisual,HUMAN,6,13,0.46153846153846156
+AI_USE,changed_aspects,Audiovisual,OTHER,7,13,0.5384615384615384
+AI_USE,changed_aspects,Content writing,AI,6,40,0.15
+AI_USE,changed_aspects,Content writing,HUMAN,19,40,0.475
+AI_USE,changed_aspects,Content writing,OTHER,15,40,0.375
+AI_USE,changed_aspects,Fiction writing,AI,5,31,0.16129032258064516
+AI_USE,changed_aspects,Fiction writing,HUMAN,16,31,0.5161290322580645
+AI_USE,changed_aspects,Fiction writing,OTHER,10,31,0.3225806451612903
+AI_USE,changed_aspects,Mix,HUMAN,11,17,0.6470588235294118
+AI_USE,changed_aspects,Mix,OTHER,6,17,0.35294117647058826
+AI_USE,concerns,"Art, design, crafts",AI,3,34,0.08823529411764706
+AI_USE,concerns,"Art, design, crafts",HUMAN,18,34,0.5294117647058824
+AI_USE,concerns,"Art, design, crafts",OTHER,13,34,0.38235294117647056
+AI_USE,concerns,Audiovisual,HUMAN,7,13,0.5384615384615384
+AI_USE,concerns,Audiovisual,OTHER,6,13,0.46153846153846156
+AI_USE,concerns,Content writing,HUMAN,6,12,0.5
+AI_USE,concerns,Content writing,OTHER,6,12,0.5
+AI_USE,concerns,Fiction writing,HUMAN,20,33,0.6060606060606061
+AI_USE,concerns,Fiction writing,OTHER,13,33,0.3939393939393939
+AI_USE,concerns,Mix,AI,1,12,0.08333333333333333
+AI_USE,concerns,Mix,HUMAN,5,12,0.4166666666666667
+AI_USE,concerns,Mix,OTHER,6,12,0.5
+AI_USE,dynamic,"Art, design, crafts",AI,4,47,0.0851063829787234
+AI_USE,dynamic,"Art, design, crafts",HUMAN,36,47,0.7659574468085106
+AI_USE,dynamic,"Art, design, crafts",OTHER,7,47,0.14893617021276595
+AI_USE,dynamic,Audiovisual,HUMAN,10,15,0.6666666666666666
+AI_USE,dynamic,Audiovisual,OTHER,5,15,0.3333333333333333
+AI_USE,dynamic,Content writing,AI,1,23,0.043478260869565216
+AI_USE,dynamic,Content writing,HUMAN,18,23,0.782608695652174
+AI_USE,dynamic,Content writing,OTHER,4,23,0.17391304347826086
+AI_USE,dynamic,Fiction writing,AI,6,42,0.14285714285714285
+AI_USE,dynamic,Fiction writing,HUMAN,28,42,0.6666666666666666
+AI_USE,dynamic,Fiction writing,OTHER,8,42,0.19047619047619047
+AI_USE,dynamic,Mix,AI,1,8,0.125
+AI_USE,dynamic,Mix,HUMAN,5,8,0.625
+AI_USE,dynamic,Mix,OTHER,2,8,0.25
+AI_USE,extra_comments,"Art, design, crafts",HUMAN,7,8,0.875
+AI_USE,extra_comments,"Art, design, crafts",OTHER,1,8,0.125
+AI_USE,extra_comments,Audiovisual,HUMAN,3,5,0.6
+AI_USE,extra_comments,Audiovisual,OTHER,2,5,0.4
+AI_USE,extra_comments,Content writing,HUMAN,1,3,0.3333333333333333
+AI_USE,extra_comments,Content writing,OTHER,2,3,0.6666666666666666
+AI_USE,extra_comments,Fiction writing,HUMAN,4,6,0.6666666666666666
+AI_USE,extra_comments,Fiction writing,OTHER,2,6,0.3333333333333333
+AI_USE,extra_comments,Mix,HUMAN,2,3,0.6666666666666666
+AI_USE,extra_comments,Mix,OTHER,1,3,0.3333333333333333
+AI_USE,future,"Art, design, crafts",AI,2,32,0.0625
+AI_USE,future,"Art, design, crafts",HUMAN,20,32,0.625
+AI_USE,future,"Art, design, crafts",OTHER,10,32,0.3125
+AI_USE,future,Audiovisual,HUMAN,8,13,0.6153846153846154
+AI_USE,future,Audiovisual,OTHER,5,13,0.38461538461538464
+AI_USE,future,Content writing,AI,2,16,0.125
+AI_USE,future,Content writing,HUMAN,13,16,0.8125
+AI_USE,future,Content writing,OTHER,1,16,0.0625
+AI_USE,future,Fiction writing,AI,1,32,0.03125
+AI_USE,future,Fiction writing,HUMAN,26,32,0.8125
+AI_USE,future,Fiction writing,OTHER,5,32,0.15625
+AI_USE,future,Mix,HUMAN,15,19,0.7894736842105263
+AI_USE,future,Mix,OTHER,4,19,0.21052631578947367
+AI_USE,project_example,"Art, design, crafts",AI,5,100,0.05
+AI_USE,project_example,"Art, design, crafts",HUMAN,68,100,0.68
+AI_USE,project_example,"Art, design, crafts",OTHER,27,100,0.27
+AI_USE,project_example,Audiovisual,AI,2,34,0.058823529411764705
+AI_USE,project_example,Audiovisual,HUMAN,26,34,0.7647058823529411
+AI_USE,project_example,Audiovisual,OTHER,6,34,0.17647058823529413
+AI_USE,project_example,Content writing,AI,1,45,0.022222222222222223
+AI_USE,project_example,Content writing,HUMAN,35,45,0.7777777777777778
+AI_USE,project_example,Content writing,OTHER,9,45,0.2
+AI_USE,project_example,Fiction writing,AI,1,63,0.015873015873015872
+AI_USE,project_example,Fiction writing,HUMAN,47,63,0.746031746031746
+AI_USE,project_example,Fiction writing,OTHER,15,63,0.23809523809523808
+AI_USE,project_example,Mix,AI,3,20,0.15
+AI_USE,project_example,Mix,HUMAN,13,20,0.65
+AI_USE,project_example,Mix,OTHER,4,20,0.2
+AI_USE,walkthrough,"Art, design, crafts",AI,2,129,0.015503875968992248
+AI_USE,walkthrough,"Art, design, crafts",HUMAN,110,129,0.8527131782945736
+AI_USE,walkthrough,"Art, design, crafts",OTHER,17,129,0.13178294573643412
+AI_USE,walkthrough,Audiovisual,AI,1,42,0.023809523809523808
+AI_USE,walkthrough,Audiovisual,HUMAN,34,42,0.8095238095238095
+AI_USE,walkthrough,Audiovisual,OTHER,7,42,0.16666666666666666
+AI_USE,walkthrough,Content writing,AI,4,60,0.06666666666666667
+AI_USE,walkthrough,Content writing,HUMAN,53,60,0.8833333333333333
+AI_USE,walkthrough,Content writing,OTHER,3,60,0.05
+AI_USE,walkthrough,Fiction writing,AI,9,120,0.075
+AI_USE,walkthrough,Fiction writing,HUMAN,90,120,0.75
+AI_USE,walkthrough,Fiction writing,OTHER,21,120,0.175
+AI_USE,walkthrough,Mix,HUMAN,39,43,0.9069767441860465
+AI_USE,walkthrough,Mix,OTHER,4,43,0.09302325581395349
+AUTHORSHIP,basic_job_description,"Art, design, crafts",HUMAN,30,37,0.8108108108108109
+AUTHORSHIP,basic_job_description,"Art, design, crafts",OTHER,7,37,0.1891891891891892
+AUTHORSHIP,basic_job_description,Audiovisual,HUMAN,4,4,1.0
+AUTHORSHIP,basic_job_description,Content writing,HUMAN,18,20,0.9
+AUTHORSHIP,basic_job_description,Content writing,OTHER,2,20,0.1
+AUTHORSHIP,basic_job_description,Fiction writing,HUMAN,28,29,0.9655172413793104
+AUTHORSHIP,basic_job_description,Fiction writing,OTHER,1,29,0.034482758620689655
+AUTHORSHIP,basic_job_description,Mix,HUMAN,5,6,0.8333333333333334
+AUTHORSHIP,basic_job_description,Mix,OTHER,1,6,0.16666666666666666
+AUTHORSHIP,changed_aspects,"Art, design, crafts",HUMAN,6,11,0.5454545454545454
+AUTHORSHIP,changed_aspects,"Art, design, crafts",OTHER,5,11,0.45454545454545453
+AUTHORSHIP,changed_aspects,Audiovisual,HUMAN,2,3,0.6666666666666666
+AUTHORSHIP,changed_aspects,Audiovisual,OTHER,1,3,0.3333333333333333
+AUTHORSHIP,changed_aspects,Content writing,OTHER,1,1,1.0
+AUTHORSHIP,changed_aspects,Fiction writing,HUMAN,8,9,0.8888888888888888
+AUTHORSHIP,changed_aspects,Fiction writing,OTHER,1,9,0.1111111111111111
+AUTHORSHIP,changed_aspects,Mix,OTHER,4,4,1.0
+AUTHORSHIP,concerns,"Art, design, crafts",AI,2,14,0.14285714285714285
+AUTHORSHIP,concerns,"Art, design, crafts",HUMAN,6,14,0.42857142857142855
+AUTHORSHIP,concerns,"Art, design, crafts",OTHER,6,14,0.42857142857142855
+AUTHORSHIP,concerns,Audiovisual,AI,1,4,0.25
+AUTHORSHIP,concerns,Audiovisual,HUMAN,1,4,0.25
+AUTHORSHIP,concerns,Audiovisual,OTHER,2,4,0.5
+AUTHORSHIP,concerns,Content writing,AI,1,9,0.1111111111111111
+AUTHORSHIP,concerns,Content writing,HUMAN,4,9,0.4444444444444444
+AUTHORSHIP,concerns,Content writing,OTHER,4,9,0.4444444444444444
+AUTHORSHIP,concerns,Fiction writing,AI,6,14,0.42857142857142855
+AUTHORSHIP,concerns,Fiction writing,HUMAN,2,14,0.14285714285714285
+AUTHORSHIP,concerns,Fiction writing,OTHER,6,14,0.42857142857142855
+AUTHORSHIP,concerns,Mix,AI,3,10,0.3
+AUTHORSHIP,concerns,Mix,HUMAN,4,10,0.4
+AUTHORSHIP,concerns,Mix,OTHER,3,10,0.3
+AUTHORSHIP,dynamic,"Art, design, crafts",AI,3,6,0.5
+AUTHORSHIP,dynamic,"Art, design, crafts",HUMAN,2,6,0.3333333333333333
+AUTHORSHIP,dynamic,"Art, design, crafts",OTHER,1,6,0.16666666666666666
+AUTHORSHIP,dynamic,Audiovisual,HUMAN,5,6,0.8333333333333334
+AUTHORSHIP,dynamic,Audiovisual,OTHER,1,6,0.16666666666666666
+AUTHORSHIP,dynamic,Content writing,AI,1,7,0.14285714285714285
+AUTHORSHIP,dynamic,Content writing,HUMAN,4,7,0.5714285714285714
+AUTHORSHIP,dynamic,Content writing,OTHER,2,7,0.2857142857142857
+AUTHORSHIP,dynamic,Fiction writing,AI,1,9,0.1111111111111111
+AUTHORSHIP,dynamic,Fiction writing,HUMAN,6,9,0.6666666666666666
+AUTHORSHIP,dynamic,Fiction writing,OTHER,2,9,0.2222222222222222
+AUTHORSHIP,dynamic,Mix,OTHER,1,1,1.0
+AUTHORSHIP,extra_comments,"Art, design, crafts",AI,2,7,0.2857142857142857
+AUTHORSHIP,extra_comments,"Art, design, crafts",HUMAN,2,7,0.2857142857142857
+AUTHORSHIP,extra_comments,"Art, design, crafts",OTHER,3,7,0.42857142857142855
+AUTHORSHIP,extra_comments,Audiovisual,HUMAN,3,3,1.0
+AUTHORSHIP,extra_comments,Fiction writing,HUMAN,1,1,1.0
+AUTHORSHIP,future,"Art, design, crafts",AI,1,5,0.2
+AUTHORSHIP,future,"Art, design, crafts",HUMAN,1,5,0.2
+AUTHORSHIP,future,"Art, design, crafts",OTHER,3,5,0.6
+AUTHORSHIP,future,Audiovisual,AI,1,3,0.3333333333333333
+AUTHORSHIP,future,Audiovisual,HUMAN,2,3,0.6666666666666666
+AUTHORSHIP,future,Content writing,AI,1,3,0.3333333333333333
+AUTHORSHIP,future,Content writing,HUMAN,1,3,0.3333333333333333
+AUTHORSHIP,future,Content writing,OTHER,1,3,0.3333333333333333
+AUTHORSHIP,future,Fiction writing,AI,3,8,0.375
+AUTHORSHIP,future,Fiction writing,HUMAN,4,8,0.5
+AUTHORSHIP,future,Fiction writing,OTHER,1,8,0.125
+AUTHORSHIP,future,Mix,OTHER,3,3,1.0
+AUTHORSHIP,intro,"Art, design, crafts",HUMAN,1,1,1.0
+AUTHORSHIP,project_example,"Art, design, crafts",AI,2,23,0.08695652173913043
+AUTHORSHIP,project_example,"Art, design, crafts",HUMAN,14,23,0.6086956521739131
+AUTHORSHIP,project_example,"Art, design, crafts",OTHER,7,23,0.30434782608695654
+AUTHORSHIP,project_example,Audiovisual,HUMAN,4,6,0.6666666666666666
+AUTHORSHIP,project_example,Audiovisual,OTHER,2,6,0.3333333333333333
+AUTHORSHIP,project_example,Content writing,HUMAN,10,13,0.7692307692307693
+AUTHORSHIP,project_example,Content writing,OTHER,3,13,0.23076923076923078
+AUTHORSHIP,project_example,Fiction writing,AI,2,24,0.08333333333333333
+AUTHORSHIP,project_example,Fiction writing,HUMAN,14,24,0.5833333333333334
+AUTHORSHIP,project_example,Fiction writing,OTHER,8,24,0.3333333333333333
+AUTHORSHIP,project_example,Mix,AI,3,6,0.5
+AUTHORSHIP,project_example,Mix,HUMAN,2,6,0.3333333333333333
+AUTHORSHIP,project_example,Mix,OTHER,1,6,0.16666666666666666
+AUTHORSHIP,walkthrough,"Art, design, crafts",AI,1,19,0.05263157894736842
+AUTHORSHIP,walkthrough,"Art, design, crafts",HUMAN,15,19,0.7894736842105263
+AUTHORSHIP,walkthrough,"Art, design, crafts",OTHER,3,19,0.15789473684210525
+AUTHORSHIP,walkthrough,Audiovisual,HUMAN,8,8,1.0
+AUTHORSHIP,walkthrough,Content writing,AI,1,9,0.1111111111111111
+AUTHORSHIP,walkthrough,Content writing,HUMAN,8,9,0.8888888888888888
+AUTHORSHIP,walkthrough,Fiction writing,AI,2,20,0.1
+AUTHORSHIP,walkthrough,Fiction writing,HUMAN,13,20,0.65
+AUTHORSHIP,walkthrough,Fiction writing,OTHER,5,20,0.25
+AUTHORSHIP,walkthrough,Mix,AI,2,5,0.4
+AUTHORSHIP,walkthrough,Mix,HUMAN,3,5,0.6
+CONTROL,basic_job_description,"Art, design, crafts",HUMAN,3,6,0.5
+CONTROL,basic_job_description,"Art, design, crafts",OTHER,3,6,0.5
+CONTROL,basic_job_description,Audiovisual,HUMAN,1,1,1.0
+CONTROL,basic_job_description,Content writing,HUMAN,2,2,1.0
+CONTROL,basic_job_description,Fiction writing,HUMAN,4,6,0.6666666666666666
+CONTROL,basic_job_description,Fiction writing,OTHER,2,6,0.3333333333333333
+CONTROL,basic_job_description,Mix,HUMAN,4,5,0.8
+CONTROL,basic_job_description,Mix,OTHER,1,5,0.2
+CONTROL,changed_aspects,"Art, design, crafts",AI,2,9,0.2222222222222222
+CONTROL,changed_aspects,"Art, design, crafts",HUMAN,2,9,0.2222222222222222
+CONTROL,changed_aspects,"Art, design, crafts",OTHER,5,9,0.5555555555555556
+CONTROL,changed_aspects,Audiovisual,HUMAN,2,4,0.5
+CONTROL,changed_aspects,Audiovisual,OTHER,2,4,0.5
+CONTROL,changed_aspects,Content writing,AI,1,2,0.5
+CONTROL,changed_aspects,Content writing,HUMAN,1,2,0.5
+CONTROL,changed_aspects,Fiction writing,HUMAN,3,6,0.5
+CONTROL,changed_aspects,Fiction writing,OTHER,3,6,0.5
+CONTROL,changed_aspects,Mix,AI,1,4,0.25
+CONTROL,changed_aspects,Mix,HUMAN,1,4,0.25
+CONTROL,changed_aspects,Mix,OTHER,2,4,0.5
+CONTROL,concerns,"Art, design, crafts",HUMAN,8,13,0.6153846153846154
+CONTROL,concerns,"Art, design, crafts",OTHER,5,13,0.38461538461538464
+CONTROL,concerns,Audiovisual,AI,1,6,0.16666666666666666
+CONTROL,concerns,Audiovisual,HUMAN,4,6,0.6666666666666666
+CONTROL,concerns,Audiovisual,OTHER,1,6,0.16666666666666666
+CONTROL,concerns,Content writing,HUMAN,10,13,0.7692307692307693
+CONTROL,concerns,Content writing,OTHER,3,13,0.23076923076923078
+CONTROL,concerns,Fiction writing,HUMAN,4,7,0.5714285714285714
+CONTROL,concerns,Fiction writing,OTHER,3,7,0.42857142857142855
+CONTROL,concerns,Mix,AI,2,10,0.2
+CONTROL,concerns,Mix,HUMAN,4,10,0.4
+CONTROL,concerns,Mix,OTHER,4,10,0.4
+CONTROL,dynamic,"Art, design, crafts",AI,4,25,0.16
+CONTROL,dynamic,"Art, design, crafts",HUMAN,18,25,0.72
+CONTROL,dynamic,"Art, design, crafts",OTHER,3,25,0.12
+CONTROL,dynamic,Audiovisual,HUMAN,4,5,0.8
+CONTROL,dynamic,Audiovisual,OTHER,1,5,0.2
+CONTROL,dynamic,Content writing,HUMAN,12,17,0.7058823529411765
+CONTROL,dynamic,Content writing,OTHER,5,17,0.29411764705882354
+CONTROL,dynamic,Fiction writing,AI,1,19,0.05263157894736842
+CONTROL,dynamic,Fiction writing,HUMAN,14,19,0.7368421052631579
+CONTROL,dynamic,Fiction writing,OTHER,4,19,0.21052631578947367
+CONTROL,dynamic,Mix,HUMAN,9,10,0.9
+CONTROL,dynamic,Mix,OTHER,1,10,0.1
+CONTROL,extra_comments,Fiction writing,HUMAN,1,1,1.0
+CONTROL,extra_comments,Mix,OTHER,1,1,1.0
+CONTROL,future,"Art, design, crafts",HUMAN,4,6,0.6666666666666666
+CONTROL,future,"Art, design, crafts",OTHER,2,6,0.3333333333333333
+CONTROL,future,Audiovisual,HUMAN,5,7,0.7142857142857143
+CONTROL,future,Audiovisual,OTHER,2,7,0.2857142857142857
+CONTROL,future,Content writing,HUMAN,1,2,0.5
+CONTROL,future,Content writing,OTHER,1,2,0.5
+CONTROL,future,Fiction writing,AI,1,7,0.14285714285714285
+CONTROL,future,Fiction writing,HUMAN,3,7,0.42857142857142855
+CONTROL,future,Fiction writing,OTHER,3,7,0.42857142857142855
+CONTROL,future,Mix,HUMAN,2,2,1.0
+CONTROL,intro,"Art, design, crafts",OTHER,2,2,1.0
+CONTROL,intro,Content writing,HUMAN,1,1,1.0
+CONTROL,intro,Fiction writing,OTHER,2,2,1.0
+CONTROL,project_example,"Art, design, crafts",AI,2,17,0.11764705882352941
+CONTROL,project_example,"Art, design, crafts",HUMAN,3,17,0.17647058823529413
+CONTROL,project_example,"Art, design, crafts",OTHER,12,17,0.7058823529411765
+CONTROL,project_example,Audiovisual,HUMAN,2,3,0.6666666666666666
+CONTROL,project_example,Audiovisual,OTHER,1,3,0.3333333333333333
+CONTROL,project_example,Content writing,HUMAN,1,2,0.5
+CONTROL,project_example,Content writing,OTHER,1,2,0.5
+CONTROL,project_example,Fiction writing,HUMAN,5,9,0.5555555555555556
+CONTROL,project_example,Fiction writing,OTHER,4,9,0.4444444444444444
+CONTROL,project_example,Mix,HUMAN,6,7,0.8571428571428571
+CONTROL,project_example,Mix,OTHER,1,7,0.14285714285714285
+CONTROL,walkthrough,"Art, design, crafts",AI,1,12,0.08333333333333333
+CONTROL,walkthrough,"Art, design, crafts",HUMAN,6,12,0.5
+CONTROL,walkthrough,"Art, design, crafts",OTHER,5,12,0.4166666666666667
+CONTROL,walkthrough,Audiovisual,HUMAN,2,4,0.5
+CONTROL,walkthrough,Audiovisual,OTHER,2,4,0.5
+CONTROL,walkthrough,Content writing,HUMAN,2,2,1.0
+CONTROL,walkthrough,Fiction writing,HUMAN,5,8,0.625
+CONTROL,walkthrough,Fiction writing,OTHER,3,8,0.375
+CONTROL,walkthrough,Mix,HUMAN,3,4,0.75
+CONTROL,walkthrough,Mix,OTHER,1,4,0.25
+IDEATION,basic_job_description,"Art, design, crafts",HUMAN,4,4,1.0
+IDEATION,basic_job_description,Content writing,HUMAN,2,3,0.6666666666666666
+IDEATION,basic_job_description,Content writing,OTHER,1,3,0.3333333333333333
+IDEATION,basic_job_description,Fiction writing,HUMAN,6,9,0.6666666666666666
+IDEATION,basic_job_description,Fiction writing,OTHER,3,9,0.3333333333333333
+IDEATION,basic_job_description,Mix,HUMAN,1,1,1.0
+IDEATION,changed_aspects,"Art, design, crafts",HUMAN,16,16,1.0
+IDEATION,changed_aspects,Audiovisual,HUMAN,6,6,1.0
+IDEATION,changed_aspects,Content writing,HUMAN,5,5,1.0
+IDEATION,changed_aspects,Fiction writing,HUMAN,13,13,1.0
+IDEATION,changed_aspects,Mix,HUMAN,6,6,1.0
+IDEATION,concerns,"Art, design, crafts",HUMAN,19,19,1.0
+IDEATION,concerns,Audiovisual,HUMAN,9,10,0.9
+IDEATION,concerns,Audiovisual,OTHER,1,10,0.1
+IDEATION,concerns,Content writing,HUMAN,15,15,1.0
+IDEATION,concerns,Fiction writing,HUMAN,18,19,0.9473684210526315
+IDEATION,concerns,Fiction writing,OTHER,1,19,0.05263157894736842
+IDEATION,concerns,Mix,HUMAN,11,12,0.9166666666666666
+IDEATION,concerns,Mix,OTHER,1,12,0.08333333333333333
+IDEATION,dynamic,"Art, design, crafts",HUMAN,8,8,1.0
+IDEATION,dynamic,Audiovisual,HUMAN,5,5,1.0
+IDEATION,dynamic,Content writing,HUMAN,8,10,0.8
+IDEATION,dynamic,Content writing,OTHER,2,10,0.2
+IDEATION,dynamic,Fiction writing,HUMAN,11,13,0.8461538461538461
+IDEATION,dynamic,Fiction writing,OTHER,2,13,0.15384615384615385
+IDEATION,dynamic,Mix,HUMAN,4,6,0.6666666666666666
+IDEATION,dynamic,Mix,OTHER,2,6,0.3333333333333333
+IDEATION,extra_comments,"Art, design, crafts",HUMAN,17,17,1.0
+IDEATION,extra_comments,Audiovisual,HUMAN,4,4,1.0
+IDEATION,extra_comments,Content writing,HUMAN,10,10,1.0
+IDEATION,extra_comments,Fiction writing,HUMAN,14,14,1.0
+IDEATION,extra_comments,Mix,HUMAN,2,2,1.0
+IDEATION,future,"Art, design, crafts",HUMAN,31,32,0.96875
+IDEATION,future,"Art, design, crafts",OTHER,1,32,0.03125
+IDEATION,future,Audiovisual,HUMAN,20,20,1.0
+IDEATION,future,Content writing,HUMAN,13,13,1.0
+IDEATION,future,Fiction writing,HUMAN,25,25,1.0
+IDEATION,future,Mix,HUMAN,10,10,1.0
+IDEATION,intro,"Art, design, crafts",HUMAN,1,1,1.0
+IDEATION,intro,Audiovisual,HUMAN,1,1,1.0
+IDEATION,intro,Fiction writing,HUMAN,2,2,1.0
+IDEATION,intro,Mix,HUMAN,1,1,1.0
+IDEATION,project_example,"Art, design, crafts",HUMAN,8,8,1.0
+IDEATION,project_example,Audiovisual,HUMAN,1,2,0.5
+IDEATION,project_example,Audiovisual,OTHER,1,2,0.5
+IDEATION,project_example,Content writing,HUMAN,9,10,0.9
+IDEATION,project_example,Content writing,OTHER,1,10,0.1
+IDEATION,project_example,Fiction writing,AI,1,9,0.1111111111111111
+IDEATION,project_example,Fiction writing,HUMAN,7,9,0.7777777777777778
+IDEATION,project_example,Fiction writing,OTHER,1,9,0.1111111111111111
+IDEATION,project_example,Mix,HUMAN,8,8,1.0
+IDEATION,walkthrough,"Art, design, crafts",HUMAN,6,6,1.0
+IDEATION,walkthrough,Audiovisual,HUMAN,3,3,1.0
+IDEATION,walkthrough,Content writing,HUMAN,5,5,1.0
+IDEATION,walkthrough,Fiction writing,HUMAN,4,4,1.0
+IDEATION,walkthrough,Mix,HUMAN,5,5,1.0

@@ -1,0 +1,116 @@
+section,cluster,agent_class,edge_count,total,share
+basic_job_description,"Art, design, crafts",HUMAN,43,54,0.7962962962962963
+basic_job_description,"Art, design, crafts",OTHER,11,54,0.2037037037037037
+basic_job_description,Audiovisual,HUMAN,7,7,1.0
+basic_job_description,Content writing,HUMAN,24,28,0.8571428571428571
+basic_job_description,Content writing,OTHER,4,28,0.14285714285714285
+basic_job_description,Fiction writing,HUMAN,43,52,0.8269230769230769
+basic_job_description,Fiction writing,OTHER,9,52,0.17307692307692307
+basic_job_description,Mix,AI,4,47,0.0851063829787234
+basic_job_description,Mix,HUMAN,36,47,0.7659574468085106
+basic_job_description,Mix,OTHER,7,47,0.14893617021276595
+changed_aspects,"Art, design, crafts",AI,6,78,0.07692307692307693
+changed_aspects,"Art, design, crafts",HUMAN,50,78,0.6410256410256411
+changed_aspects,"Art, design, crafts",OTHER,22,78,0.28205128205128205
+changed_aspects,Audiovisual,HUMAN,16,26,0.6153846153846154
+changed_aspects,Audiovisual,OTHER,10,26,0.38461538461538464
+changed_aspects,Content writing,AI,7,48,0.14583333333333334
+changed_aspects,Content writing,HUMAN,25,48,0.5208333333333334
+changed_aspects,Content writing,OTHER,16,48,0.3333333333333333
+changed_aspects,Fiction writing,AI,5,59,0.0847457627118644
+changed_aspects,Fiction writing,HUMAN,40,59,0.6779661016949152
+changed_aspects,Fiction writing,OTHER,14,59,0.23728813559322035
+changed_aspects,Mix,AI,1,31,0.03225806451612903
+changed_aspects,Mix,HUMAN,18,31,0.5806451612903226
+changed_aspects,Mix,OTHER,12,31,0.3870967741935484
+concerns,"Art, design, crafts",AI,5,80,0.0625
+concerns,"Art, design, crafts",HUMAN,51,80,0.6375
+concerns,"Art, design, crafts",OTHER,24,80,0.3
+concerns,Audiovisual,AI,2,33,0.06060606060606061
+concerns,Audiovisual,HUMAN,21,33,0.6363636363636364
+concerns,Audiovisual,OTHER,10,33,0.30303030303030304
+concerns,Content writing,AI,1,49,0.02040816326530612
+concerns,Content writing,HUMAN,35,49,0.7142857142857143
+concerns,Content writing,OTHER,13,49,0.2653061224489796
+concerns,Fiction writing,AI,6,73,0.0821917808219178
+concerns,Fiction writing,HUMAN,44,73,0.6027397260273972
+concerns,Fiction writing,OTHER,23,73,0.3150684931506849
+concerns,Mix,AI,6,44,0.13636363636363635
+concerns,Mix,HUMAN,24,44,0.5454545454545454
+concerns,Mix,OTHER,14,44,0.3181818181818182
+dynamic,"Art, design, crafts",AI,11,86,0.12790697674418605
+dynamic,"Art, design, crafts",HUMAN,64,86,0.7441860465116279
+dynamic,"Art, design, crafts",OTHER,11,86,0.12790697674418605
+dynamic,Audiovisual,HUMAN,24,31,0.7741935483870968
+dynamic,Audiovisual,OTHER,7,31,0.22580645161290322
+dynamic,Content writing,AI,2,57,0.03508771929824561
+dynamic,Content writing,HUMAN,42,57,0.7368421052631579
+dynamic,Content writing,OTHER,13,57,0.22807017543859648
+dynamic,Fiction writing,AI,8,83,0.0963855421686747
+dynamic,Fiction writing,HUMAN,59,83,0.7108433734939759
+dynamic,Fiction writing,OTHER,16,83,0.1927710843373494
+dynamic,Mix,AI,1,25,0.04
+dynamic,Mix,HUMAN,18,25,0.72
+dynamic,Mix,OTHER,6,25,0.24
+extra_comments,"Art, design, crafts",AI,2,32,0.0625
+extra_comments,"Art, design, crafts",HUMAN,26,32,0.8125
+extra_comments,"Art, design, crafts",OTHER,4,32,0.125
+extra_comments,Audiovisual,HUMAN,10,12,0.8333333333333334
+extra_comments,Audiovisual,OTHER,2,12,0.16666666666666666
+extra_comments,Content writing,HUMAN,11,13,0.8461538461538461
+extra_comments,Content writing,OTHER,2,13,0.15384615384615385
+extra_comments,Fiction writing,HUMAN,20,22,0.9090909090909091
+extra_comments,Fiction writing,OTHER,2,22,0.09090909090909091
+extra_comments,Mix,HUMAN,4,6,0.6666666666666666
+extra_comments,Mix,OTHER,2,6,0.3333333333333333
+future,"Art, design, crafts",AI,3,75,0.04
+future,"Art, design, crafts",HUMAN,56,75,0.7466666666666667
+future,"Art, design, crafts",OTHER,16,75,0.21333333333333335
+future,Audiovisual,AI,1,43,0.023255813953488372
+future,Audiovisual,HUMAN,35,43,0.813953488372093
+future,Audiovisual,OTHER,7,43,0.16279069767441862
+future,Content writing,AI,3,34,0.08823529411764706
+future,Content writing,HUMAN,28,34,0.8235294117647058
+future,Content writing,OTHER,3,34,0.08823529411764706
+future,Fiction writing,AI,5,72,0.06944444444444445
+future,Fiction writing,HUMAN,58,72,0.8055555555555556
+future,Fiction writing,OTHER,9,72,0.125
+future,Mix,HUMAN,27,34,0.7941176470588235
+future,Mix,OTHER,7,34,0.20588235294117646
+intro,"Art, design, crafts",HUMAN,2,4,0.5
+intro,"Art, design, crafts",OTHER,2,4,0.5
+intro,Audiovisual,HUMAN,1,1,1.0
+intro,Content writing,HUMAN,1,1,1.0
+intro,Fiction writing,HUMAN,2,4,0.5
+intro,Fiction writing,OTHER,2,4,0.5
+intro,Mix,HUMAN,1,1,1.0
+project_example,"Art, design, crafts",AI,9,148,0.060810810810810814
+project_example,"Art, design, crafts",HUMAN,93,148,0.6283783783783784
+project_example,"Art, design, crafts",OTHER,46,148,0.3108108108108108
+project_example,Audiovisual,AI,2,45,0.044444444444444446
+project_example,Audiovisual,HUMAN,33,45,0.7333333333333333
+project_example,Audiovisual,OTHER,10,45,0.2222222222222222
+project_example,Content writing,AI,1,70,0.014285714285714285
+project_example,Content writing,HUMAN,55,70,0.7857142857142857
+project_example,Content writing,OTHER,14,70,0.2
+project_example,Fiction writing,AI,4,105,0.0380952380952381
+project_example,Fiction writing,HUMAN,73,105,0.6952380952380952
+project_example,Fiction writing,OTHER,28,105,0.26666666666666666
+project_example,Mix,AI,6,41,0.14634146341463414
+project_example,Mix,HUMAN,29,41,0.7073170731707317
+project_example,Mix,OTHER,6,41,0.14634146341463414
+walkthrough,"Art, design, crafts",AI,4,166,0.024096385542168676
+walkthrough,"Art, design, crafts",HUMAN,137,166,0.8253012048192772
+walkthrough,"Art, design, crafts",OTHER,25,166,0.15060240963855423
+walkthrough,Audiovisual,AI,1,57,0.017543859649122806
+walkthrough,Audiovisual,HUMAN,47,57,0.8245614035087719
+walkthrough,Audiovisual,OTHER,9,57,0.15789473684210525
+walkthrough,Content writing,AI,5,76,0.06578947368421052
+walkthrough,Content writing,HUMAN,68,76,0.8947368421052632
+walkthrough,Content writing,OTHER,3,76,0.039473684210526314
+walkthrough,Fiction writing,AI,11,152,0.07236842105263158
+walkthrough,Fiction writing,HUMAN,112,152,0.7368421052631579
+walkthrough,Fiction writing,OTHER,29,152,0.19078947368421054
+walkthrough,Mix,AI,2,57,0.03508771929824561
+walkthrough,Mix,HUMAN,50,57,0.8771929824561403
+walkthrough,Mix,OTHER,5,57,0.08771929824561403
