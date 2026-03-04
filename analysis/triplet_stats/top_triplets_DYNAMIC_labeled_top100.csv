@@ -1,0 +1,60 @@
+section,agent_binary,triplet_sig,count
+dynamic,HUMAN,I :: drive :: decision,27
+dynamic,HUMAN,I :: have :: idea,8
+dynamic,HUMAN,I :: get :: ,5
+dynamic,HUMAN,I :: make :: decision,5
+dynamic,HUMAN,I :: come :: ,4
+dynamic,HUMAN,I :: describe :: it,4
+dynamic,HUMAN,I :: want :: it,3
+dynamic,HUMAN,I :: think :: that,2
+dynamic,HUMAN,I :: lead :: process,2
+dynamic,HUMAN,I :: have :: background,2
+dynamic,HUMAN,I :: drive :: collaboration,2
+dynamic,HUMAN,I :: give :: idea,2
+dynamic,HUMAN,I :: consider :: that,2
+dynamic,HUMAN,I :: need ::  → add,2
+dynamic,HUMAN,I :: need :: help,2
+dynamic,HUMAN,I :: get :: idea,1
+dynamic,HUMAN,I :: get :: what,1
+dynamic,HUMAN,I :: have ::  → do,1
+dynamic,HUMAN,I :: have :: knowledge,1
+dynamic,HUMAN,I :: need ::  → write,1
+dynamic,HUMAN,I :: plan ::  → use,1
+dynamic,HUMAN,I :: prefer ::  → do,1
+dynamic,HUMAN,I :: spend :: amount,1
+dynamic,HUMAN,I :: want ::  → change,1
+dynamic,HUMAN,I :: want ::  → produce,1
+dynamic,HUMAN,I :: want ::  → see,1
+dynamic,HUMAN,I :: write :: lot,1
+dynamic,AI,I :: use :: AI,12
+dynamic,AI,I :: use :: it,8
+dynamic,AI,I :: talk :: ,3
+dynamic,AI,I :: like ::  → use,3
+dynamic,AI,AI :: give :: I,3
+dynamic,AI,I :: tell :: AI,3
+dynamic,AI,I :: give :: it,2
+dynamic,AI,I :: use :: model,2
+dynamic,AI,model :: give :: I,2
+dynamic,AI,I :: approach :: AI,2
+dynamic,AI,I :: ask :: AI,2
+dynamic,AI,I :: find :: AI,2
+dynamic,AI,I :: get :: AI,2
+dynamic,AI,I :: give :: AI,2
+dynamic,AI,I :: tell :: what,1
+dynamic,AI,I :: provide :: it,1
+dynamic,AI,I :: have :: AI → do,1
+dynamic,AI,I :: tell :: it,1
+dynamic,AI,I :: start ::  → use,1
+dynamic,AI,I :: ask :: model,1
+dynamic,AI,I :: ask :: it,1
+dynamic,AI,I :: ask :: AI → help,1
+dynamic,AI,AI :: use :: AI,1
+dynamic,AI,AI :: give :: suggestion,1
+dynamic,AI,AI :: give :: idea,1
+dynamic,AI,I :: give :: model,1
+dynamic,AI,I :: bounce :: idea,1
+dynamic,AI,I :: utilize :: AI,1
+dynamic,AI,I :: use :: response,1
+dynamic,AI,I :: use :: answer,1
+dynamic,AI,I :: turn :: ,1
+dynamic,AI,I :: try ::  → use,1

@@ -1,0 +1,9 @@
+section,agent_binary,count,total,share
+basic_job_description,AI,17,41,0.4146341463414634
+basic_job_description,HUMAN,24,41,0.5853658536585366
+dynamic,AI,66,176,0.375
+dynamic,HUMAN,110,176,0.625
+project_example,AI,103,190,0.5421052631578948
+project_example,HUMAN,87,190,0.45789473684210524
+walkthrough,AI,248,342,0.7251461988304093
+walkthrough,HUMAN,94,342,0.27485380116959063

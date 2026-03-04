@@ -1,0 +1,102 @@
+triplet_sig,agent_binary,count_dynamic
+I :: drive :: decision,HUMAN,27
+I :: think :: ,,17
+I :: use :: AI,AI,12
+I :: use :: it,AI,8
+I :: have :: idea,HUMAN,8
+I :: need :: ,,6
+I :: get :: ,HUMAN,5
+I :: make :: decision,HUMAN,5
+I :: say ::  → drive,,4
+I :: come :: ,HUMAN,4
+I :: describe :: it,HUMAN,4
+I :: do :: that,,3
+I :: start :: ,,3
+I :: like ::  → use,AI,3
+I :: like :: result,,3
+I :: know :: what,,3
+I :: tell :: AI,AI,3
+I :: want :: it,HUMAN,3
+I :: talk :: ,AI,3
+I :: like ::  → think,,3
+AI :: give :: I,AI,3
+I :: need ::  → add,HUMAN,2
+I :: give :: idea,HUMAN,2
+I :: give :: it,AI,2
+I :: approach :: AI,AI,2
+I :: feel ::  → go,,2
+I :: describe :: collaboration,,2
+I :: drive :: collaboration,HUMAN,2
+I :: ask :: AI,AI,2
+I :: give :: AI,AI,2
+I :: get :: AI,AI,2
+I :: find :: AI,AI,2
+I :: go :: ,,2
+I :: consider :: that,HUMAN,2
+I :: take :: it,,2
+I :: think ::  → work,,2
+I :: try ::  → do,,2
+I :: see :: it,,2
+I :: need :: help,HUMAN,2
+I :: have :: background,HUMAN,2
+I :: think :: that,HUMAN,2
+I :: want ::  → take,,2
+model :: give :: I,AI,2
+I :: want ::  → use,,2
+I :: use :: model,AI,2
+I :: lead :: process,HUMAN,2
+I :: have :: AI → do,AI,1
+I :: give :: model,AI,1
+I :: have ::  → do,HUMAN,1
+I :: ask :: AI → help,AI,1
+I :: ask :: it,AI,1
+I :: ask :: question,,1
+I :: feel ::  → have,,1
+AI :: give :: suggestion,AI,1
+AI :: give :: idea,AI,1
+AI :: use :: AI,AI,1
+I :: get :: what,HUMAN,1
+I :: find :: that,,1
+I :: find ::  → need,,1
+I :: get :: idea,HUMAN,1
+I :: get :: result,,1
+I :: feel ::  → overwhelm,,1
+I :: begin :: ,,1
+I :: bounce :: idea,AI,1
+I :: ask :: model,AI,1
+I :: like :: that,,1
+I :: like ::  → take,,1
+I :: have :: knowledge,HUMAN,1
+I :: have :: that,,1
+I :: start ::  → use,AI,1
+I :: spend :: lot,,1
+I :: spend :: amount,HUMAN,1
+I :: pull :: idea,,1
+I :: read :: that,,1
+I :: prefer ::  → do,HUMAN,1
+I :: prefer ::  → use,,1
+I :: provide :: it,AI,1
+I :: need :: that,,1
+I :: need :: it,,1
+I :: need ::  → write,HUMAN,1
+I :: plan ::  → use,HUMAN,1
+I :: like ::  → get,,1
+I :: have :: time,,1
+I :: think ::  → help,,1
+I :: tell :: what,AI,1
+I :: use :: answer,AI,1
+I :: turn :: ,AI,1
+I :: try :: it,,1
+I :: try ::  → use,AI,1
+I :: try ::  → say,,1
+I :: tell :: it,AI,1
+I :: use :: information,,1
+I :: use :: response,AI,1
+I :: want ::  → go,,1
+I :: want ::  → change,HUMAN,1
+I :: utilize :: AI,AI,1
+I :: use :: something,,1
+I :: want ::  → produce,HUMAN,1
+I :: want ::  → see,HUMAN,1
+I :: write :: lot,HUMAN,1
+we :: discuss :: idea,,1

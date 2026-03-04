@@ -1,0 +1,37 @@
+section,cluster,agent_binary,count,total,share
+basic_job_description,"Art, design, crafts",HUMAN,6,6,1.0
+basic_job_description,Content writing,HUMAN,5,5,1.0
+basic_job_description,Fiction writing,AI,1,11,0.09090909090909091
+basic_job_description,Fiction writing,HUMAN,10,11,0.9090909090909091
+basic_job_description,Mix,AI,16,19,0.8421052631578947
+basic_job_description,Mix,HUMAN,3,19,0.15789473684210525
+dynamic,"Art, design, crafts",AI,24,56,0.42857142857142855
+dynamic,"Art, design, crafts",HUMAN,32,56,0.5714285714285714
+dynamic,Audiovisual,AI,5,18,0.2777777777777778
+dynamic,Audiovisual,HUMAN,13,18,0.7222222222222222
+dynamic,Content writing,AI,8,29,0.27586206896551724
+dynamic,Content writing,HUMAN,21,29,0.7241379310344828
+dynamic,Fiction writing,AI,24,53,0.4528301886792453
+dynamic,Fiction writing,HUMAN,29,53,0.5471698113207547
+dynamic,Mix,AI,5,20,0.25
+dynamic,Mix,HUMAN,15,20,0.75
+project_example,"Art, design, crafts",AI,37,63,0.5873015873015873
+project_example,"Art, design, crafts",HUMAN,26,63,0.4126984126984127
+project_example,Audiovisual,AI,8,15,0.5333333333333333
+project_example,Audiovisual,HUMAN,7,15,0.4666666666666667
+project_example,Content writing,AI,17,35,0.4857142857142857
+project_example,Content writing,HUMAN,18,35,0.5142857142857142
+project_example,Fiction writing,AI,32,50,0.64
+project_example,Fiction writing,HUMAN,18,50,0.36
+project_example,Mix,AI,9,27,0.3333333333333333
+project_example,Mix,HUMAN,18,27,0.6666666666666666
+walkthrough,"Art, design, crafts",AI,85,108,0.7870370370370371
+walkthrough,"Art, design, crafts",HUMAN,23,108,0.21296296296296297
+walkthrough,Audiovisual,AI,27,32,0.84375
+walkthrough,Audiovisual,HUMAN,5,32,0.15625
+walkthrough,Content writing,AI,50,61,0.819672131147541
+walkthrough,Content writing,HUMAN,11,61,0.18032786885245902
+walkthrough,Fiction writing,AI,65,102,0.6372549019607843
+walkthrough,Fiction writing,HUMAN,37,102,0.3627450980392157
+walkthrough,Mix,AI,21,39,0.5384615384615384
+walkthrough,Mix,HUMAN,18,39,0.46153846153846156

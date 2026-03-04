@@ -1,0 +1,169 @@
+transcript_id,agent_binary,triplet_sig,count
+creativity_0001,AI,I :: tell :: it,1
+creativity_0001,HUMAN,I :: have :: idea,1
+creativity_0002,HUMAN,I :: drive :: decision,1
+creativity_0002,HUMAN,I :: want :: it,1
+creativity_0003,HUMAN,I :: drive :: decision,1
+creativity_0004,HUMAN,I :: think :: ,1
+creativity_0004,HUMAN,I :: want :: it,1
+creativity_0006,HUMAN,I :: need ::  → write,1
+creativity_0008,HUMAN,I :: consider :: that,1
+creativity_0008,HUMAN,I :: want ::  → change,1
+creativity_0009,AI,I :: tell :: AI,1
+creativity_0009,AI,I :: tell :: what,1
+creativity_0010,HUMAN,I :: drive :: decision,1
+creativity_0011,AI,I :: use :: AI,1
+creativity_0012,HUMAN,I :: come :: ,1
+creativity_0012,HUMAN,I :: want ::  → take,1
+creativity_0013,HUMAN,I :: think :: ,1
+creativity_0014,AI,I :: find :: AI,1
+creativity_0015,AI,I :: ask :: AI → help,1
+creativity_0015,HUMAN,I :: have :: idea,1
+creativity_0016,HUMAN,I :: drive :: decision,1
+creativity_0016,HUMAN,I :: have :: idea,1
+creativity_0017,AI,I :: use :: it,2
+creativity_0017,HUMAN,I :: describe :: it,1
+creativity_0021,AI,I :: use :: response,1
+creativity_0022,HUMAN,I :: drive :: collaboration,1
+creativity_0022,HUMAN,I :: have :: knowledge,1
+creativity_0022,HUMAN,I :: think :: ,1
+creativity_0022,HUMAN,I :: want ::  → produce,1
+creativity_0023,HUMAN,I :: consider :: that,1
+creativity_0024,HUMAN,I :: think :: ,1
+creativity_0025,AI,I :: try ::  → use,1
+creativity_0025,HUMAN,I :: drive :: decision,1
+creativity_0025,HUMAN,I :: get :: ,1
+creativity_0026,HUMAN,I :: describe :: it,1
+creativity_0028,AI,I :: approach :: AI,1
+creativity_0029,AI,model :: give :: I,1
+creativity_0030,AI,I :: use :: it,2
+creativity_0030,AI,I :: bounce :: idea,1
+creativity_0031,HUMAN,I :: get :: ,2
+creativity_0031,HUMAN,I :: think :: ,1
+creativity_0032,HUMAN,I :: drive :: decision,1
+creativity_0032,HUMAN,I :: have :: idea,1
+creativity_0032,HUMAN,I :: think ::  → help,1
+creativity_0033,HUMAN,I :: come :: ,1
+creativity_0033,HUMAN,I :: get :: idea,1
+creativity_0033,HUMAN,I :: give :: idea,1
+creativity_0033,HUMAN,I :: have ::  → do,1
+creativity_0033,HUMAN,I :: think :: ,1
+creativity_0034,AI,I :: use :: AI,1
+creativity_0035,HUMAN,I :: drive :: decision,1
+creativity_0036,AI,I :: use :: AI,1
+creativity_0036,HUMAN,I :: think :: ,1
+creativity_0037,HUMAN,I :: drive :: decision,1
+creativity_0038,AI,AI :: give :: I,1
+creativity_0040,AI,I :: ask :: AI,1
+creativity_0040,AI,I :: use :: it,1
+creativity_0040,HUMAN,I :: have :: background,1
+creativity_0045,HUMAN,I :: ask :: question,1
+creativity_0045,HUMAN,I :: drive :: decision,1
+creativity_0046,AI,I :: ask :: model,1
+creativity_0048,AI,I :: give :: model,1
+creativity_0048,HUMAN,I :: prefer ::  → do,1
+creativity_0049,HUMAN,I :: drive :: decision,1
+creativity_0050,AI,I :: talk :: ,1
+creativity_0050,HUMAN,I :: give :: idea,1
+creativity_0051,HUMAN,I :: describe :: it,1
+creativity_0053,HUMAN,I :: think :: ,1
+creativity_0055,AI,I :: use :: AI,1
+creativity_0055,HUMAN,I :: think :: that,1
+creativity_0056,HUMAN,I :: want ::  → take,1
+creativity_0058,AI,I :: use :: AI,1
+creativity_0058,AI,I :: use :: it,1
+creativity_0058,HUMAN,I :: drive :: decision,1
+creativity_0058,HUMAN,I :: get :: ,1
+creativity_0058,HUMAN,I :: write :: lot,1
+creativity_0060,AI,I :: talk :: ,1
+creativity_0060,HUMAN,I :: think :: ,2
+creativity_0060,HUMAN,I :: drive :: decision,1
+creativity_0061,HUMAN,I :: have :: idea,1
+creativity_0061,HUMAN,I :: make :: decision,1
+creativity_0061,HUMAN,I :: think :: that,1
+creativity_0061,HUMAN,I :: want ::  → go,1
+creativity_0061,HUMAN,I :: want ::  → see,1
+creativity_0062,AI,AI :: use :: AI,1
+creativity_0063,HUMAN,I :: think :: ,2
+creativity_0064,AI,I :: use :: model,1
+creativity_0065,HUMAN,I :: drive :: decision,1
+creativity_0068,HUMAN,I :: drive :: decision,1
+creativity_0068,HUMAN,I :: want :: it,1
+creativity_0069,HUMAN,I :: drive :: decision,1
+creativity_0069,HUMAN,I :: need :: help,1
+creativity_0070,AI,I :: ask :: AI,1
+creativity_0071,HUMAN,I :: drive :: decision,1
+creativity_0071,HUMAN,I :: spend :: amount,1
+creativity_0072,AI,AI :: give :: I,1
+creativity_0072,AI,I :: approach :: AI,1
+creativity_0072,HUMAN,I :: come :: ,1
+creativity_0075,AI,I :: use :: model,1
+creativity_0075,AI,I :: utilize :: AI,1
+creativity_0075,HUMAN,I :: have :: background,1
+creativity_0075,HUMAN,I :: make :: decision,1
+creativity_0076,HUMAN,I :: feel ::  → overwhelm,1
+creativity_0077,AI,I :: give :: AI,1
+creativity_0077,AI,model :: give :: I,1
+creativity_0077,HUMAN,I :: drive :: decision,1
+creativity_0079,HUMAN,I :: lead :: process,1
+creativity_0080,HUMAN,I :: drive :: decision,1
+creativity_0081,AI,I :: get :: AI,1
+creativity_0083,AI,I :: use :: it,1
+creativity_0083,HUMAN,I :: drive :: decision,1
+creativity_0084,HUMAN,I :: drive :: decision,1
+creativity_0085,HUMAN,I :: make :: decision,1
+creativity_0085,HUMAN,I :: want ::  → use,1
+creativity_0086,AI,I :: like ::  → use,1
+creativity_0086,AI,I :: use :: answer,1
+creativity_0086,HUMAN,I :: drive :: decision,1
+creativity_0087,AI,I :: find :: AI,1
+creativity_0087,AI,I :: use :: AI,1
+creativity_0088,AI,I :: give :: it,1
+creativity_0088,HUMAN,I :: think :: ,1
+creativity_0089,AI,AI :: give :: I,1
+creativity_0089,AI,AI :: give :: idea,1
+creativity_0089,AI,I :: provide :: it,1
+creativity_0089,HUMAN,I :: lead :: process,1
+creativity_0090,AI,I :: use :: AI,1
+creativity_0090,HUMAN,I :: want ::  → use,1
+creativity_0092,AI,I :: talk :: ,1
+creativity_0093,HUMAN,I :: come :: ,1
+creativity_0094,AI,I :: use :: AI,1
+creativity_0094,HUMAN,I :: make :: decision,1
+creativity_0095,AI,I :: tell :: AI,1
+creativity_0096,HUMAN,I :: drive :: decision,1
+creativity_0097,AI,I :: get :: AI,1
+creativity_0097,HUMAN,I :: drive :: decision,1
+creativity_0098,AI,I :: use :: AI,1
+creativity_0098,HUMAN,I :: describe :: it,1
+creativity_0099,HUMAN,I :: drive :: decision,1
+creativity_0100,AI,I :: use :: AI,2
+creativity_0102,HUMAN,I :: plan ::  → use,1
+creativity_0103,HUMAN,I :: have :: idea,1
+creativity_0104,HUMAN,I :: need ::  → add,2
+creativity_0104,HUMAN,I :: think :: ,2
+creativity_0106,AI,I :: like ::  → use,1
+creativity_0107,AI,I :: tell :: AI,1
+creativity_0108,HUMAN,I :: drive :: decision,1
+creativity_0108,HUMAN,I :: need :: help,1
+creativity_0109,HUMAN,I :: think :: ,1
+creativity_0110,AI,I :: give :: AI,1
+creativity_0111,AI,I :: have :: AI → do,1
+creativity_0112,AI,I :: like ::  → use,1
+creativity_0112,HUMAN,I :: have :: idea,1
+creativity_0113,HUMAN,I :: need :: it,1
+creativity_0114,HUMAN,I :: make :: decision,1
+creativity_0115,AI,I :: turn :: ,1
+creativity_0115,HUMAN,I :: get :: ,1
+creativity_0115,HUMAN,I :: get :: what,1
+creativity_0116,AI,AI :: give :: suggestion,1
+creativity_0116,HUMAN,I :: drive :: decision,1
+creativity_0117,AI,I :: ask :: it,1
+creativity_0117,AI,I :: give :: it,1
+creativity_0117,AI,I :: use :: it,1
+creativity_0119,HUMAN,I :: think :: ,1
+creativity_0121,AI,I :: start ::  → use,1
+creativity_0121,HUMAN,I :: drive :: collaboration,1
+creativity_0122,HUMAN,I :: have :: idea,1
+creativity_0123,AI,I :: use :: AI,1
+creativity_0123,HUMAN,I :: drive :: decision,1

@@ -1,0 +1,7 @@
+section,label,occurrences,passive,passive_rate
+dynamic,AI,66,1,0.015151515151515152
+dynamic,HUMAN,85,1,0.011764705882352941
+project_example,AI,103,1,0.009708737864077669
+project_example,HUMAN,66,0,0.0
+walkthrough,AI,248,1,0.004032258064516129
+walkthrough,HUMAN,75,0,0.0

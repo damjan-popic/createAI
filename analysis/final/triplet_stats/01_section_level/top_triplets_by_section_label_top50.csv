@@ -1,0 +1,263 @@
+section,agent_binary,triplet_sig,count
+basic_job_description,AI,I :: use :: AI,11
+basic_job_description,AI,I :: use :: it,4
+basic_job_description,AI,I :: bounce :: idea,1
+basic_job_description,AI,I :: use :: tool,1
+basic_job_description,HUMAN,I :: come :: ,7
+basic_job_description,HUMAN,I :: think :: ,5
+basic_job_description,HUMAN,I :: write :: that,3
+basic_job_description,HUMAN,I :: do :: this,2
+basic_job_description,HUMAN,I :: use :: program,2
+basic_job_description,HUMAN,I :: ask :: question,1
+basic_job_description,HUMAN,I :: have ::  → do,1
+basic_job_description,HUMAN,I :: need :: it,1
+basic_job_description,HUMAN,I :: tend ::  → write,1
+basic_job_description,HUMAN,I :: write :: lot,1
+dynamic,AI,I :: use :: AI,12
+dynamic,AI,I :: use :: it,8
+dynamic,AI,AI :: give :: I,3
+dynamic,AI,I :: like ::  → use,3
+dynamic,AI,I :: talk :: ,3
+dynamic,AI,I :: tell :: AI,3
+dynamic,AI,I :: approach :: AI,2
+dynamic,AI,I :: ask :: AI,2
+dynamic,AI,I :: find :: AI,2
+dynamic,AI,I :: get :: AI,2
+dynamic,AI,I :: give :: AI,2
+dynamic,AI,I :: give :: it,2
+dynamic,AI,I :: use :: model,2
+dynamic,AI,model :: give :: I,2
+dynamic,AI,AI :: give :: idea,1
+dynamic,AI,AI :: give :: suggestion,1
+dynamic,AI,AI :: use :: AI,1
+dynamic,AI,I :: ask :: AI → help,1
+dynamic,AI,I :: ask :: it,1
+dynamic,AI,I :: ask :: model,1
+dynamic,AI,I :: bounce :: idea,1
+dynamic,AI,I :: give :: model,1
+dynamic,AI,I :: have :: AI → do,1
+dynamic,AI,I :: provide :: it,1
+dynamic,AI,I :: start ::  → use,1
+dynamic,AI,I :: tell :: it,1
+dynamic,AI,I :: tell :: what,1
+dynamic,AI,I :: try ::  → use,1
+dynamic,AI,I :: turn :: ,1
+dynamic,AI,I :: use :: answer,1
+dynamic,AI,I :: use :: response,1
+dynamic,AI,I :: utilize :: AI,1
+dynamic,HUMAN,I :: drive :: decision,27
+dynamic,HUMAN,I :: think :: ,17
+dynamic,HUMAN,I :: have :: idea,8
+dynamic,HUMAN,I :: get :: ,5
+dynamic,HUMAN,I :: make :: decision,5
+dynamic,HUMAN,I :: come :: ,4
+dynamic,HUMAN,I :: describe :: it,4
+dynamic,HUMAN,I :: want :: it,3
+dynamic,HUMAN,I :: consider :: that,2
+dynamic,HUMAN,I :: drive :: collaboration,2
+dynamic,HUMAN,I :: give :: idea,2
+dynamic,HUMAN,I :: have :: background,2
+dynamic,HUMAN,I :: lead :: process,2
+dynamic,HUMAN,I :: need ::  → add,2
+dynamic,HUMAN,I :: need :: help,2
+dynamic,HUMAN,I :: think :: that,2
+dynamic,HUMAN,I :: want ::  → take,2
+dynamic,HUMAN,I :: want ::  → use,2
+dynamic,HUMAN,I :: ask :: question,1
+dynamic,HUMAN,I :: feel ::  → overwhelm,1
+dynamic,HUMAN,I :: get :: idea,1
+dynamic,HUMAN,I :: get :: what,1
+dynamic,HUMAN,I :: have ::  → do,1
+dynamic,HUMAN,I :: have :: knowledge,1
+dynamic,HUMAN,I :: need ::  → write,1
+dynamic,HUMAN,I :: need :: it,1
+dynamic,HUMAN,I :: plan ::  → use,1
+dynamic,HUMAN,I :: prefer ::  → do,1
+dynamic,HUMAN,I :: spend :: amount,1
+dynamic,HUMAN,I :: think ::  → help,1
+dynamic,HUMAN,I :: want ::  → change,1
+dynamic,HUMAN,I :: want ::  → go,1
+dynamic,HUMAN,I :: want ::  → produce,1
+dynamic,HUMAN,I :: want ::  → see,1
+dynamic,HUMAN,I :: write :: lot,1
+project_example,AI,I :: use :: AI,27
+project_example,AI,I :: use :: it,11
+project_example,AI,I :: use :: model,4
+project_example,AI,I :: use :: AI → help,3
+project_example,AI,model :: do :: job,3
+project_example,AI,AI :: give :: I,2
+project_example,AI,AI :: have :: difficulty,2
+project_example,AI,I :: ask :: AI,2
+project_example,AI,I :: ask :: AI → help,2
+project_example,AI,I :: ask :: it,2
+project_example,AI,I :: ask :: it → generate,2
+project_example,AI,I :: ask :: model,2
+project_example,AI,I :: give :: it,2
+project_example,AI,I :: have :: conversation,2
+project_example,AI,I :: realize ::  → move,2
+project_example,AI,I :: tell :: AI,2
+project_example,AI,I :: tell :: it,2
+project_example,AI,I :: use :: AI → brainstorm,2
+project_example,AI,I :: use :: ChatGPT,2
+project_example,AI,I :: use :: they,2
+project_example,AI,AI :: give :: idea,1
+project_example,AI,AI :: give :: suggestion,1
+project_example,AI,AI :: use :: AI,1
+project_example,AI,I :: ask :: AI → make,1
+project_example,AI,I :: ask :: AI → provide,1
+project_example,AI,I :: ask :: it → create,1
+project_example,AI,I :: bounce :: idea,1
+project_example,AI,I :: feed :: article,1
+project_example,AI,I :: find :: AI,1
+project_example,AI,I :: give :: model,1
+project_example,AI,I :: provide :: it,1
+project_example,AI,I :: reach :: ,1
+project_example,AI,I :: run :: it,1
+project_example,AI,I :: try :: model,1
+project_example,AI,I :: turn :: ,1
+project_example,AI,I :: use :: AI → generate,1
+project_example,AI,I :: use :: Ai,1
+project_example,AI,I :: use :: answer,1
+project_example,AI,I :: use :: chatgpt,1
+project_example,AI,I :: use :: it → generate,1
+project_example,AI,I :: use :: most,1
+project_example,AI,I :: use :: much,1
+project_example,AI,I :: use :: tool,1
+project_example,AI,model :: give :: I,1
+project_example,AI,we :: use :: AI,1
+project_example,HUMAN,I :: think :: ,12
+project_example,HUMAN,I :: come :: ,7
+project_example,HUMAN,I :: use :: that,5
+project_example,HUMAN,I :: find :: it,4
+project_example,HUMAN,I :: have :: idea,4
+project_example,HUMAN,I :: use :: idea,3
+project_example,HUMAN,I :: change :: word,2
+project_example,HUMAN,I :: create :: video,2
+project_example,HUMAN,I :: decide ::  → need,2
+project_example,HUMAN,I :: do :: research,2
+project_example,HUMAN,I :: get :: ,2
+project_example,HUMAN,I :: get :: image,2
+project_example,HUMAN,I :: have ::  → do,2
+project_example,HUMAN,I :: have ::  → make,2
+project_example,HUMAN,I :: make :: that,2
+project_example,HUMAN,I :: need ::  → figure,2
+project_example,HUMAN,I :: need ::  → understand,2
+project_example,HUMAN,I :: need :: help,2
+project_example,HUMAN,I :: need :: it,2
+project_example,HUMAN,I :: take :: idea,2
+project_example,HUMAN,I :: use :: image,2
+project_example,HUMAN,I :: want ::  → make,2
+project_example,HUMAN,I :: want ::  → see,2
+project_example,HUMAN,I :: create :: kit,1
+project_example,HUMAN,I :: describe :: it,1
+project_example,HUMAN,I :: do :: this,1
+project_example,HUMAN,I :: feel ::  → overwhelm,1
+project_example,HUMAN,I :: give :: idea,1
+project_example,HUMAN,I :: need ::  → make,1
+project_example,HUMAN,I :: need ::  → write,1
+project_example,HUMAN,I :: struggle ::  → come,1
+project_example,HUMAN,I :: tend ::  → write,1
+project_example,HUMAN,I :: think ::  → help,1
+project_example,HUMAN,I :: think :: that,1
+project_example,HUMAN,I :: want ::  → change,1
+project_example,HUMAN,I :: want ::  → find,1
+project_example,HUMAN,I :: want ::  → go,1
+project_example,HUMAN,I :: want ::  → include,1
+project_example,HUMAN,I :: want ::  → paint,1
+project_example,HUMAN,I :: want :: it,1
+project_example,HUMAN,I :: write :: scene,1
+walkthrough,AI,I :: use :: AI,76
+walkthrough,AI,I :: use :: it,42
+walkthrough,AI,I :: use :: tool,18
+walkthrough,AI,I :: reach :: ,12
+walkthrough,AI,I :: ask :: AI,8
+walkthrough,AI,I :: like ::  → use,7
+walkthrough,AI,I :: find :: myself → use,5
+walkthrough,AI,AI :: help :: I,4
+walkthrough,AI,I :: rely :: ,4
+walkthrough,AI,I :: try ::  → use,4
+walkthrough,AI,I :: turn :: ,3
+walkthrough,AI,I :: use :: AI → generate,3
+walkthrough,AI,I :: use :: ChatGPT,3
+walkthrough,AI,I :: use :: model,3
+walkthrough,AI,model :: give :: I,3
+walkthrough,AI,I :: ask :: AI → provide,2
+walkthrough,AI,I :: ask :: how,2
+walkthrough,AI,I :: ask :: it,2
+walkthrough,AI,I :: ask :: it → generate,2
+walkthrough,AI,I :: find ::  → use,2
+walkthrough,AI,I :: find :: myself → ask,2
+walkthrough,AI,I :: find :: myself → reach,2
+walkthrough,AI,I :: have :: conversation,2
+walkthrough,AI,I :: lean :: ,2
+walkthrough,AI,I :: run :: it,2
+walkthrough,AI,I :: talk :: ,2
+walkthrough,AI,I :: tend ::  → use,2
+walkthrough,AI,I :: use :: Ai,2
+walkthrough,AI,I :: use :: they,2
+walkthrough,AI,I :: want :: AI → help,2
+walkthrough,AI,we :: use :: AI,2
+walkthrough,AI,AI :: give :: I,1
+walkthrough,AI,AI :: use :: AI,1
+walkthrough,AI,I :: ask :: AI → make,1
+walkthrough,AI,I :: ask :: it → create,1
+walkthrough,AI,I :: ask :: model,1
+walkthrough,AI,I :: feed :: article,1
+walkthrough,AI,I :: find :: AI,1
+walkthrough,AI,I :: give :: model,1
+walkthrough,AI,I :: have :: AI → do,1
+walkthrough,AI,I :: start ::  → use,1
+walkthrough,AI,I :: tell :: AI,1
+walkthrough,AI,I :: tell :: it,1
+walkthrough,AI,I :: tell :: what,1
+walkthrough,AI,I :: try :: model,1
+walkthrough,AI,I :: use :: AI → help,1
+walkthrough,AI,I :: use :: chatgpt,1
+walkthrough,AI,I :: use :: it → generate,1
+walkthrough,AI,I :: use :: most,1
+walkthrough,AI,I :: use :: much,1
+walkthrough,HUMAN,I :: come :: ,7
+walkthrough,HUMAN,I :: have :: idea,7
+walkthrough,HUMAN,I :: think :: ,7
+walkthrough,HUMAN,I :: do :: this,4
+walkthrough,HUMAN,I :: have ::  → do,3
+walkthrough,HUMAN,I :: need ::  → do,3
+walkthrough,HUMAN,I :: need :: help,3
+walkthrough,HUMAN,I :: prefer ::  → do,3
+walkthrough,HUMAN,I :: think :: that,3
+walkthrough,HUMAN,I :: want :: it,3
+walkthrough,HUMAN,I :: catch :: hallucination,2
+walkthrough,HUMAN,I :: create :: kit,2
+walkthrough,HUMAN,I :: get :: ,2
+walkthrough,HUMAN,I :: get :: idea,2
+walkthrough,HUMAN,I :: give :: example,2
+walkthrough,HUMAN,I :: know :: how,2
+walkthrough,HUMAN,I :: produce :: book,2
+walkthrough,HUMAN,I :: receive :: info,2
+walkthrough,HUMAN,I :: tend ::  → write,2
+walkthrough,HUMAN,I :: think ::  → help,2
+walkthrough,HUMAN,I :: use :: program,2
+walkthrough,HUMAN,I :: use :: that,2
+walkthrough,HUMAN,I :: want ::  → give,2
+walkthrough,HUMAN,I :: want ::  → include,2
+walkthrough,HUMAN,I :: want ::  → make,2
+walkthrough,HUMAN,I :: write :: that,2
+walkthrough,HUMAN,I :: ask :: question,1
+walkthrough,HUMAN,I :: do :: research,1
+walkthrough,HUMAN,I :: feel ::  → overwhelm,1
+walkthrough,HUMAN,I :: find :: it,1
+walkthrough,HUMAN,I :: get :: what,1
+walkthrough,HUMAN,I :: give :: idea,1
+walkthrough,HUMAN,I :: have :: knowledge,1
+walkthrough,HUMAN,I :: need ::  → figure,1
+walkthrough,HUMAN,I :: need ::  → make,1
+walkthrough,HUMAN,I :: plan ::  → use,1
+walkthrough,HUMAN,I :: spend :: amount,1
+walkthrough,HUMAN,I :: struggle ::  → come,1
+walkthrough,HUMAN,I :: want ::  → change,1
+walkthrough,HUMAN,I :: want ::  → find,1
+walkthrough,HUMAN,I :: want ::  → go,1
+walkthrough,HUMAN,I :: want ::  → paint,1
+walkthrough,HUMAN,I :: want ::  → produce,1
+walkthrough,HUMAN,I :: write :: lot,1
+walkthrough,HUMAN,I :: write :: scene,1

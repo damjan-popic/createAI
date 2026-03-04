@@ -1,0 +1,11 @@
+group,label,count
+"Art, design, crafts",AI,146
+"Art, design, crafts",HUMAN,65
+Audiovisual,AI,40
+Audiovisual,HUMAN,17
+Content writing,AI,75
+Content writing,HUMAN,34
+Fiction writing,AI,121
+Fiction writing,HUMAN,68
+Mix,AI,35
+Mix,HUMAN,42

@@ -1,0 +1,7 @@
+section,label,occurrences,with_action,action_rate
+dynamic,AI,66,7,0.10606060606060606
+dynamic,HUMAN,85,9,0.10588235294117647
+project_example,AI,103,16,0.1553398058252427
+project_example,HUMAN,66,18,0.2727272727272727
+walkthrough,AI,248,39,0.15725806451612903
+walkthrough,HUMAN,75,18,0.24

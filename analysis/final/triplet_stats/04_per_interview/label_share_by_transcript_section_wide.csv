@@ -1,0 +1,122 @@
+transcript_id,cluster,long_cluster,AI_share_basic_job_description,AI_share_dynamic,AI_share_project_example,AI_share_walkthrough,labeled_total_basic_job_description,labeled_total_dynamic,labeled_total_project_example,labeled_total_walkthrough
+creativity_0000,Audiovisual,4,,,1.0,1.0,,,2.0,1.0
+creativity_0001,Audiovisual,4,,0.5,0.5,1.0,,2.0,2.0,1.0
+creativity_0002,Content writing,2,,,,0.8,,2.0,1.0,5.0
+creativity_0003,Content writing,2,,,0.5,1.0,1.0,1.0,2.0,1.0
+creativity_0005,"Art, design, crafts",1,,,1.0,1.0,2.0,,1.0,1.0
+creativity_0006,Fiction writing,0,,,0.5,1.0,,1.0,2.0,3.0
+creativity_0007,"Art, design, crafts",1,,,,1.0,,,,2.0
+creativity_0008,Mix,3,1.0,,,0.3333333333333333,2.0,2.0,1.0,3.0
+creativity_0009,"Art, design, crafts",1,,1.0,1.0,0.5,,2.0,3.0,2.0
+creativity_0010,Content writing,2,,,0.5,0.3333333333333333,3.0,1.0,8.0,3.0
+creativity_0011,"Art, design, crafts",1,,1.0,,0.6666666666666666,,1.0,,3.0
+creativity_0012,Fiction writing,0,,,1.0,1.0,,2.0,1.0,3.0
+creativity_0013,Mix,3,,,,1.0,,1.0,,2.0
+creativity_0014,"Art, design, crafts",1,,1.0,,,,1.0,,
+creativity_0015,"Art, design, crafts",1,,0.5,1.0,0.75,1.0,2.0,1.0,4.0
+creativity_0016,Content writing,2,,,1.0,1.0,,2.0,2.0,3.0
+creativity_0017,Fiction writing,0,,0.6666666666666666,,0.75,1.0,3.0,,4.0
+creativity_0018,Audiovisual,4,,,,1.0,,,2.0,1.0
+creativity_0019,"Art, design, crafts",1,,,1.0,0.6,,,1.0,5.0
+creativity_0021,Fiction writing,0,,1.0,1.0,0.3333333333333333,,1.0,1.0,3.0
+creativity_0022,"Art, design, crafts",1,,,1.0,1.0,,4.0,1.0,6.0
+creativity_0024,Content writing,2,,,,1.0,,1.0,3.0,4.0
+creativity_0025,"Art, design, crafts",1,,0.3333333333333333,,0.6666666666666666,,3.0,,3.0
+creativity_0026,Fiction writing,0,,,0.8333333333333334,,1.0,1.0,6.0,
+creativity_0027,"Art, design, crafts",1,,,,1.0,,,4.0,1.0
+creativity_0028,Fiction writing,0,,1.0,,0.3333333333333333,,1.0,,3.0
+creativity_0029,"Art, design, crafts",1,,1.0,,0.8333333333333334,,1.0,,6.0
+creativity_0030,Fiction writing,0,,1.0,0.75,,,3.0,4.0,1.0
+creativity_0031,Audiovisual,4,,,,1.0,,3.0,,1.0
+creativity_0032,Fiction writing,0,,,,0.6666666666666666,1.0,3.0,2.0,3.0
+creativity_0033,Mix,3,1.0,,0.3333333333333333,0.5,2.0,5.0,3.0,2.0
+creativity_0034,Fiction writing,0,,1.0,,0.5,,1.0,2.0,4.0
+creativity_0035,"Art, design, crafts",1,,,0.6666666666666666,0.75,,1.0,3.0,4.0
+creativity_0036,"Art, design, crafts",1,,0.5,,1.0,,2.0,1.0,1.0
+creativity_0037,"Art, design, crafts",1,,,0.3333333333333333,1.0,,1.0,3.0,1.0
+creativity_0038,Content writing,2,,1.0,,1.0,,1.0,2.0,2.0
+creativity_0039,"Art, design, crafts",1,,,0.2,1.0,,,5.0,1.0
+creativity_0040,Fiction writing,0,,0.6666666666666666,,0.5,,3.0,,2.0
+creativity_0041,Audiovisual,4,,,,1.0,,,1.0,1.0
+creativity_0042,"Art, design, crafts",1,,,0.6666666666666666,0.6666666666666666,1.0,,3.0,3.0
+creativity_0043,Fiction writing,0,,,0.6666666666666666,1.0,,,3.0,2.0
+creativity_0044,Content writing,2,,,,1.0,,,,2.0
+creativity_0045,Fiction writing,0,,,1.0,0.75,,2.0,1.0,4.0
+creativity_0046,Mix,3,1.0,1.0,0.5,1.0,1.0,1.0,4.0,2.0
+creativity_0047,Fiction writing,0,,,,1.0,,,,1.0
+creativity_0048,Fiction writing,0,1.0,0.5,0.5,0.6,1.0,2.0,2.0,5.0
+creativity_0049,Audiovisual,4,,,,1.0,,1.0,,3.0
+creativity_0050,Mix,3,,0.5,,0.3333333333333333,,2.0,1.0,3.0
+creativity_0051,Fiction writing,0,,,0.5,1.0,,1.0,4.0,1.0
+creativity_0052,Audiovisual,4,,,1.0,,,,1.0,2.0
+creativity_0053,Fiction writing,0,,,1.0,,,1.0,2.0,2.0
+creativity_0054,Audiovisual,4,,,,1.0,,,,2.0
+creativity_0055,"Art, design, crafts",1,,0.5,0.6,0.6,,2.0,5.0,5.0
+creativity_0056,Content writing,2,,,1.0,1.0,,1.0,1.0,3.0
+creativity_0057,Content writing,2,,,,0.6666666666666666,1.0,,3.0,3.0
+creativity_0058,Fiction writing,0,,0.4,,0.2727272727272727,,5.0,,11.0
+creativity_0059,Fiction writing,0,,,1.0,0.5,1.0,,1.0,2.0
+creativity_0060,Fiction writing,0,,0.25,1.0,1.0,1.0,4.0,1.0,1.0
+creativity_0061,"Art, design, crafts",1,,,,1.0,,5.0,2.0,2.0
+creativity_0062,"Art, design, crafts",1,,1.0,,1.0,,1.0,,2.0
+creativity_0063,Fiction writing,0,,,1.0,1.0,,2.0,1.0,6.0
+creativity_0064,Fiction writing,0,,1.0,,0.6666666666666666,,1.0,,3.0
+creativity_0065,Content writing,2,,,1.0,1.0,,1.0,1.0,2.0
+creativity_0066,Mix,3,1.0,,0.3333333333333333,0.5,1.0,,3.0,2.0
+creativity_0068,Mix,3,1.0,,0.3333333333333333,,1.0,2.0,3.0,
+creativity_0069,Content writing,2,,,1.0,1.0,,2.0,2.0,2.0
+creativity_0070,Fiction writing,0,,1.0,0.5,0.4,,1.0,2.0,5.0
+creativity_0071,Mix,3,1.0,,0.5,0.5,1.0,2.0,2.0,8.0
+creativity_0072,Audiovisual,4,,0.6666666666666666,,1.0,,3.0,,3.0
+creativity_0073,Fiction writing,0,,,1.0,1.0,1.0,,2.0,6.0
+creativity_0074,Audiovisual,4,,,,1.0,,,,4.0
+creativity_0075,Content writing,2,,0.5,,,,4.0,,
+creativity_0076,Audiovisual,4,,,,1.0,,1.0,,1.0
+creativity_0077,Mix,3,1.0,0.6666666666666666,0.5,0.75,1.0,3.0,2.0,4.0
+creativity_0078,"Art, design, crafts",1,,,1.0,0.8888888888888888,,,3.0,9.0
+creativity_0079,"Art, design, crafts",1,,,0.6666666666666666,1.0,,1.0,3.0,1.0
+creativity_0080,Mix,3,1.0,,,,3.0,1.0,2.0,
+creativity_0081,Fiction writing,0,,1.0,0.5,1.0,,1.0,2.0,3.0
+creativity_0082,Content writing,2,,,,1.0,,,1.0,2.0
+creativity_0083,Fiction writing,0,,0.5,0.5,1.0,,2.0,2.0,3.0
+creativity_0084,Content writing,2,,,,0.5,,1.0,1.0,8.0
+creativity_0085,"Art, design, crafts",1,,,,1.0,,2.0,1.0,2.0
+creativity_0086,Fiction writing,0,,0.6666666666666666,0.6666666666666666,1.0,1.0,3.0,3.0,1.0
+creativity_0087,Content writing,2,,1.0,,,,2.0,,
+creativity_0088,Content writing,2,,0.5,0.5,1.0,,2.0,2.0,3.0
+creativity_0089,"Art, design, crafts",1,,0.75,0.5,0.5714285714285714,,4.0,4.0,7.0
+creativity_0090,"Art, design, crafts",1,,0.5,0.5,1.0,,2.0,2.0,2.0
+creativity_0091,"Art, design, crafts",1,,,0.5,0.6666666666666666,,,2.0,3.0
+creativity_0092,Mix,3,0.4,1.0,0.5,,5.0,1.0,2.0,2.0
+creativity_0093,"Art, design, crafts",1,,,1.0,,,1.0,1.0,
+creativity_0094,"Art, design, crafts",1,,0.5,1.0,1.0,,2.0,1.0,2.0
+creativity_0095,"Art, design, crafts",1,,1.0,,,,1.0,1.0,
+creativity_0096,Fiction writing,0,,,,1.0,,1.0,,4.0
+creativity_0097,Content writing,2,,0.5,1.0,1.0,,2.0,3.0,4.0
+creativity_0098,Fiction writing,0,,0.5,,,,2.0,2.0,2.0
+creativity_0099,"Art, design, crafts",1,,,,1.0,,1.0,,1.0
+creativity_0100,Audiovisual,4,,1.0,,,,2.0,,
+creativity_0101,Mix,3,1.0,,,0.4444444444444444,2.0,,3.0,9.0
+creativity_0102,Fiction writing,0,,,,1.0,1.0,1.0,1.0,2.0
+creativity_0103,"Art, design, crafts",1,,,1.0,1.0,,1.0,2.0,1.0
+creativity_0104,Content writing,2,,,1.0,0.7142857142857143,,4.0,1.0,7.0
+creativity_0105,Audiovisual,4,,,1.0,,,,2.0,1.0
+creativity_0106,Fiction writing,0,,1.0,1.0,,,1.0,1.0,
+creativity_0107,"Art, design, crafts",1,,1.0,1.0,0.5,,1.0,1.0,4.0
+creativity_0108,Audiovisual,4,,,0.3333333333333333,0.5,,2.0,3.0,2.0
+creativity_0109,"Art, design, crafts",1,,,,1.0,,1.0,,2.0
+creativity_0110,"Art, design, crafts",1,,1.0,1.0,0.5,,1.0,1.0,6.0
+creativity_0111,Content writing,2,,1.0,,1.0,,1.0,1.0,2.0
+creativity_0112,"Art, design, crafts",1,,0.5,,,,2.0,,
+creativity_0113,"Art, design, crafts",1,,,,0.8,1.0,1.0,,5.0
+creativity_0114,Audiovisual,4,,,0.5,1.0,,1.0,2.0,3.0
+creativity_0115,"Art, design, crafts",1,,0.3333333333333333,,,1.0,3.0,1.0,
+creativity_0116,Fiction writing,0,,0.5,1.0,0.6666666666666666,,2.0,1.0,3.0
+creativity_0117,"Art, design, crafts",1,,1.0,,1.0,,3.0,1.0,3.0
+creativity_0118,Mix,3,,,1.0,1.0,,,1.0,2.0
+creativity_0119,Audiovisual,4,,,,1.0,,1.0,,5.0
+creativity_0120,"Art, design, crafts",1,,,1.0,1.0,,,1.0,2.0
+creativity_0121,Fiction writing,0,,0.5,1.0,0.3333333333333333,2.0,2.0,1.0,9.0
+creativity_0122,Content writing,2,,,1.0,0.8,,1.0,1.0,5.0
+creativity_0123,"Art, design, crafts",1,,0.5,1.0,0.75,,2.0,5.0,4.0
+creativity_0124,"Art, design, crafts",1,,,,1.0,,,,2.0

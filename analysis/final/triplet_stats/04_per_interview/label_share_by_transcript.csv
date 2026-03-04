@@ -1,0 +1,232 @@
+transcript_id,cluster,long_cluster,agent_binary,count,total,share
+creativity_0000,Audiovisual,4,AI,3,3,1.0
+creativity_0001,Audiovisual,4,AI,3,5,0.6
+creativity_0001,Audiovisual,4,HUMAN,2,5,0.4
+creativity_0002,Content writing,2,AI,4,8,0.5
+creativity_0002,Content writing,2,HUMAN,4,8,0.5
+creativity_0003,Content writing,2,AI,2,5,0.4
+creativity_0003,Content writing,2,HUMAN,3,5,0.6
+creativity_0004,Audiovisual,4,HUMAN,2,2,1.0
+creativity_0005,"Art, design, crafts",1,AI,2,4,0.5
+creativity_0005,"Art, design, crafts",1,HUMAN,2,4,0.5
+creativity_0006,Fiction writing,0,AI,4,6,0.6666666666666666
+creativity_0006,Fiction writing,0,HUMAN,2,6,0.3333333333333333
+creativity_0007,"Art, design, crafts",1,AI,2,2,1.0
+creativity_0008,Mix,3,AI,3,8,0.375
+creativity_0008,Mix,3,HUMAN,5,8,0.625
+creativity_0009,"Art, design, crafts",1,AI,6,7,0.8571428571428571
+creativity_0009,"Art, design, crafts",1,HUMAN,1,7,0.14285714285714285
+creativity_0010,Content writing,2,AI,5,15,0.3333333333333333
+creativity_0010,Content writing,2,HUMAN,10,15,0.6666666666666666
+creativity_0011,"Art, design, crafts",1,AI,3,4,0.75
+creativity_0011,"Art, design, crafts",1,HUMAN,1,4,0.25
+creativity_0012,Fiction writing,0,AI,4,6,0.6666666666666666
+creativity_0012,Fiction writing,0,HUMAN,2,6,0.3333333333333333
+creativity_0013,Mix,3,AI,2,3,0.6666666666666666
+creativity_0013,Mix,3,HUMAN,1,3,0.3333333333333333
+creativity_0014,"Art, design, crafts",1,AI,1,1,1.0
+creativity_0015,"Art, design, crafts",1,AI,5,8,0.625
+creativity_0015,"Art, design, crafts",1,HUMAN,3,8,0.375
+creativity_0016,Content writing,2,AI,5,7,0.7142857142857143
+creativity_0016,Content writing,2,HUMAN,2,7,0.2857142857142857
+creativity_0017,Fiction writing,0,AI,5,8,0.625
+creativity_0017,Fiction writing,0,HUMAN,3,8,0.375
+creativity_0018,Audiovisual,4,AI,1,3,0.3333333333333333
+creativity_0018,Audiovisual,4,HUMAN,2,3,0.6666666666666666
+creativity_0019,"Art, design, crafts",1,AI,4,6,0.6666666666666666
+creativity_0019,"Art, design, crafts",1,HUMAN,2,6,0.3333333333333333
+creativity_0021,Fiction writing,0,AI,3,5,0.6
+creativity_0021,Fiction writing,0,HUMAN,2,5,0.4
+creativity_0022,"Art, design, crafts",1,AI,7,11,0.6363636363636364
+creativity_0022,"Art, design, crafts",1,HUMAN,4,11,0.36363636363636365
+creativity_0023,"Art, design, crafts",1,HUMAN,1,1,1.0
+creativity_0024,Content writing,2,AI,4,8,0.5
+creativity_0024,Content writing,2,HUMAN,4,8,0.5
+creativity_0025,"Art, design, crafts",1,AI,3,6,0.5
+creativity_0025,"Art, design, crafts",1,HUMAN,3,6,0.5
+creativity_0026,Fiction writing,0,AI,5,8,0.625
+creativity_0026,Fiction writing,0,HUMAN,3,8,0.375
+creativity_0027,"Art, design, crafts",1,AI,1,5,0.2
+creativity_0027,"Art, design, crafts",1,HUMAN,4,5,0.8
+creativity_0028,Fiction writing,0,AI,2,4,0.5
+creativity_0028,Fiction writing,0,HUMAN,2,4,0.5
+creativity_0029,"Art, design, crafts",1,AI,6,7,0.8571428571428571
+creativity_0029,"Art, design, crafts",1,HUMAN,1,7,0.14285714285714285
+creativity_0030,Fiction writing,0,AI,6,8,0.75
+creativity_0030,Fiction writing,0,HUMAN,2,8,0.25
+creativity_0031,Audiovisual,4,AI,1,4,0.25
+creativity_0031,Audiovisual,4,HUMAN,3,4,0.75
+creativity_0032,Fiction writing,0,AI,2,9,0.2222222222222222
+creativity_0032,Fiction writing,0,HUMAN,7,9,0.7777777777777778
+creativity_0033,Mix,3,AI,4,12,0.3333333333333333
+creativity_0033,Mix,3,HUMAN,8,12,0.6666666666666666
+creativity_0034,Fiction writing,0,AI,3,7,0.42857142857142855
+creativity_0034,Fiction writing,0,HUMAN,4,7,0.5714285714285714
+creativity_0035,"Art, design, crafts",1,AI,5,8,0.625
+creativity_0035,"Art, design, crafts",1,HUMAN,3,8,0.375
+creativity_0036,"Art, design, crafts",1,AI,2,4,0.5
+creativity_0036,"Art, design, crafts",1,HUMAN,2,4,0.5
+creativity_0037,"Art, design, crafts",1,AI,2,5,0.4
+creativity_0037,"Art, design, crafts",1,HUMAN,3,5,0.6
+creativity_0038,Content writing,2,AI,3,5,0.6
+creativity_0038,Content writing,2,HUMAN,2,5,0.4
+creativity_0039,"Art, design, crafts",1,AI,2,6,0.3333333333333333
+creativity_0039,"Art, design, crafts",1,HUMAN,4,6,0.6666666666666666
+creativity_0040,Fiction writing,0,AI,3,5,0.6
+creativity_0040,Fiction writing,0,HUMAN,2,5,0.4
+creativity_0041,Audiovisual,4,AI,1,2,0.5
+creativity_0041,Audiovisual,4,HUMAN,1,2,0.5
+creativity_0042,"Art, design, crafts",1,AI,4,7,0.5714285714285714
+creativity_0042,"Art, design, crafts",1,HUMAN,3,7,0.42857142857142855
+creativity_0043,Fiction writing,0,AI,4,5,0.8
+creativity_0043,Fiction writing,0,HUMAN,1,5,0.2
+creativity_0044,Content writing,2,AI,2,2,1.0
+creativity_0045,Fiction writing,0,AI,4,7,0.5714285714285714
+creativity_0045,Fiction writing,0,HUMAN,3,7,0.42857142857142855
+creativity_0046,Mix,3,AI,6,8,0.75
+creativity_0046,Mix,3,HUMAN,2,8,0.25
+creativity_0047,Fiction writing,0,AI,1,1,1.0
+creativity_0048,Fiction writing,0,AI,6,10,0.6
+creativity_0048,Fiction writing,0,HUMAN,4,10,0.4
+creativity_0049,Audiovisual,4,AI,3,4,0.75
+creativity_0049,Audiovisual,4,HUMAN,1,4,0.25
+creativity_0050,Mix,3,AI,2,6,0.3333333333333333
+creativity_0050,Mix,3,HUMAN,4,6,0.6666666666666666
+creativity_0051,Fiction writing,0,AI,3,6,0.5
+creativity_0051,Fiction writing,0,HUMAN,3,6,0.5
+creativity_0052,Audiovisual,4,AI,1,3,0.3333333333333333
+creativity_0052,Audiovisual,4,HUMAN,2,3,0.6666666666666666
+creativity_0053,Fiction writing,0,AI,2,5,0.4
+creativity_0053,Fiction writing,0,HUMAN,3,5,0.6
+creativity_0054,Audiovisual,4,AI,2,2,1.0
+creativity_0055,"Art, design, crafts",1,AI,7,12,0.5833333333333334
+creativity_0055,"Art, design, crafts",1,HUMAN,5,12,0.4166666666666667
+creativity_0056,Content writing,2,AI,4,5,0.8
+creativity_0056,Content writing,2,HUMAN,1,5,0.2
+creativity_0057,Content writing,2,AI,2,7,0.2857142857142857
+creativity_0057,Content writing,2,HUMAN,5,7,0.7142857142857143
+creativity_0058,Fiction writing,0,AI,5,16,0.3125
+creativity_0058,Fiction writing,0,HUMAN,11,16,0.6875
+creativity_0059,Fiction writing,0,AI,2,4,0.5
+creativity_0059,Fiction writing,0,HUMAN,2,4,0.5
+creativity_0060,Fiction writing,0,AI,3,7,0.42857142857142855
+creativity_0060,Fiction writing,0,HUMAN,4,7,0.5714285714285714
+creativity_0061,"Art, design, crafts",1,AI,2,9,0.2222222222222222
+creativity_0061,"Art, design, crafts",1,HUMAN,7,9,0.7777777777777778
+creativity_0062,"Art, design, crafts",1,AI,3,3,1.0
+creativity_0063,Fiction writing,0,AI,7,9,0.7777777777777778
+creativity_0063,Fiction writing,0,HUMAN,2,9,0.2222222222222222
+creativity_0064,Fiction writing,0,AI,3,4,0.75
+creativity_0064,Fiction writing,0,HUMAN,1,4,0.25
+creativity_0065,Content writing,2,AI,3,4,0.75
+creativity_0065,Content writing,2,HUMAN,1,4,0.25
+creativity_0066,Mix,3,AI,3,6,0.5
+creativity_0066,Mix,3,HUMAN,3,6,0.5
+creativity_0067,Audiovisual,4,HUMAN,1,1,1.0
+creativity_0068,Mix,3,AI,2,6,0.3333333333333333
+creativity_0068,Mix,3,HUMAN,4,6,0.6666666666666666
+creativity_0069,Content writing,2,AI,4,6,0.6666666666666666
+creativity_0069,Content writing,2,HUMAN,2,6,0.3333333333333333
+creativity_0070,Fiction writing,0,AI,4,8,0.5
+creativity_0070,Fiction writing,0,HUMAN,4,8,0.5
+creativity_0071,Mix,3,AI,6,13,0.46153846153846156
+creativity_0071,Mix,3,HUMAN,7,13,0.5384615384615384
+creativity_0072,Audiovisual,4,AI,5,6,0.8333333333333334
+creativity_0072,Audiovisual,4,HUMAN,1,6,0.16666666666666666
+creativity_0073,Fiction writing,0,AI,8,9,0.8888888888888888
+creativity_0073,Fiction writing,0,HUMAN,1,9,0.1111111111111111
+creativity_0074,Audiovisual,4,AI,4,4,1.0
+creativity_0075,Content writing,2,AI,2,4,0.5
+creativity_0075,Content writing,2,HUMAN,2,4,0.5
+creativity_0076,Audiovisual,4,AI,1,2,0.5
+creativity_0076,Audiovisual,4,HUMAN,1,2,0.5
+creativity_0077,Mix,3,AI,7,10,0.7
+creativity_0077,Mix,3,HUMAN,3,10,0.3
+creativity_0078,"Art, design, crafts",1,AI,11,12,0.9166666666666666
+creativity_0078,"Art, design, crafts",1,HUMAN,1,12,0.08333333333333333
+creativity_0079,"Art, design, crafts",1,AI,3,5,0.6
+creativity_0079,"Art, design, crafts",1,HUMAN,2,5,0.4
+creativity_0080,Mix,3,AI,3,6,0.5
+creativity_0080,Mix,3,HUMAN,3,6,0.5
+creativity_0081,Fiction writing,0,AI,5,6,0.8333333333333334
+creativity_0081,Fiction writing,0,HUMAN,1,6,0.16666666666666666
+creativity_0082,Content writing,2,AI,2,3,0.6666666666666666
+creativity_0082,Content writing,2,HUMAN,1,3,0.3333333333333333
+creativity_0083,Fiction writing,0,AI,5,7,0.7142857142857143
+creativity_0083,Fiction writing,0,HUMAN,2,7,0.2857142857142857
+creativity_0084,Content writing,2,AI,4,10,0.4
+creativity_0084,Content writing,2,HUMAN,6,10,0.6
+creativity_0085,"Art, design, crafts",1,AI,2,5,0.4
+creativity_0085,"Art, design, crafts",1,HUMAN,3,5,0.6
+creativity_0086,Fiction writing,0,AI,5,8,0.625
+creativity_0086,Fiction writing,0,HUMAN,3,8,0.375
+creativity_0087,Content writing,2,AI,2,2,1.0
+creativity_0088,Content writing,2,AI,5,7,0.7142857142857143
+creativity_0088,Content writing,2,HUMAN,2,7,0.2857142857142857
+creativity_0089,"Art, design, crafts",1,AI,9,15,0.6
+creativity_0089,"Art, design, crafts",1,HUMAN,6,15,0.4
+creativity_0090,"Art, design, crafts",1,AI,4,6,0.6666666666666666
+creativity_0090,"Art, design, crafts",1,HUMAN,2,6,0.3333333333333333
+creativity_0091,"Art, design, crafts",1,AI,3,5,0.6
+creativity_0091,"Art, design, crafts",1,HUMAN,2,5,0.4
+creativity_0092,Mix,3,AI,4,10,0.4
+creativity_0092,Mix,3,HUMAN,6,10,0.6
+creativity_0093,"Art, design, crafts",1,AI,1,2,0.5
+creativity_0093,"Art, design, crafts",1,HUMAN,1,2,0.5
+creativity_0094,"Art, design, crafts",1,AI,4,5,0.8
+creativity_0094,"Art, design, crafts",1,HUMAN,1,5,0.2
+creativity_0095,"Art, design, crafts",1,AI,1,2,0.5
+creativity_0095,"Art, design, crafts",1,HUMAN,1,2,0.5
+creativity_0096,Fiction writing,0,AI,4,5,0.8
+creativity_0096,Fiction writing,0,HUMAN,1,5,0.2
+creativity_0097,Content writing,2,AI,8,9,0.8888888888888888
+creativity_0097,Content writing,2,HUMAN,1,9,0.1111111111111111
+creativity_0098,Fiction writing,0,AI,1,6,0.16666666666666666
+creativity_0098,Fiction writing,0,HUMAN,5,6,0.8333333333333334
+creativity_0099,"Art, design, crafts",1,AI,1,2,0.5
+creativity_0099,"Art, design, crafts",1,HUMAN,1,2,0.5
+creativity_0100,Audiovisual,4,AI,2,2,1.0
+creativity_0101,Mix,3,AI,6,14,0.42857142857142855
+creativity_0101,Mix,3,HUMAN,8,14,0.5714285714285714
+creativity_0102,Fiction writing,0,AI,2,5,0.4
+creativity_0102,Fiction writing,0,HUMAN,3,5,0.6
+creativity_0103,"Art, design, crafts",1,AI,3,4,0.75
+creativity_0103,"Art, design, crafts",1,HUMAN,1,4,0.25
+creativity_0104,Content writing,2,AI,6,12,0.5
+creativity_0104,Content writing,2,HUMAN,6,12,0.5
+creativity_0105,Audiovisual,4,AI,2,3,0.6666666666666666
+creativity_0105,Audiovisual,4,HUMAN,1,3,0.3333333333333333
+creativity_0106,Fiction writing,0,AI,2,2,1.0
+creativity_0107,"Art, design, crafts",1,AI,4,6,0.6666666666666666
+creativity_0107,"Art, design, crafts",1,HUMAN,2,6,0.3333333333333333
+creativity_0108,Audiovisual,4,AI,2,7,0.2857142857142857
+creativity_0108,Audiovisual,4,HUMAN,5,7,0.7142857142857143
+creativity_0109,"Art, design, crafts",1,AI,2,3,0.6666666666666666
+creativity_0109,"Art, design, crafts",1,HUMAN,1,3,0.3333333333333333
+creativity_0110,"Art, design, crafts",1,AI,5,8,0.625
+creativity_0110,"Art, design, crafts",1,HUMAN,3,8,0.375
+creativity_0111,Content writing,2,AI,3,4,0.75
+creativity_0111,Content writing,2,HUMAN,1,4,0.25
+creativity_0112,"Art, design, crafts",1,AI,1,2,0.5
+creativity_0112,"Art, design, crafts",1,HUMAN,1,2,0.5
+creativity_0113,"Art, design, crafts",1,AI,4,7,0.5714285714285714
+creativity_0113,"Art, design, crafts",1,HUMAN,3,7,0.42857142857142855
+creativity_0114,Audiovisual,4,AI,4,6,0.6666666666666666
+creativity_0114,Audiovisual,4,HUMAN,2,6,0.3333333333333333
+creativity_0115,"Art, design, crafts",1,AI,1,5,0.2
+creativity_0115,"Art, design, crafts",1,HUMAN,4,5,0.8
+creativity_0116,Fiction writing,0,AI,4,6,0.6666666666666666
+creativity_0116,Fiction writing,0,HUMAN,2,6,0.3333333333333333
+creativity_0117,"Art, design, crafts",1,AI,6,7,0.8571428571428571
+creativity_0117,"Art, design, crafts",1,HUMAN,1,7,0.14285714285714285
+creativity_0118,Mix,3,AI,3,3,1.0
+creativity_0119,Audiovisual,4,AI,5,6,0.8333333333333334
+creativity_0119,Audiovisual,4,HUMAN,1,6,0.16666666666666666
+creativity_0120,"Art, design, crafts",1,AI,3,3,1.0
+creativity_0121,Fiction writing,0,AI,5,14,0.35714285714285715
+creativity_0121,Fiction writing,0,HUMAN,9,14,0.6428571428571429
+creativity_0122,Content writing,2,AI,5,7,0.7142857142857143
+creativity_0122,Content writing,2,HUMAN,2,7,0.2857142857142857
+creativity_0123,"Art, design, crafts",1,AI,9,11,0.8181818181818182
+creativity_0123,"Art, design, crafts",1,HUMAN,2,11,0.18181818181818182
+creativity_0124,"Art, design, crafts",1,AI,2,2,1.0
