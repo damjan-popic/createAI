@@ -1,0 +1,16 @@
+section,triplet_sig,count_section,count_other,log_odds,share_in_section
+basic_job_description,I :: use :: AI → nan,11,115,0.519262413656116,0.0873015873008944
+dynamic,I :: drive :: decision → nan,27,0,5.18381284897821,0.999999999962963
+dynamic,I :: make :: decision → nan,5,0,3.57437493654411,0.9999999998
+dynamic,I :: have :: idea → nan,8,11,0.874198791872804,0.421052631556787
+dynamic,I :: use :: it → nan,8,57,-0.735239120561297,0.12307692307503
+dynamic,I :: use :: AI → nan,12,114,-1.0383665149403,0.0952380952373394
+project_example,I :: use :: that → nan,5,2,1.86412071604684,0.714285714183674
+project_example,I :: use :: AI → nan,27,99,-0.210308283809456,0.214285714284014
+project_example,I :: use :: it → nan,11,54,-0.480190310617429,0.169230769228166
+walkthrough,I :: find :: myself → use,5,0,2.57143200003659,0.9999999998
+walkthrough,I :: use :: tool → nan,18,2,2.17501672744835,0.899999999955
+walkthrough,I :: ask :: AI → nan,8,4,0.809525493958219,0.666666666611111
+walkthrough,I :: use :: it → nan,42,23,0.76604038201848,0.646153846143905
+walkthrough,I :: use :: AI → nan,76,50,0.588854131789398,0.603174603169816
+walkthrough,I :: have :: idea → nan,7,12,-0.337288896527769,0.368421052612188

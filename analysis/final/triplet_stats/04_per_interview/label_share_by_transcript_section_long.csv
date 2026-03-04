@@ -1,430 +1,430 @@
-transcript_id,cluster,long_cluster,section,agent_binary,count,total,share
-creativity_0000,Audiovisual,4,project_example,AI,2,2,1.0
-creativity_0000,Audiovisual,4,walkthrough,AI,1,1,1.0
-creativity_0001,Audiovisual,4,dynamic,AI,1,2,0.5
-creativity_0001,Audiovisual,4,dynamic,HUMAN,1,2,0.5
-creativity_0001,Audiovisual,4,project_example,AI,1,2,0.5
-creativity_0001,Audiovisual,4,project_example,HUMAN,1,2,0.5
-creativity_0001,Audiovisual,4,walkthrough,AI,1,1,1.0
-creativity_0002,Content writing,2,dynamic,HUMAN,2,2,1.0
-creativity_0002,Content writing,2,project_example,HUMAN,1,1,1.0
-creativity_0002,Content writing,2,walkthrough,AI,4,5,0.8
-creativity_0002,Content writing,2,walkthrough,HUMAN,1,5,0.2
-creativity_0003,Content writing,2,basic_job_description,HUMAN,1,1,1.0
-creativity_0003,Content writing,2,dynamic,HUMAN,1,1,1.0
-creativity_0003,Content writing,2,project_example,AI,1,2,0.5
-creativity_0003,Content writing,2,project_example,HUMAN,1,2,0.5
-creativity_0003,Content writing,2,walkthrough,AI,1,1,1.0
-creativity_0004,Audiovisual,4,dynamic,HUMAN,2,2,1.0
-creativity_0005,"Art, design, crafts",1,basic_job_description,HUMAN,2,2,1.0
-creativity_0005,"Art, design, crafts",1,project_example,AI,1,1,1.0
-creativity_0005,"Art, design, crafts",1,walkthrough,AI,1,1,1.0
-creativity_0006,Fiction writing,0,dynamic,HUMAN,1,1,1.0
-creativity_0006,Fiction writing,0,project_example,AI,1,2,0.5
-creativity_0006,Fiction writing,0,project_example,HUMAN,1,2,0.5
-creativity_0006,Fiction writing,0,walkthrough,AI,3,3,1.0
-creativity_0007,"Art, design, crafts",1,walkthrough,AI,2,2,1.0
-creativity_0008,Mix,3,basic_job_description,AI,2,2,1.0
-creativity_0008,Mix,3,dynamic,HUMAN,2,2,1.0
-creativity_0008,Mix,3,project_example,HUMAN,1,1,1.0
-creativity_0008,Mix,3,walkthrough,AI,1,3,0.3333333333333333
-creativity_0008,Mix,3,walkthrough,HUMAN,2,3,0.6666666666666666
-creativity_0009,"Art, design, crafts",1,dynamic,AI,2,2,1.0
-creativity_0009,"Art, design, crafts",1,project_example,AI,3,3,1.0
-creativity_0009,"Art, design, crafts",1,walkthrough,AI,1,2,0.5
-creativity_0009,"Art, design, crafts",1,walkthrough,HUMAN,1,2,0.5
-creativity_0010,Content writing,2,basic_job_description,HUMAN,3,3,1.0
-creativity_0010,Content writing,2,dynamic,HUMAN,1,1,1.0
-creativity_0010,Content writing,2,project_example,AI,4,8,0.5
-creativity_0010,Content writing,2,project_example,HUMAN,4,8,0.5
-creativity_0010,Content writing,2,walkthrough,AI,1,3,0.3333333333333333
-creativity_0010,Content writing,2,walkthrough,HUMAN,2,3,0.6666666666666666
-creativity_0011,"Art, design, crafts",1,dynamic,AI,1,1,1.0
-creativity_0011,"Art, design, crafts",1,walkthrough,AI,2,3,0.6666666666666666
-creativity_0011,"Art, design, crafts",1,walkthrough,HUMAN,1,3,0.3333333333333333
-creativity_0012,Fiction writing,0,dynamic,HUMAN,2,2,1.0
-creativity_0012,Fiction writing,0,project_example,AI,1,1,1.0
-creativity_0012,Fiction writing,0,walkthrough,AI,3,3,1.0
-creativity_0013,Mix,3,dynamic,HUMAN,1,1,1.0
-creativity_0013,Mix,3,walkthrough,AI,2,2,1.0
-creativity_0014,"Art, design, crafts",1,dynamic,AI,1,1,1.0
-creativity_0015,"Art, design, crafts",1,basic_job_description,HUMAN,1,1,1.0
-creativity_0015,"Art, design, crafts",1,dynamic,AI,1,2,0.5
-creativity_0015,"Art, design, crafts",1,dynamic,HUMAN,1,2,0.5
-creativity_0015,"Art, design, crafts",1,project_example,AI,1,1,1.0
-creativity_0015,"Art, design, crafts",1,walkthrough,AI,3,4,0.75
-creativity_0015,"Art, design, crafts",1,walkthrough,HUMAN,1,4,0.25
-creativity_0016,Content writing,2,dynamic,HUMAN,2,2,1.0
-creativity_0016,Content writing,2,project_example,AI,2,2,1.0
-creativity_0016,Content writing,2,walkthrough,AI,3,3,1.0
-creativity_0017,Fiction writing,0,basic_job_description,HUMAN,1,1,1.0
-creativity_0017,Fiction writing,0,dynamic,AI,2,3,0.6666666666666666
-creativity_0017,Fiction writing,0,dynamic,HUMAN,1,3,0.3333333333333333
-creativity_0017,Fiction writing,0,walkthrough,AI,3,4,0.75
-creativity_0017,Fiction writing,0,walkthrough,HUMAN,1,4,0.25
-creativity_0018,Audiovisual,4,project_example,HUMAN,2,2,1.0
-creativity_0018,Audiovisual,4,walkthrough,AI,1,1,1.0
-creativity_0019,"Art, design, crafts",1,project_example,AI,1,1,1.0
-creativity_0019,"Art, design, crafts",1,walkthrough,AI,3,5,0.6
-creativity_0019,"Art, design, crafts",1,walkthrough,HUMAN,2,5,0.4
-creativity_0021,Fiction writing,0,dynamic,AI,1,1,1.0
-creativity_0021,Fiction writing,0,project_example,AI,1,1,1.0
-creativity_0021,Fiction writing,0,walkthrough,AI,1,3,0.3333333333333333
-creativity_0021,Fiction writing,0,walkthrough,HUMAN,2,3,0.6666666666666666
-creativity_0022,"Art, design, crafts",1,dynamic,HUMAN,4,4,1.0
-creativity_0022,"Art, design, crafts",1,project_example,AI,1,1,1.0
-creativity_0022,"Art, design, crafts",1,walkthrough,AI,6,6,1.0
-creativity_0023,"Art, design, crafts",1,dynamic,HUMAN,1,1,1.0
-creativity_0024,Content writing,2,dynamic,HUMAN,1,1,1.0
-creativity_0024,Content writing,2,project_example,HUMAN,3,3,1.0
-creativity_0024,Content writing,2,walkthrough,AI,4,4,1.0
-creativity_0025,"Art, design, crafts",1,dynamic,AI,1,3,0.3333333333333333
-creativity_0025,"Art, design, crafts",1,dynamic,HUMAN,2,3,0.6666666666666666
-creativity_0025,"Art, design, crafts",1,walkthrough,AI,2,3,0.6666666666666666
-creativity_0025,"Art, design, crafts",1,walkthrough,HUMAN,1,3,0.3333333333333333
-creativity_0026,Fiction writing,0,basic_job_description,HUMAN,1,1,1.0
-creativity_0026,Fiction writing,0,dynamic,HUMAN,1,1,1.0
-creativity_0026,Fiction writing,0,project_example,AI,5,6,0.8333333333333334
-creativity_0026,Fiction writing,0,project_example,HUMAN,1,6,0.16666666666666666
-creativity_0027,"Art, design, crafts",1,project_example,HUMAN,4,4,1.0
-creativity_0027,"Art, design, crafts",1,walkthrough,AI,1,1,1.0
-creativity_0028,Fiction writing,0,dynamic,AI,1,1,1.0
-creativity_0028,Fiction writing,0,walkthrough,AI,1,3,0.3333333333333333
-creativity_0028,Fiction writing,0,walkthrough,HUMAN,2,3,0.6666666666666666
-creativity_0029,"Art, design, crafts",1,dynamic,AI,1,1,1.0
-creativity_0029,"Art, design, crafts",1,walkthrough,AI,5,6,0.8333333333333334
-creativity_0029,"Art, design, crafts",1,walkthrough,HUMAN,1,6,0.16666666666666666
-creativity_0030,Fiction writing,0,dynamic,AI,3,3,1.0
-creativity_0030,Fiction writing,0,project_example,AI,3,4,0.75
-creativity_0030,Fiction writing,0,project_example,HUMAN,1,4,0.25
-creativity_0030,Fiction writing,0,walkthrough,HUMAN,1,1,1.0
-creativity_0031,Audiovisual,4,dynamic,HUMAN,3,3,1.0
-creativity_0031,Audiovisual,4,walkthrough,AI,1,1,1.0
-creativity_0032,Fiction writing,0,basic_job_description,HUMAN,1,1,1.0
-creativity_0032,Fiction writing,0,dynamic,HUMAN,3,3,1.0
-creativity_0032,Fiction writing,0,project_example,HUMAN,2,2,1.0
-creativity_0032,Fiction writing,0,walkthrough,AI,2,3,0.6666666666666666
-creativity_0032,Fiction writing,0,walkthrough,HUMAN,1,3,0.3333333333333333
-creativity_0033,Mix,3,basic_job_description,AI,2,2,1.0
-creativity_0033,Mix,3,dynamic,HUMAN,5,5,1.0
-creativity_0033,Mix,3,project_example,AI,1,3,0.3333333333333333
-creativity_0033,Mix,3,project_example,HUMAN,2,3,0.6666666666666666
-creativity_0033,Mix,3,walkthrough,AI,1,2,0.5
-creativity_0033,Mix,3,walkthrough,HUMAN,1,2,0.5
-creativity_0034,Fiction writing,0,dynamic,AI,1,1,1.0
-creativity_0034,Fiction writing,0,project_example,HUMAN,2,2,1.0
-creativity_0034,Fiction writing,0,walkthrough,AI,2,4,0.5
-creativity_0034,Fiction writing,0,walkthrough,HUMAN,2,4,0.5
-creativity_0035,"Art, design, crafts",1,dynamic,HUMAN,1,1,1.0
-creativity_0035,"Art, design, crafts",1,project_example,AI,2,3,0.6666666666666666
-creativity_0035,"Art, design, crafts",1,project_example,HUMAN,1,3,0.3333333333333333
-creativity_0035,"Art, design, crafts",1,walkthrough,AI,3,4,0.75
-creativity_0035,"Art, design, crafts",1,walkthrough,HUMAN,1,4,0.25
-creativity_0036,"Art, design, crafts",1,dynamic,AI,1,2,0.5
-creativity_0036,"Art, design, crafts",1,dynamic,HUMAN,1,2,0.5
-creativity_0036,"Art, design, crafts",1,project_example,HUMAN,1,1,1.0
-creativity_0036,"Art, design, crafts",1,walkthrough,AI,1,1,1.0
-creativity_0037,"Art, design, crafts",1,dynamic,HUMAN,1,1,1.0
-creativity_0037,"Art, design, crafts",1,project_example,AI,1,3,0.3333333333333333
-creativity_0037,"Art, design, crafts",1,project_example,HUMAN,2,3,0.6666666666666666
-creativity_0037,"Art, design, crafts",1,walkthrough,AI,1,1,1.0
-creativity_0038,Content writing,2,dynamic,AI,1,1,1.0
-creativity_0038,Content writing,2,project_example,HUMAN,2,2,1.0
-creativity_0038,Content writing,2,walkthrough,AI,2,2,1.0
-creativity_0039,"Art, design, crafts",1,project_example,AI,1,5,0.2
-creativity_0039,"Art, design, crafts",1,project_example,HUMAN,4,5,0.8
-creativity_0039,"Art, design, crafts",1,walkthrough,AI,1,1,1.0
-creativity_0040,Fiction writing,0,dynamic,AI,2,3,0.6666666666666666
-creativity_0040,Fiction writing,0,dynamic,HUMAN,1,3,0.3333333333333333
-creativity_0040,Fiction writing,0,walkthrough,AI,1,2,0.5
-creativity_0040,Fiction writing,0,walkthrough,HUMAN,1,2,0.5
-creativity_0041,Audiovisual,4,project_example,HUMAN,1,1,1.0
-creativity_0041,Audiovisual,4,walkthrough,AI,1,1,1.0
-creativity_0042,"Art, design, crafts",1,basic_job_description,HUMAN,1,1,1.0
-creativity_0042,"Art, design, crafts",1,project_example,AI,2,3,0.6666666666666666
-creativity_0042,"Art, design, crafts",1,project_example,HUMAN,1,3,0.3333333333333333
-creativity_0042,"Art, design, crafts",1,walkthrough,AI,2,3,0.6666666666666666
-creativity_0042,"Art, design, crafts",1,walkthrough,HUMAN,1,3,0.3333333333333333
-creativity_0043,Fiction writing,0,project_example,AI,2,3,0.6666666666666666
-creativity_0043,Fiction writing,0,project_example,HUMAN,1,3,0.3333333333333333
-creativity_0043,Fiction writing,0,walkthrough,AI,2,2,1.0
-creativity_0044,Content writing,2,walkthrough,AI,2,2,1.0
-creativity_0045,Fiction writing,0,dynamic,HUMAN,2,2,1.0
-creativity_0045,Fiction writing,0,project_example,AI,1,1,1.0
-creativity_0045,Fiction writing,0,walkthrough,AI,3,4,0.75
-creativity_0045,Fiction writing,0,walkthrough,HUMAN,1,4,0.25
-creativity_0046,Mix,3,basic_job_description,AI,1,1,1.0
-creativity_0046,Mix,3,dynamic,AI,1,1,1.0
-creativity_0046,Mix,3,project_example,AI,2,4,0.5
-creativity_0046,Mix,3,project_example,HUMAN,2,4,0.5
-creativity_0046,Mix,3,walkthrough,AI,2,2,1.0
-creativity_0047,Fiction writing,0,walkthrough,AI,1,1,1.0
-creativity_0048,Fiction writing,0,basic_job_description,AI,1,1,1.0
-creativity_0048,Fiction writing,0,dynamic,AI,1,2,0.5
-creativity_0048,Fiction writing,0,dynamic,HUMAN,1,2,0.5
-creativity_0048,Fiction writing,0,project_example,AI,1,2,0.5
-creativity_0048,Fiction writing,0,project_example,HUMAN,1,2,0.5
-creativity_0048,Fiction writing,0,walkthrough,AI,3,5,0.6
-creativity_0048,Fiction writing,0,walkthrough,HUMAN,2,5,0.4
-creativity_0049,Audiovisual,4,dynamic,HUMAN,1,1,1.0
-creativity_0049,Audiovisual,4,walkthrough,AI,3,3,1.0
-creativity_0050,Mix,3,dynamic,AI,1,2,0.5
-creativity_0050,Mix,3,dynamic,HUMAN,1,2,0.5
-creativity_0050,Mix,3,project_example,HUMAN,1,1,1.0
-creativity_0050,Mix,3,walkthrough,AI,1,3,0.3333333333333333
-creativity_0050,Mix,3,walkthrough,HUMAN,2,3,0.6666666666666666
-creativity_0051,Fiction writing,0,dynamic,HUMAN,1,1,1.0
-creativity_0051,Fiction writing,0,project_example,AI,2,4,0.5
-creativity_0051,Fiction writing,0,project_example,HUMAN,2,4,0.5
-creativity_0051,Fiction writing,0,walkthrough,AI,1,1,1.0
-creativity_0052,Audiovisual,4,project_example,AI,1,1,1.0
-creativity_0052,Audiovisual,4,walkthrough,HUMAN,2,2,1.0
-creativity_0053,Fiction writing,0,dynamic,HUMAN,1,1,1.0
-creativity_0053,Fiction writing,0,project_example,AI,2,2,1.0
-creativity_0053,Fiction writing,0,walkthrough,HUMAN,2,2,1.0
-creativity_0054,Audiovisual,4,walkthrough,AI,2,2,1.0
-creativity_0055,"Art, design, crafts",1,dynamic,AI,1,2,0.5
-creativity_0055,"Art, design, crafts",1,dynamic,HUMAN,1,2,0.5
-creativity_0055,"Art, design, crafts",1,project_example,AI,3,5,0.6
-creativity_0055,"Art, design, crafts",1,project_example,HUMAN,2,5,0.4
-creativity_0055,"Art, design, crafts",1,walkthrough,AI,3,5,0.6
-creativity_0055,"Art, design, crafts",1,walkthrough,HUMAN,2,5,0.4
-creativity_0056,Content writing,2,dynamic,HUMAN,1,1,1.0
-creativity_0056,Content writing,2,project_example,AI,1,1,1.0
-creativity_0056,Content writing,2,walkthrough,AI,3,3,1.0
-creativity_0057,Content writing,2,basic_job_description,HUMAN,1,1,1.0
-creativity_0057,Content writing,2,project_example,HUMAN,3,3,1.0
-creativity_0057,Content writing,2,walkthrough,AI,2,3,0.6666666666666666
-creativity_0057,Content writing,2,walkthrough,HUMAN,1,3,0.3333333333333333
-creativity_0058,Fiction writing,0,dynamic,AI,2,5,0.4
-creativity_0058,Fiction writing,0,dynamic,HUMAN,3,5,0.6
-creativity_0058,Fiction writing,0,walkthrough,AI,3,11,0.2727272727272727
-creativity_0058,Fiction writing,0,walkthrough,HUMAN,8,11,0.7272727272727273
-creativity_0059,Fiction writing,0,basic_job_description,HUMAN,1,1,1.0
-creativity_0059,Fiction writing,0,project_example,AI,1,1,1.0
-creativity_0059,Fiction writing,0,walkthrough,AI,1,2,0.5
-creativity_0059,Fiction writing,0,walkthrough,HUMAN,1,2,0.5
-creativity_0060,Fiction writing,0,basic_job_description,HUMAN,1,1,1.0
-creativity_0060,Fiction writing,0,dynamic,AI,1,4,0.25
-creativity_0060,Fiction writing,0,dynamic,HUMAN,3,4,0.75
-creativity_0060,Fiction writing,0,project_example,AI,1,1,1.0
-creativity_0060,Fiction writing,0,walkthrough,AI,1,1,1.0
-creativity_0061,"Art, design, crafts",1,dynamic,HUMAN,5,5,1.0
-creativity_0061,"Art, design, crafts",1,project_example,HUMAN,2,2,1.0
-creativity_0061,"Art, design, crafts",1,walkthrough,AI,2,2,1.0
-creativity_0062,"Art, design, crafts",1,dynamic,AI,1,1,1.0
-creativity_0062,"Art, design, crafts",1,walkthrough,AI,2,2,1.0
-creativity_0063,Fiction writing,0,dynamic,HUMAN,2,2,1.0
-creativity_0063,Fiction writing,0,project_example,AI,1,1,1.0
-creativity_0063,Fiction writing,0,walkthrough,AI,6,6,1.0
-creativity_0064,Fiction writing,0,dynamic,AI,1,1,1.0
-creativity_0064,Fiction writing,0,walkthrough,AI,2,3,0.6666666666666666
-creativity_0064,Fiction writing,0,walkthrough,HUMAN,1,3,0.3333333333333333
-creativity_0065,Content writing,2,dynamic,HUMAN,1,1,1.0
-creativity_0065,Content writing,2,project_example,AI,1,1,1.0
-creativity_0065,Content writing,2,walkthrough,AI,2,2,1.0
-creativity_0066,Mix,3,basic_job_description,AI,1,1,1.0
-creativity_0066,Mix,3,project_example,AI,1,3,0.3333333333333333
-creativity_0066,Mix,3,project_example,HUMAN,2,3,0.6666666666666666
-creativity_0066,Mix,3,walkthrough,AI,1,2,0.5
-creativity_0066,Mix,3,walkthrough,HUMAN,1,2,0.5
-creativity_0067,Audiovisual,4,walkthrough,HUMAN,1,1,1.0
-creativity_0068,Mix,3,basic_job_description,AI,1,1,1.0
-creativity_0068,Mix,3,dynamic,HUMAN,2,2,1.0
-creativity_0068,Mix,3,project_example,AI,1,3,0.3333333333333333
-creativity_0068,Mix,3,project_example,HUMAN,2,3,0.6666666666666666
-creativity_0069,Content writing,2,dynamic,HUMAN,2,2,1.0
-creativity_0069,Content writing,2,project_example,AI,2,2,1.0
-creativity_0069,Content writing,2,walkthrough,AI,2,2,1.0
-creativity_0070,Fiction writing,0,dynamic,AI,1,1,1.0
-creativity_0070,Fiction writing,0,project_example,AI,1,2,0.5
-creativity_0070,Fiction writing,0,project_example,HUMAN,1,2,0.5
-creativity_0070,Fiction writing,0,walkthrough,AI,2,5,0.4
-creativity_0070,Fiction writing,0,walkthrough,HUMAN,3,5,0.6
-creativity_0071,Mix,3,basic_job_description,AI,1,1,1.0
-creativity_0071,Mix,3,dynamic,HUMAN,2,2,1.0
-creativity_0071,Mix,3,project_example,AI,1,2,0.5
-creativity_0071,Mix,3,project_example,HUMAN,1,2,0.5
-creativity_0071,Mix,3,walkthrough,AI,4,8,0.5
-creativity_0071,Mix,3,walkthrough,HUMAN,4,8,0.5
-creativity_0072,Audiovisual,4,dynamic,AI,2,3,0.6666666666666666
-creativity_0072,Audiovisual,4,dynamic,HUMAN,1,3,0.3333333333333333
-creativity_0072,Audiovisual,4,walkthrough,AI,3,3,1.0
-creativity_0073,Fiction writing,0,basic_job_description,HUMAN,1,1,1.0
-creativity_0073,Fiction writing,0,project_example,AI,2,2,1.0
-creativity_0073,Fiction writing,0,walkthrough,AI,6,6,1.0
-creativity_0074,Audiovisual,4,walkthrough,AI,4,4,1.0
-creativity_0075,Content writing,2,dynamic,AI,2,4,0.5
-creativity_0075,Content writing,2,dynamic,HUMAN,2,4,0.5
-creativity_0076,Audiovisual,4,dynamic,HUMAN,1,1,1.0
-creativity_0076,Audiovisual,4,walkthrough,AI,1,1,1.0
-creativity_0077,Mix,3,basic_job_description,AI,1,1,1.0
-creativity_0077,Mix,3,dynamic,AI,2,3,0.6666666666666666
-creativity_0077,Mix,3,dynamic,HUMAN,1,3,0.3333333333333333
-creativity_0077,Mix,3,project_example,AI,1,2,0.5
-creativity_0077,Mix,3,project_example,HUMAN,1,2,0.5
-creativity_0077,Mix,3,walkthrough,AI,3,4,0.75
-creativity_0077,Mix,3,walkthrough,HUMAN,1,4,0.25
-creativity_0078,"Art, design, crafts",1,project_example,AI,3,3,1.0
-creativity_0078,"Art, design, crafts",1,walkthrough,AI,8,9,0.8888888888888888
-creativity_0078,"Art, design, crafts",1,walkthrough,HUMAN,1,9,0.1111111111111111
-creativity_0079,"Art, design, crafts",1,dynamic,HUMAN,1,1,1.0
-creativity_0079,"Art, design, crafts",1,project_example,AI,2,3,0.6666666666666666
-creativity_0079,"Art, design, crafts",1,project_example,HUMAN,1,3,0.3333333333333333
-creativity_0079,"Art, design, crafts",1,walkthrough,AI,1,1,1.0
-creativity_0080,Mix,3,basic_job_description,AI,3,3,1.0
-creativity_0080,Mix,3,dynamic,HUMAN,1,1,1.0
-creativity_0080,Mix,3,project_example,HUMAN,2,2,1.0
-creativity_0081,Fiction writing,0,dynamic,AI,1,1,1.0
-creativity_0081,Fiction writing,0,project_example,AI,1,2,0.5
-creativity_0081,Fiction writing,0,project_example,HUMAN,1,2,0.5
-creativity_0081,Fiction writing,0,walkthrough,AI,3,3,1.0
-creativity_0082,Content writing,2,project_example,HUMAN,1,1,1.0
-creativity_0082,Content writing,2,walkthrough,AI,2,2,1.0
-creativity_0083,Fiction writing,0,dynamic,AI,1,2,0.5
-creativity_0083,Fiction writing,0,dynamic,HUMAN,1,2,0.5
-creativity_0083,Fiction writing,0,project_example,AI,1,2,0.5
-creativity_0083,Fiction writing,0,project_example,HUMAN,1,2,0.5
-creativity_0083,Fiction writing,0,walkthrough,AI,3,3,1.0
-creativity_0084,Content writing,2,dynamic,HUMAN,1,1,1.0
-creativity_0084,Content writing,2,project_example,HUMAN,1,1,1.0
-creativity_0084,Content writing,2,walkthrough,AI,4,8,0.5
-creativity_0084,Content writing,2,walkthrough,HUMAN,4,8,0.5
-creativity_0085,"Art, design, crafts",1,dynamic,HUMAN,2,2,1.0
-creativity_0085,"Art, design, crafts",1,project_example,HUMAN,1,1,1.0
-creativity_0085,"Art, design, crafts",1,walkthrough,AI,2,2,1.0
-creativity_0086,Fiction writing,0,basic_job_description,HUMAN,1,1,1.0
-creativity_0086,Fiction writing,0,dynamic,AI,2,3,0.6666666666666666
-creativity_0086,Fiction writing,0,dynamic,HUMAN,1,3,0.3333333333333333
-creativity_0086,Fiction writing,0,project_example,AI,2,3,0.6666666666666666
-creativity_0086,Fiction writing,0,project_example,HUMAN,1,3,0.3333333333333333
-creativity_0086,Fiction writing,0,walkthrough,AI,1,1,1.0
-creativity_0087,Content writing,2,dynamic,AI,2,2,1.0
-creativity_0088,Content writing,2,dynamic,AI,1,2,0.5
-creativity_0088,Content writing,2,dynamic,HUMAN,1,2,0.5
-creativity_0088,Content writing,2,project_example,AI,1,2,0.5
-creativity_0088,Content writing,2,project_example,HUMAN,1,2,0.5
-creativity_0088,Content writing,2,walkthrough,AI,3,3,1.0
-creativity_0089,"Art, design, crafts",1,dynamic,AI,3,4,0.75
-creativity_0089,"Art, design, crafts",1,dynamic,HUMAN,1,4,0.25
-creativity_0089,"Art, design, crafts",1,project_example,AI,2,4,0.5
-creativity_0089,"Art, design, crafts",1,project_example,HUMAN,2,4,0.5
-creativity_0089,"Art, design, crafts",1,walkthrough,AI,4,7,0.5714285714285714
-creativity_0089,"Art, design, crafts",1,walkthrough,HUMAN,3,7,0.42857142857142855
-creativity_0090,"Art, design, crafts",1,dynamic,AI,1,2,0.5
-creativity_0090,"Art, design, crafts",1,dynamic,HUMAN,1,2,0.5
-creativity_0090,"Art, design, crafts",1,project_example,AI,1,2,0.5
-creativity_0090,"Art, design, crafts",1,project_example,HUMAN,1,2,0.5
-creativity_0090,"Art, design, crafts",1,walkthrough,AI,2,2,1.0
-creativity_0091,"Art, design, crafts",1,project_example,AI,1,2,0.5
-creativity_0091,"Art, design, crafts",1,project_example,HUMAN,1,2,0.5
-creativity_0091,"Art, design, crafts",1,walkthrough,AI,2,3,0.6666666666666666
-creativity_0091,"Art, design, crafts",1,walkthrough,HUMAN,1,3,0.3333333333333333
-creativity_0092,Mix,3,basic_job_description,AI,2,5,0.4
-creativity_0092,Mix,3,basic_job_description,HUMAN,3,5,0.6
-creativity_0092,Mix,3,dynamic,AI,1,1,1.0
-creativity_0092,Mix,3,project_example,AI,1,2,0.5
-creativity_0092,Mix,3,project_example,HUMAN,1,2,0.5
-creativity_0092,Mix,3,walkthrough,HUMAN,2,2,1.0
-creativity_0093,"Art, design, crafts",1,dynamic,HUMAN,1,1,1.0
-creativity_0093,"Art, design, crafts",1,project_example,AI,1,1,1.0
-creativity_0094,"Art, design, crafts",1,dynamic,AI,1,2,0.5
-creativity_0094,"Art, design, crafts",1,dynamic,HUMAN,1,2,0.5
-creativity_0094,"Art, design, crafts",1,project_example,AI,1,1,1.0
-creativity_0094,"Art, design, crafts",1,walkthrough,AI,2,2,1.0
-creativity_0095,"Art, design, crafts",1,dynamic,AI,1,1,1.0
-creativity_0095,"Art, design, crafts",1,project_example,HUMAN,1,1,1.0
-creativity_0096,Fiction writing,0,dynamic,HUMAN,1,1,1.0
-creativity_0096,Fiction writing,0,walkthrough,AI,4,4,1.0
-creativity_0097,Content writing,2,dynamic,AI,1,2,0.5
-creativity_0097,Content writing,2,dynamic,HUMAN,1,2,0.5
-creativity_0097,Content writing,2,project_example,AI,3,3,1.0
-creativity_0097,Content writing,2,walkthrough,AI,4,4,1.0
-creativity_0098,Fiction writing,0,dynamic,AI,1,2,0.5
-creativity_0098,Fiction writing,0,dynamic,HUMAN,1,2,0.5
-creativity_0098,Fiction writing,0,project_example,HUMAN,2,2,1.0
-creativity_0098,Fiction writing,0,walkthrough,HUMAN,2,2,1.0
-creativity_0099,"Art, design, crafts",1,dynamic,HUMAN,1,1,1.0
-creativity_0099,"Art, design, crafts",1,walkthrough,AI,1,1,1.0
-creativity_0100,Audiovisual,4,dynamic,AI,2,2,1.0
-creativity_0101,Mix,3,basic_job_description,AI,2,2,1.0
-creativity_0101,Mix,3,project_example,HUMAN,3,3,1.0
-creativity_0101,Mix,3,walkthrough,AI,4,9,0.4444444444444444
-creativity_0101,Mix,3,walkthrough,HUMAN,5,9,0.5555555555555556
-creativity_0102,Fiction writing,0,basic_job_description,HUMAN,1,1,1.0
-creativity_0102,Fiction writing,0,dynamic,HUMAN,1,1,1.0
-creativity_0102,Fiction writing,0,project_example,HUMAN,1,1,1.0
-creativity_0102,Fiction writing,0,walkthrough,AI,2,2,1.0
-creativity_0103,"Art, design, crafts",1,dynamic,HUMAN,1,1,1.0
-creativity_0103,"Art, design, crafts",1,project_example,AI,2,2,1.0
-creativity_0103,"Art, design, crafts",1,walkthrough,AI,1,1,1.0
-creativity_0104,Content writing,2,dynamic,HUMAN,4,4,1.0
-creativity_0104,Content writing,2,project_example,AI,1,1,1.0
-creativity_0104,Content writing,2,walkthrough,AI,5,7,0.7142857142857143
-creativity_0104,Content writing,2,walkthrough,HUMAN,2,7,0.2857142857142857
-creativity_0105,Audiovisual,4,project_example,AI,2,2,1.0
-creativity_0105,Audiovisual,4,walkthrough,HUMAN,1,1,1.0
-creativity_0106,Fiction writing,0,dynamic,AI,1,1,1.0
-creativity_0106,Fiction writing,0,project_example,AI,1,1,1.0
-creativity_0107,"Art, design, crafts",1,dynamic,AI,1,1,1.0
-creativity_0107,"Art, design, crafts",1,project_example,AI,1,1,1.0
-creativity_0107,"Art, design, crafts",1,walkthrough,AI,2,4,0.5
-creativity_0107,"Art, design, crafts",1,walkthrough,HUMAN,2,4,0.5
-creativity_0108,Audiovisual,4,dynamic,HUMAN,2,2,1.0
-creativity_0108,Audiovisual,4,project_example,AI,1,3,0.3333333333333333
-creativity_0108,Audiovisual,4,project_example,HUMAN,2,3,0.6666666666666666
-creativity_0108,Audiovisual,4,walkthrough,AI,1,2,0.5
-creativity_0108,Audiovisual,4,walkthrough,HUMAN,1,2,0.5
-creativity_0109,"Art, design, crafts",1,dynamic,HUMAN,1,1,1.0
-creativity_0109,"Art, design, crafts",1,walkthrough,AI,2,2,1.0
-creativity_0110,"Art, design, crafts",1,dynamic,AI,1,1,1.0
-creativity_0110,"Art, design, crafts",1,project_example,AI,1,1,1.0
-creativity_0110,"Art, design, crafts",1,walkthrough,AI,3,6,0.5
-creativity_0110,"Art, design, crafts",1,walkthrough,HUMAN,3,6,0.5
-creativity_0111,Content writing,2,dynamic,AI,1,1,1.0
-creativity_0111,Content writing,2,project_example,HUMAN,1,1,1.0
-creativity_0111,Content writing,2,walkthrough,AI,2,2,1.0
-creativity_0112,"Art, design, crafts",1,dynamic,AI,1,2,0.5
-creativity_0112,"Art, design, crafts",1,dynamic,HUMAN,1,2,0.5
-creativity_0113,"Art, design, crafts",1,basic_job_description,HUMAN,1,1,1.0
-creativity_0113,"Art, design, crafts",1,dynamic,HUMAN,1,1,1.0
-creativity_0113,"Art, design, crafts",1,walkthrough,AI,4,5,0.8
-creativity_0113,"Art, design, crafts",1,walkthrough,HUMAN,1,5,0.2
-creativity_0114,Audiovisual,4,dynamic,HUMAN,1,1,1.0
-creativity_0114,Audiovisual,4,project_example,AI,1,2,0.5
-creativity_0114,Audiovisual,4,project_example,HUMAN,1,2,0.5
-creativity_0114,Audiovisual,4,walkthrough,AI,3,3,1.0
-creativity_0115,"Art, design, crafts",1,basic_job_description,HUMAN,1,1,1.0
-creativity_0115,"Art, design, crafts",1,dynamic,AI,1,3,0.3333333333333333
-creativity_0115,"Art, design, crafts",1,dynamic,HUMAN,2,3,0.6666666666666666
-creativity_0115,"Art, design, crafts",1,project_example,HUMAN,1,1,1.0
-creativity_0116,Fiction writing,0,dynamic,AI,1,2,0.5
-creativity_0116,Fiction writing,0,dynamic,HUMAN,1,2,0.5
-creativity_0116,Fiction writing,0,project_example,AI,1,1,1.0
-creativity_0116,Fiction writing,0,walkthrough,AI,2,3,0.6666666666666666
-creativity_0116,Fiction writing,0,walkthrough,HUMAN,1,3,0.3333333333333333
-creativity_0117,"Art, design, crafts",1,dynamic,AI,3,3,1.0
-creativity_0117,"Art, design, crafts",1,project_example,HUMAN,1,1,1.0
-creativity_0117,"Art, design, crafts",1,walkthrough,AI,3,3,1.0
-creativity_0118,Mix,3,project_example,AI,1,1,1.0
-creativity_0118,Mix,3,walkthrough,AI,2,2,1.0
-creativity_0119,Audiovisual,4,dynamic,HUMAN,1,1,1.0
-creativity_0119,Audiovisual,4,walkthrough,AI,5,5,1.0
-creativity_0120,"Art, design, crafts",1,project_example,AI,1,1,1.0
-creativity_0120,"Art, design, crafts",1,walkthrough,AI,2,2,1.0
-creativity_0121,Fiction writing,0,basic_job_description,HUMAN,2,2,1.0
-creativity_0121,Fiction writing,0,dynamic,AI,1,2,0.5
-creativity_0121,Fiction writing,0,dynamic,HUMAN,1,2,0.5
-creativity_0121,Fiction writing,0,project_example,AI,1,1,1.0
-creativity_0121,Fiction writing,0,walkthrough,AI,3,9,0.3333333333333333
-creativity_0121,Fiction writing,0,walkthrough,HUMAN,6,9,0.6666666666666666
-creativity_0122,Content writing,2,dynamic,HUMAN,1,1,1.0
-creativity_0122,Content writing,2,project_example,AI,1,1,1.0
-creativity_0122,Content writing,2,walkthrough,AI,4,5,0.8
-creativity_0122,Content writing,2,walkthrough,HUMAN,1,5,0.2
-creativity_0123,"Art, design, crafts",1,dynamic,AI,1,2,0.5
-creativity_0123,"Art, design, crafts",1,dynamic,HUMAN,1,2,0.5
-creativity_0123,"Art, design, crafts",1,project_example,AI,5,5,1.0
-creativity_0123,"Art, design, crafts",1,walkthrough,AI,3,4,0.75
-creativity_0123,"Art, design, crafts",1,walkthrough,HUMAN,1,4,0.25
-creativity_0124,"Art, design, crafts",1,walkthrough,AI,2,2,1.0
+transcript_id,creative_type,section,agent_binary,count,total,share
+creativity_0000,music,project_example,AI,2,2,1.0
+creativity_0000,music,walkthrough,AI,1,1,1.0
+creativity_0001,music,dynamic,AI,1,2,0.5
+creativity_0001,music,dynamic,HUMAN,1,2,0.5
+creativity_0001,music,project_example,AI,1,2,0.5
+creativity_0001,music,project_example,HUMAN,1,2,0.5
+creativity_0001,music,walkthrough,AI,1,1,1.0
+creativity_0002,web_content,dynamic,HUMAN,2,2,1.0
+creativity_0002,web_content,project_example,HUMAN,1,1,1.0
+creativity_0002,web_content,walkthrough,AI,4,5,0.8
+creativity_0002,web_content,walkthrough,HUMAN,1,5,0.2
+creativity_0003,photo,basic_job_description,HUMAN,1,1,1.0
+creativity_0003,photo,dynamic,HUMAN,1,1,1.0
+creativity_0003,photo,project_example,AI,1,2,0.5
+creativity_0003,photo,project_example,HUMAN,1,2,0.5
+creativity_0003,photo,walkthrough,AI,1,1,1.0
+creativity_0004,film_video,dynamic,HUMAN,2,2,1.0
+creativity_0005,arts_crafts,basic_job_description,HUMAN,2,2,1.0
+creativity_0005,arts_crafts,project_example,AI,1,1,1.0
+creativity_0005,arts_crafts,walkthrough,AI,1,1,1.0
+creativity_0006,screenwriting,dynamic,HUMAN,1,1,1.0
+creativity_0006,screenwriting,project_example,AI,1,2,0.5
+creativity_0006,screenwriting,project_example,HUMAN,1,2,0.5
+creativity_0006,screenwriting,walkthrough,AI,3,3,1.0
+creativity_0007,web_content,walkthrough,AI,2,2,1.0
+creativity_0008,photo,basic_job_description,AI,2,2,1.0
+creativity_0008,photo,dynamic,HUMAN,2,2,1.0
+creativity_0008,photo,project_example,HUMAN,1,1,1.0
+creativity_0008,photo,walkthrough,AI,1,3,0.3333333333333333
+creativity_0008,photo,walkthrough,HUMAN,2,3,0.6666666666666666
+creativity_0009,design,dynamic,AI,2,2,1.0
+creativity_0009,design,project_example,AI,3,3,1.0
+creativity_0009,design,walkthrough,AI,1,2,0.5
+creativity_0009,design,walkthrough,HUMAN,1,2,0.5
+creativity_0010,photo,basic_job_description,HUMAN,3,3,1.0
+creativity_0010,photo,dynamic,HUMAN,1,1,1.0
+creativity_0010,photo,project_example,AI,4,8,0.5
+creativity_0010,photo,project_example,HUMAN,4,8,0.5
+creativity_0010,photo,walkthrough,AI,1,3,0.3333333333333333
+creativity_0010,photo,walkthrough,HUMAN,2,3,0.6666666666666666
+creativity_0011,design,dynamic,AI,1,1,1.0
+creativity_0011,design,walkthrough,AI,2,3,0.6666666666666666
+creativity_0011,design,walkthrough,HUMAN,1,3,0.3333333333333333
+creativity_0012,writing_fiction,dynamic,HUMAN,2,2,1.0
+creativity_0012,writing_fiction,project_example,AI,1,1,1.0
+creativity_0012,writing_fiction,walkthrough,AI,3,3,1.0
+creativity_0013,photo,dynamic,HUMAN,1,1,1.0
+creativity_0013,photo,walkthrough,AI,2,2,1.0
+creativity_0014,design,dynamic,AI,1,1,1.0
+creativity_0015,writing_misc,basic_job_description,HUMAN,1,1,1.0
+creativity_0015,writing_misc,dynamic,AI,1,2,0.5
+creativity_0015,writing_misc,dynamic,HUMAN,1,2,0.5
+creativity_0015,writing_misc,project_example,AI,1,1,1.0
+creativity_0015,writing_misc,walkthrough,AI,3,4,0.75
+creativity_0015,writing_misc,walkthrough,HUMAN,1,4,0.25
+creativity_0016,,dynamic,HUMAN,2,2,1.0
+creativity_0016,,project_example,AI,2,2,1.0
+creativity_0016,,walkthrough,AI,3,3,1.0
+creativity_0017,writing_fiction,basic_job_description,HUMAN,1,1,1.0
+creativity_0017,writing_fiction,dynamic,AI,2,3,0.6666666666666666
+creativity_0017,writing_fiction,dynamic,HUMAN,1,3,0.3333333333333333
+creativity_0017,writing_fiction,walkthrough,AI,3,4,0.75
+creativity_0017,writing_fiction,walkthrough,HUMAN,1,4,0.25
+creativity_0018,music,project_example,HUMAN,2,2,1.0
+creativity_0018,music,walkthrough,AI,1,1,1.0
+creativity_0019,design,project_example,AI,1,1,1.0
+creativity_0019,design,walkthrough,AI,3,5,0.6
+creativity_0019,design,walkthrough,HUMAN,2,5,0.4
+creativity_0021,writing_fiction,dynamic,AI,1,1,1.0
+creativity_0021,writing_fiction,project_example,AI,1,1,1.0
+creativity_0021,writing_fiction,walkthrough,AI,1,3,0.3333333333333333
+creativity_0021,writing_fiction,walkthrough,HUMAN,2,3,0.6666666666666666
+creativity_0022,design,dynamic,HUMAN,4,4,1.0
+creativity_0022,design,project_example,AI,1,1,1.0
+creativity_0022,design,walkthrough,AI,6,6,1.0
+creativity_0023,arts_crafts,dynamic,HUMAN,1,1,1.0
+creativity_0024,writing_fiction,dynamic,HUMAN,1,1,1.0
+creativity_0024,writing_fiction,project_example,HUMAN,3,3,1.0
+creativity_0024,writing_fiction,walkthrough,AI,4,4,1.0
+creativity_0025,arts_crafts,dynamic,AI,1,3,0.3333333333333333
+creativity_0025,arts_crafts,dynamic,HUMAN,2,3,0.6666666666666666
+creativity_0025,arts_crafts,walkthrough,AI,2,3,0.6666666666666666
+creativity_0025,arts_crafts,walkthrough,HUMAN,1,3,0.3333333333333333
+creativity_0026,screenwriting,basic_job_description,HUMAN,1,1,1.0
+creativity_0026,screenwriting,dynamic,HUMAN,1,1,1.0
+creativity_0026,screenwriting,project_example,AI,5,6,0.8333333333333334
+creativity_0026,screenwriting,project_example,HUMAN,1,6,0.16666666666666666
+creativity_0027,design,project_example,HUMAN,4,4,1.0
+creativity_0027,design,walkthrough,AI,1,1,1.0
+creativity_0028,writing_fiction,dynamic,AI,1,1,1.0
+creativity_0028,writing_fiction,walkthrough,AI,1,3,0.3333333333333333
+creativity_0028,writing_fiction,walkthrough,HUMAN,2,3,0.6666666666666666
+creativity_0029,design,dynamic,AI,1,1,1.0
+creativity_0029,design,walkthrough,AI,5,6,0.8333333333333334
+creativity_0029,design,walkthrough,HUMAN,1,6,0.16666666666666666
+creativity_0030,writing_fiction,dynamic,AI,3,3,1.0
+creativity_0030,writing_fiction,project_example,AI,3,4,0.75
+creativity_0030,writing_fiction,project_example,HUMAN,1,4,0.25
+creativity_0030,writing_fiction,walkthrough,HUMAN,1,1,1.0
+creativity_0031,film_video,dynamic,HUMAN,3,3,1.0
+creativity_0031,film_video,walkthrough,AI,1,1,1.0
+creativity_0032,writing_fiction,basic_job_description,HUMAN,1,1,1.0
+creativity_0032,writing_fiction,dynamic,HUMAN,3,3,1.0
+creativity_0032,writing_fiction,project_example,HUMAN,2,2,1.0
+creativity_0032,writing_fiction,walkthrough,AI,2,3,0.6666666666666666
+creativity_0032,writing_fiction,walkthrough,HUMAN,1,3,0.3333333333333333
+creativity_0033,photo,basic_job_description,AI,2,2,1.0
+creativity_0033,photo,dynamic,HUMAN,5,5,1.0
+creativity_0033,photo,project_example,AI,1,3,0.3333333333333333
+creativity_0033,photo,project_example,HUMAN,2,3,0.6666666666666666
+creativity_0033,photo,walkthrough,AI,1,2,0.5
+creativity_0033,photo,walkthrough,HUMAN,1,2,0.5
+creativity_0034,writing_misc,dynamic,AI,1,1,1.0
+creativity_0034,writing_misc,project_example,HUMAN,2,2,1.0
+creativity_0034,writing_misc,walkthrough,AI,2,4,0.5
+creativity_0034,writing_misc,walkthrough,HUMAN,2,4,0.5
+creativity_0035,arts_crafts,dynamic,HUMAN,1,1,1.0
+creativity_0035,arts_crafts,project_example,AI,2,3,0.6666666666666666
+creativity_0035,arts_crafts,project_example,HUMAN,1,3,0.3333333333333333
+creativity_0035,arts_crafts,walkthrough,AI,3,4,0.75
+creativity_0035,arts_crafts,walkthrough,HUMAN,1,4,0.25
+creativity_0036,design,dynamic,AI,1,2,0.5
+creativity_0036,design,dynamic,HUMAN,1,2,0.5
+creativity_0036,design,project_example,HUMAN,1,1,1.0
+creativity_0036,design,walkthrough,AI,1,1,1.0
+creativity_0037,arts_crafts,dynamic,HUMAN,1,1,1.0
+creativity_0037,arts_crafts,project_example,AI,1,3,0.3333333333333333
+creativity_0037,arts_crafts,project_example,HUMAN,2,3,0.6666666666666666
+creativity_0037,arts_crafts,walkthrough,AI,1,1,1.0
+creativity_0038,web_content,dynamic,AI,1,1,1.0
+creativity_0038,web_content,project_example,HUMAN,2,2,1.0
+creativity_0038,web_content,walkthrough,AI,2,2,1.0
+creativity_0039,arts_crafts,project_example,AI,1,5,0.2
+creativity_0039,arts_crafts,project_example,HUMAN,4,5,0.8
+creativity_0039,arts_crafts,walkthrough,AI,1,1,1.0
+creativity_0040,writing_misc,dynamic,AI,2,3,0.6666666666666666
+creativity_0040,writing_misc,dynamic,HUMAN,1,3,0.3333333333333333
+creativity_0040,writing_misc,walkthrough,AI,1,2,0.5
+creativity_0040,writing_misc,walkthrough,HUMAN,1,2,0.5
+creativity_0041,music,project_example,HUMAN,1,1,1.0
+creativity_0041,music,walkthrough,AI,1,1,1.0
+creativity_0042,film_video,basic_job_description,HUMAN,1,1,1.0
+creativity_0042,film_video,project_example,AI,2,3,0.6666666666666666
+creativity_0042,film_video,project_example,HUMAN,1,3,0.3333333333333333
+creativity_0042,film_video,walkthrough,AI,2,3,0.6666666666666666
+creativity_0042,film_video,walkthrough,HUMAN,1,3,0.3333333333333333
+creativity_0043,writing_fiction,project_example,AI,2,3,0.6666666666666666
+creativity_0043,writing_fiction,project_example,HUMAN,1,3,0.3333333333333333
+creativity_0043,writing_fiction,walkthrough,AI,2,2,1.0
+creativity_0044,web_content,walkthrough,AI,2,2,1.0
+creativity_0045,writing_fiction,dynamic,HUMAN,2,2,1.0
+creativity_0045,writing_fiction,project_example,AI,1,1,1.0
+creativity_0045,writing_fiction,walkthrough,AI,3,4,0.75
+creativity_0045,writing_fiction,walkthrough,HUMAN,1,4,0.25
+creativity_0046,photo,basic_job_description,AI,1,1,1.0
+creativity_0046,photo,dynamic,AI,1,1,1.0
+creativity_0046,photo,project_example,AI,2,4,0.5
+creativity_0046,photo,project_example,HUMAN,2,4,0.5
+creativity_0046,photo,walkthrough,AI,2,2,1.0
+creativity_0047,writing_fiction,walkthrough,AI,1,1,1.0
+creativity_0048,writing_fiction,basic_job_description,AI,1,1,1.0
+creativity_0048,writing_fiction,dynamic,AI,1,2,0.5
+creativity_0048,writing_fiction,dynamic,HUMAN,1,2,0.5
+creativity_0048,writing_fiction,project_example,AI,1,2,0.5
+creativity_0048,writing_fiction,project_example,HUMAN,1,2,0.5
+creativity_0048,writing_fiction,walkthrough,AI,3,5,0.6
+creativity_0048,writing_fiction,walkthrough,HUMAN,2,5,0.4
+creativity_0049,music,dynamic,HUMAN,1,1,1.0
+creativity_0049,music,walkthrough,AI,3,3,1.0
+creativity_0050,film_video,dynamic,AI,1,2,0.5
+creativity_0050,film_video,dynamic,HUMAN,1,2,0.5
+creativity_0050,film_video,project_example,HUMAN,1,1,1.0
+creativity_0050,film_video,walkthrough,AI,1,3,0.3333333333333333
+creativity_0050,film_video,walkthrough,HUMAN,2,3,0.6666666666666666
+creativity_0051,screenwriting,dynamic,HUMAN,1,1,1.0
+creativity_0051,screenwriting,project_example,AI,2,4,0.5
+creativity_0051,screenwriting,project_example,HUMAN,2,4,0.5
+creativity_0051,screenwriting,walkthrough,AI,1,1,1.0
+creativity_0052,music,project_example,AI,1,1,1.0
+creativity_0052,music,walkthrough,HUMAN,2,2,1.0
+creativity_0053,screenwriting,dynamic,HUMAN,1,1,1.0
+creativity_0053,screenwriting,project_example,AI,2,2,1.0
+creativity_0053,screenwriting,walkthrough,HUMAN,2,2,1.0
+creativity_0054,film_video,walkthrough,AI,2,2,1.0
+creativity_0055,design,dynamic,AI,1,2,0.5
+creativity_0055,design,dynamic,HUMAN,1,2,0.5
+creativity_0055,design,project_example,AI,3,5,0.6
+creativity_0055,design,project_example,HUMAN,2,5,0.4
+creativity_0055,design,walkthrough,AI,3,5,0.6
+creativity_0055,design,walkthrough,HUMAN,2,5,0.4
+creativity_0056,web_content,dynamic,HUMAN,1,1,1.0
+creativity_0056,web_content,project_example,AI,1,1,1.0
+creativity_0056,web_content,walkthrough,AI,3,3,1.0
+creativity_0057,,basic_job_description,HUMAN,1,1,1.0
+creativity_0057,,project_example,HUMAN,3,3,1.0
+creativity_0057,,walkthrough,AI,2,3,0.6666666666666666
+creativity_0057,,walkthrough,HUMAN,1,3,0.3333333333333333
+creativity_0058,writing_fiction,dynamic,AI,2,5,0.4
+creativity_0058,writing_fiction,dynamic,HUMAN,3,5,0.6
+creativity_0058,writing_fiction,walkthrough,AI,3,11,0.2727272727272727
+creativity_0058,writing_fiction,walkthrough,HUMAN,8,11,0.7272727272727273
+creativity_0059,screenwriting,basic_job_description,HUMAN,1,1,1.0
+creativity_0059,screenwriting,project_example,AI,1,1,1.0
+creativity_0059,screenwriting,walkthrough,AI,1,2,0.5
+creativity_0059,screenwriting,walkthrough,HUMAN,1,2,0.5
+creativity_0060,screenwriting,basic_job_description,HUMAN,1,1,1.0
+creativity_0060,screenwriting,dynamic,AI,1,4,0.25
+creativity_0060,screenwriting,dynamic,HUMAN,3,4,0.75
+creativity_0060,screenwriting,project_example,AI,1,1,1.0
+creativity_0060,screenwriting,walkthrough,AI,1,1,1.0
+creativity_0061,design,dynamic,HUMAN,5,5,1.0
+creativity_0061,design,project_example,HUMAN,2,2,1.0
+creativity_0061,design,walkthrough,AI,2,2,1.0
+creativity_0062,film_video,dynamic,AI,1,1,1.0
+creativity_0062,film_video,walkthrough,AI,2,2,1.0
+creativity_0063,writing_misc,dynamic,HUMAN,2,2,1.0
+creativity_0063,writing_misc,project_example,AI,1,1,1.0
+creativity_0063,writing_misc,walkthrough,AI,6,6,1.0
+creativity_0064,writing_misc,dynamic,AI,1,1,1.0
+creativity_0064,writing_misc,walkthrough,AI,2,3,0.6666666666666666
+creativity_0064,writing_misc,walkthrough,HUMAN,1,3,0.3333333333333333
+creativity_0065,,dynamic,HUMAN,1,1,1.0
+creativity_0065,,project_example,AI,1,1,1.0
+creativity_0065,,walkthrough,AI,2,2,1.0
+creativity_0066,screenwriting,basic_job_description,AI,1,1,1.0
+creativity_0066,screenwriting,project_example,AI,1,3,0.3333333333333333
+creativity_0066,screenwriting,project_example,HUMAN,2,3,0.6666666666666666
+creativity_0066,screenwriting,walkthrough,AI,1,2,0.5
+creativity_0066,screenwriting,walkthrough,HUMAN,1,2,0.5
+creativity_0067,music,walkthrough,HUMAN,1,1,1.0
+creativity_0068,writing_misc,basic_job_description,AI,1,1,1.0
+creativity_0068,writing_misc,dynamic,HUMAN,2,2,1.0
+creativity_0068,writing_misc,project_example,AI,1,3,0.3333333333333333
+creativity_0068,writing_misc,project_example,HUMAN,2,3,0.6666666666666666
+creativity_0069,web_content,dynamic,HUMAN,2,2,1.0
+creativity_0069,web_content,project_example,AI,2,2,1.0
+creativity_0069,web_content,walkthrough,AI,2,2,1.0
+creativity_0070,screenwriting,dynamic,AI,1,1,1.0
+creativity_0070,screenwriting,project_example,AI,1,2,0.5
+creativity_0070,screenwriting,project_example,HUMAN,1,2,0.5
+creativity_0070,screenwriting,walkthrough,AI,2,5,0.4
+creativity_0070,screenwriting,walkthrough,HUMAN,3,5,0.6
+creativity_0071,writing_misc,basic_job_description,AI,1,1,1.0
+creativity_0071,writing_misc,dynamic,HUMAN,2,2,1.0
+creativity_0071,writing_misc,project_example,AI,1,2,0.5
+creativity_0071,writing_misc,project_example,HUMAN,1,2,0.5
+creativity_0071,writing_misc,walkthrough,AI,4,8,0.5
+creativity_0071,writing_misc,walkthrough,HUMAN,4,8,0.5
+creativity_0072,film_video,dynamic,AI,2,3,0.6666666666666666
+creativity_0072,film_video,dynamic,HUMAN,1,3,0.3333333333333333
+creativity_0072,film_video,walkthrough,AI,3,3,1.0
+creativity_0073,writing_misc,basic_job_description,HUMAN,1,1,1.0
+creativity_0073,writing_misc,project_example,AI,2,2,1.0
+creativity_0073,writing_misc,walkthrough,AI,6,6,1.0
+creativity_0074,music,walkthrough,AI,4,4,1.0
+creativity_0075,web_content,dynamic,AI,2,4,0.5
+creativity_0075,web_content,dynamic,HUMAN,2,4,0.5
+creativity_0076,music,dynamic,HUMAN,1,1,1.0
+creativity_0076,music,walkthrough,AI,1,1,1.0
+creativity_0077,design,basic_job_description,AI,1,1,1.0
+creativity_0077,design,dynamic,AI,2,3,0.6666666666666666
+creativity_0077,design,dynamic,HUMAN,1,3,0.3333333333333333
+creativity_0077,design,project_example,AI,1,2,0.5
+creativity_0077,design,project_example,HUMAN,1,2,0.5
+creativity_0077,design,walkthrough,AI,3,4,0.75
+creativity_0077,design,walkthrough,HUMAN,1,4,0.25
+creativity_0078,arts_crafts,project_example,AI,3,3,1.0
+creativity_0078,arts_crafts,walkthrough,AI,8,9,0.8888888888888888
+creativity_0078,arts_crafts,walkthrough,HUMAN,1,9,0.1111111111111111
+creativity_0079,design,dynamic,HUMAN,1,1,1.0
+creativity_0079,design,project_example,AI,2,3,0.6666666666666666
+creativity_0079,design,project_example,HUMAN,1,3,0.3333333333333333
+creativity_0079,design,walkthrough,AI,1,1,1.0
+creativity_0080,writing_misc,basic_job_description,AI,3,3,1.0
+creativity_0080,writing_misc,dynamic,HUMAN,1,1,1.0
+creativity_0080,writing_misc,project_example,HUMAN,2,2,1.0
+creativity_0081,writing_misc,dynamic,AI,1,1,1.0
+creativity_0081,writing_misc,project_example,AI,1,2,0.5
+creativity_0081,writing_misc,project_example,HUMAN,1,2,0.5
+creativity_0081,writing_misc,walkthrough,AI,3,3,1.0
+creativity_0082,web_content,project_example,HUMAN,1,1,1.0
+creativity_0082,web_content,walkthrough,AI,2,2,1.0
+creativity_0083,screenwriting,dynamic,AI,1,2,0.5
+creativity_0083,screenwriting,dynamic,HUMAN,1,2,0.5
+creativity_0083,screenwriting,project_example,AI,1,2,0.5
+creativity_0083,screenwriting,project_example,HUMAN,1,2,0.5
+creativity_0083,screenwriting,walkthrough,AI,3,3,1.0
+creativity_0084,writing_misc,dynamic,HUMAN,1,1,1.0
+creativity_0084,writing_misc,project_example,HUMAN,1,1,1.0
+creativity_0084,writing_misc,walkthrough,AI,4,8,0.5
+creativity_0084,writing_misc,walkthrough,HUMAN,4,8,0.5
+creativity_0085,web_content,dynamic,HUMAN,2,2,1.0
+creativity_0085,web_content,project_example,HUMAN,1,1,1.0
+creativity_0085,web_content,walkthrough,AI,2,2,1.0
+creativity_0086,screenwriting,basic_job_description,HUMAN,1,1,1.0
+creativity_0086,screenwriting,dynamic,AI,2,3,0.6666666666666666
+creativity_0086,screenwriting,dynamic,HUMAN,1,3,0.3333333333333333
+creativity_0086,screenwriting,project_example,AI,2,3,0.6666666666666666
+creativity_0086,screenwriting,project_example,HUMAN,1,3,0.3333333333333333
+creativity_0086,screenwriting,walkthrough,AI,1,1,1.0
+creativity_0087,writing_misc,dynamic,AI,2,2,1.0
+creativity_0088,writing_misc,dynamic,AI,1,2,0.5
+creativity_0088,writing_misc,dynamic,HUMAN,1,2,0.5
+creativity_0088,writing_misc,project_example,AI,1,2,0.5
+creativity_0088,writing_misc,project_example,HUMAN,1,2,0.5
+creativity_0088,writing_misc,walkthrough,AI,3,3,1.0
+creativity_0089,design,dynamic,AI,3,4,0.75
+creativity_0089,design,dynamic,HUMAN,1,4,0.25
+creativity_0089,design,project_example,AI,2,4,0.5
+creativity_0089,design,project_example,HUMAN,2,4,0.5
+creativity_0089,design,walkthrough,AI,4,7,0.5714285714285714
+creativity_0089,design,walkthrough,HUMAN,3,7,0.42857142857142855
+creativity_0090,design,dynamic,AI,1,2,0.5
+creativity_0090,design,dynamic,HUMAN,1,2,0.5
+creativity_0090,design,project_example,AI,1,2,0.5
+creativity_0090,design,project_example,HUMAN,1,2,0.5
+creativity_0090,design,walkthrough,AI,2,2,1.0
+creativity_0091,design,project_example,AI,1,2,0.5
+creativity_0091,design,project_example,HUMAN,1,2,0.5
+creativity_0091,design,walkthrough,AI,2,3,0.6666666666666666
+creativity_0091,design,walkthrough,HUMAN,1,3,0.3333333333333333
+creativity_0092,screenwriting,basic_job_description,AI,2,5,0.4
+creativity_0092,screenwriting,basic_job_description,HUMAN,3,5,0.6
+creativity_0092,screenwriting,dynamic,AI,1,1,1.0
+creativity_0092,screenwriting,project_example,AI,1,2,0.5
+creativity_0092,screenwriting,project_example,HUMAN,1,2,0.5
+creativity_0092,screenwriting,walkthrough,HUMAN,2,2,1.0
+creativity_0093,design,dynamic,HUMAN,1,1,1.0
+creativity_0093,design,project_example,AI,1,1,1.0
+creativity_0094,photo,dynamic,AI,1,2,0.5
+creativity_0094,photo,dynamic,HUMAN,1,2,0.5
+creativity_0094,photo,project_example,AI,1,1,1.0
+creativity_0094,photo,walkthrough,AI,2,2,1.0
+creativity_0095,arts_crafts,dynamic,AI,1,1,1.0
+creativity_0095,arts_crafts,project_example,HUMAN,1,1,1.0
+creativity_0096,writing_fiction,dynamic,HUMAN,1,1,1.0
+creativity_0096,writing_fiction,walkthrough,AI,4,4,1.0
+creativity_0097,web_content,dynamic,AI,1,2,0.5
+creativity_0097,web_content,dynamic,HUMAN,1,2,0.5
+creativity_0097,web_content,project_example,AI,3,3,1.0
+creativity_0097,web_content,walkthrough,AI,4,4,1.0
+creativity_0098,writing_misc,dynamic,AI,1,2,0.5
+creativity_0098,writing_misc,dynamic,HUMAN,1,2,0.5
+creativity_0098,writing_misc,project_example,HUMAN,2,2,1.0
+creativity_0098,writing_misc,walkthrough,HUMAN,2,2,1.0
+creativity_0099,design,dynamic,HUMAN,1,1,1.0
+creativity_0099,design,walkthrough,AI,1,1,1.0
+creativity_0100,,dynamic,AI,2,2,1.0
+creativity_0101,photo,basic_job_description,AI,2,2,1.0
+creativity_0101,photo,project_example,HUMAN,3,3,1.0
+creativity_0101,photo,walkthrough,AI,4,9,0.4444444444444444
+creativity_0101,photo,walkthrough,HUMAN,5,9,0.5555555555555556
+creativity_0102,writing_misc,basic_job_description,HUMAN,1,1,1.0
+creativity_0102,writing_misc,dynamic,HUMAN,1,1,1.0
+creativity_0102,writing_misc,project_example,HUMAN,1,1,1.0
+creativity_0102,writing_misc,walkthrough,AI,2,2,1.0
+creativity_0103,design,dynamic,HUMAN,1,1,1.0
+creativity_0103,design,project_example,AI,2,2,1.0
+creativity_0103,design,walkthrough,AI,1,1,1.0
+creativity_0104,writing_misc,dynamic,HUMAN,4,4,1.0
+creativity_0104,writing_misc,project_example,AI,1,1,1.0
+creativity_0104,writing_misc,walkthrough,AI,5,7,0.7142857142857143
+creativity_0104,writing_misc,walkthrough,HUMAN,2,7,0.2857142857142857
+creativity_0105,film_video,project_example,AI,2,2,1.0
+creativity_0105,film_video,walkthrough,HUMAN,1,1,1.0
+creativity_0106,screenwriting,dynamic,AI,1,1,1.0
+creativity_0106,screenwriting,project_example,AI,1,1,1.0
+creativity_0107,arts_crafts,dynamic,AI,1,1,1.0
+creativity_0107,arts_crafts,project_example,AI,1,1,1.0
+creativity_0107,arts_crafts,walkthrough,AI,2,4,0.5
+creativity_0107,arts_crafts,walkthrough,HUMAN,2,4,0.5
+creativity_0108,music,dynamic,HUMAN,2,2,1.0
+creativity_0108,music,project_example,AI,1,3,0.3333333333333333
+creativity_0108,music,project_example,HUMAN,2,3,0.6666666666666666
+creativity_0108,music,walkthrough,AI,1,2,0.5
+creativity_0108,music,walkthrough,HUMAN,1,2,0.5
+creativity_0109,design,dynamic,HUMAN,1,1,1.0
+creativity_0109,design,walkthrough,AI,2,2,1.0
+creativity_0110,design,dynamic,AI,1,1,1.0
+creativity_0110,design,project_example,AI,1,1,1.0
+creativity_0110,design,walkthrough,AI,3,6,0.5
+creativity_0110,design,walkthrough,HUMAN,3,6,0.5
+creativity_0111,web_content,dynamic,AI,1,1,1.0
+creativity_0111,web_content,project_example,HUMAN,1,1,1.0
+creativity_0111,web_content,walkthrough,AI,2,2,1.0
+creativity_0112,arts_crafts,dynamic,AI,1,2,0.5
+creativity_0112,arts_crafts,dynamic,HUMAN,1,2,0.5
+creativity_0113,film_video,basic_job_description,HUMAN,1,1,1.0
+creativity_0113,film_video,dynamic,HUMAN,1,1,1.0
+creativity_0113,film_video,walkthrough,AI,4,5,0.8
+creativity_0113,film_video,walkthrough,HUMAN,1,5,0.2
+creativity_0114,film_video,dynamic,HUMAN,1,1,1.0
+creativity_0114,film_video,project_example,AI,1,2,0.5
+creativity_0114,film_video,project_example,HUMAN,1,2,0.5
+creativity_0114,film_video,walkthrough,AI,3,3,1.0
+creativity_0115,design,basic_job_description,HUMAN,1,1,1.0
+creativity_0115,design,dynamic,AI,1,3,0.3333333333333333
+creativity_0115,design,dynamic,HUMAN,2,3,0.6666666666666666
+creativity_0115,design,project_example,HUMAN,1,1,1.0
+creativity_0116,,dynamic,AI,1,2,0.5
+creativity_0116,,dynamic,HUMAN,1,2,0.5
+creativity_0116,,project_example,AI,1,1,1.0
+creativity_0116,,walkthrough,AI,2,3,0.6666666666666666
+creativity_0116,,walkthrough,HUMAN,1,3,0.3333333333333333
+creativity_0117,design,dynamic,AI,3,3,1.0
+creativity_0117,design,project_example,HUMAN,1,1,1.0
+creativity_0117,design,walkthrough,AI,3,3,1.0
+creativity_0118,writing_misc,project_example,AI,1,1,1.0
+creativity_0118,writing_misc,walkthrough,AI,2,2,1.0
+creativity_0119,music,dynamic,HUMAN,1,1,1.0
+creativity_0119,music,walkthrough,AI,5,5,1.0
+creativity_0120,arts_crafts,project_example,AI,1,1,1.0
+creativity_0120,arts_crafts,walkthrough,AI,2,2,1.0
+creativity_0121,writing_fiction,basic_job_description,HUMAN,2,2,1.0
+creativity_0121,writing_fiction,dynamic,AI,1,2,0.5
+creativity_0121,writing_fiction,dynamic,HUMAN,1,2,0.5
+creativity_0121,writing_fiction,project_example,AI,1,1,1.0
+creativity_0121,writing_fiction,walkthrough,AI,3,9,0.3333333333333333
+creativity_0121,writing_fiction,walkthrough,HUMAN,6,9,0.6666666666666666
+creativity_0122,writing_misc,dynamic,HUMAN,1,1,1.0
+creativity_0122,writing_misc,project_example,AI,1,1,1.0
+creativity_0122,writing_misc,walkthrough,AI,4,5,0.8
+creativity_0122,writing_misc,walkthrough,HUMAN,1,5,0.2
+creativity_0123,arts_crafts,dynamic,AI,1,2,0.5
+creativity_0123,arts_crafts,dynamic,HUMAN,1,2,0.5
+creativity_0123,arts_crafts,project_example,AI,5,5,1.0
+creativity_0123,arts_crafts,walkthrough,AI,3,4,0.75
+creativity_0123,arts_crafts,walkthrough,HUMAN,1,4,0.25
+creativity_0124,arts_crafts,walkthrough,AI,2,2,1.0

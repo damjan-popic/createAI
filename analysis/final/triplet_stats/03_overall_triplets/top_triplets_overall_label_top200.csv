@@ -1,0 +1,135 @@
+agent_binary,triplet_sig,count
+AI,I :: use :: AI,126
+AI,I :: use :: it,65
+AI,I :: use :: tool,20
+AI,I :: reach :: ,13
+AI,I :: ask :: AI,12
+AI,I :: like ::  → use,10
+AI,I :: use :: model,9
+AI,AI :: give :: I,6
+AI,I :: tell :: AI,6
+AI,model :: give :: I,6
+AI,I :: ask :: it,5
+AI,I :: find :: myself → use,5
+AI,I :: talk :: ,5
+AI,I :: try ::  → use,5
+AI,I :: turn :: ,5
+AI,I :: use :: ChatGPT,5
+AI,AI :: help :: I,4
+AI,I :: ask :: it → generate,4
+AI,I :: ask :: model,4
+AI,I :: find :: AI,4
+AI,I :: give :: it,4
+AI,I :: have :: conversation,4
+AI,I :: rely :: ,4
+AI,I :: tell :: it,4
+AI,I :: use :: AI → generate,4
+AI,I :: use :: AI → help,4
+AI,I :: use :: they,4
+AI,AI :: use :: AI,3
+AI,I :: ask :: AI → help,3
+AI,I :: ask :: AI → provide,3
+AI,I :: bounce :: idea,3
+AI,I :: give :: model,3
+AI,I :: run :: it,3
+AI,I :: use :: Ai,3
+AI,model :: do :: job,3
+AI,we :: use :: AI,3
+AI,AI :: give :: idea,2
+AI,AI :: give :: suggestion,2
+AI,AI :: have :: difficulty,2
+AI,I :: approach :: AI,2
+AI,I :: ask :: AI → make,2
+AI,I :: ask :: how,2
+AI,I :: ask :: it → create,2
+AI,I :: feed :: article,2
+AI,I :: find ::  → use,2
+AI,I :: find :: myself → ask,2
+AI,I :: find :: myself → reach,2
+AI,I :: get :: AI,2
+AI,I :: give :: AI,2
+AI,I :: have :: AI → do,2
+AI,I :: lean :: ,2
+AI,I :: provide :: it,2
+AI,I :: realize ::  → move,2
+AI,I :: start ::  → use,2
+AI,I :: tell :: what,2
+AI,I :: tend ::  → use,2
+AI,I :: try :: model,2
+AI,I :: use :: AI → brainstorm,2
+AI,I :: use :: answer,2
+AI,I :: use :: chatgpt,2
+AI,I :: use :: it → generate,2
+AI,I :: use :: most,2
+AI,I :: use :: much,2
+AI,I :: use :: response,2
+AI,I :: utilize :: AI,2
+AI,I :: want :: AI → help,2
+HUMAN,I :: think :: ,41
+HUMAN,I :: drive :: decision,27
+HUMAN,I :: come :: ,25
+HUMAN,I :: have :: idea,19
+HUMAN,I :: get :: ,9
+HUMAN,I :: do :: this,7
+HUMAN,I :: have ::  → do,7
+HUMAN,I :: need :: help,7
+HUMAN,I :: use :: that,7
+HUMAN,I :: want :: it,7
+HUMAN,I :: think :: that,6
+HUMAN,I :: describe :: it,5
+HUMAN,I :: find :: it,5
+HUMAN,I :: make :: decision,5
+HUMAN,I :: write :: that,5
+HUMAN,I :: give :: idea,4
+HUMAN,I :: need :: it,4
+HUMAN,I :: prefer ::  → do,4
+HUMAN,I :: tend ::  → write,4
+HUMAN,I :: think ::  → help,4
+HUMAN,I :: use :: program,4
+HUMAN,I :: want ::  → make,4
+HUMAN,I :: ask :: question,3
+HUMAN,I :: create :: kit,3
+HUMAN,I :: do :: research,3
+HUMAN,I :: feel ::  → overwhelm,3
+HUMAN,I :: get :: idea,3
+HUMAN,I :: need ::  → do,3
+HUMAN,I :: need ::  → figure,3
+HUMAN,I :: use :: idea,3
+HUMAN,I :: want ::  → change,3
+HUMAN,I :: want ::  → go,3
+HUMAN,I :: want ::  → include,3
+HUMAN,I :: want ::  → see,3
+HUMAN,I :: write :: lot,3
+HUMAN,I :: catch :: hallucination,2
+HUMAN,I :: change :: word,2
+HUMAN,I :: consider :: that,2
+HUMAN,I :: create :: video,2
+HUMAN,I :: decide ::  → need,2
+HUMAN,I :: drive :: collaboration,2
+HUMAN,I :: get :: image,2
+HUMAN,I :: get :: what,2
+HUMAN,I :: give :: example,2
+HUMAN,I :: have ::  → make,2
+HUMAN,I :: have :: background,2
+HUMAN,I :: have :: knowledge,2
+HUMAN,I :: know :: how,2
+HUMAN,I :: lead :: process,2
+HUMAN,I :: make :: that,2
+HUMAN,I :: need ::  → add,2
+HUMAN,I :: need ::  → make,2
+HUMAN,I :: need ::  → understand,2
+HUMAN,I :: need ::  → write,2
+HUMAN,I :: plan ::  → use,2
+HUMAN,I :: produce :: book,2
+HUMAN,I :: receive :: info,2
+HUMAN,I :: spend :: amount,2
+HUMAN,I :: struggle ::  → come,2
+HUMAN,I :: take :: idea,2
+HUMAN,I :: use :: image,2
+HUMAN,I :: want ::  → find,2
+HUMAN,I :: want ::  → give,2
+HUMAN,I :: want ::  → paint,2
+HUMAN,I :: want ::  → produce,2
+HUMAN,I :: want ::  → take,2
+HUMAN,I :: want ::  → use,2
+HUMAN,I :: write :: scene,2
